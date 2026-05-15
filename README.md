@@ -1,4 +1,3 @@
-# consultoria-agaveno-burgers
 Núcleo documental y operativo del proyecto.
 # 🧩 Proyecto de Consultoría Colaborativa Integral  
 ## 🍔 El Agaveño Burgers
