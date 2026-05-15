@@ -1,6 +1,4 @@
-Núcleo documental y operativo del proyecto.
-# 🧩 Proyecto de Consultoría Colaborativa Integral  
-## 🍔 El Agaveño Burgers
+Núcleo documental y operativo del proyectode Consultoría Colaborativa Integral- Clente: El Agaveño Burgers
 
 ### 📑 Carta de Acuerdo
 Este proyecto se desarrolla bajo un marco de colaboración consultiva integral entre el equipo de consultoría y El Agaveño Burgers.  
