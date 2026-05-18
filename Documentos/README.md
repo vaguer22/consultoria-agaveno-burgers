@@ -41,12 +41,3 @@ La carpeta `/Docs` centraliza los **documentos fundacionales** del proyecto **CC
 | AAAA-MM-DD | `add/mapa-emotivo` | Integración del Mapa Emotivo como recurso narrativo y cultural. | Equipo consultor |
 
 *(Este historial es editable y debe actualizarse conforme se agreguen o modifiquen documentos en la carpeta.)*
-
----
-
-## 💡 Recomendación de uso
-- Mantener esta carpeta como **fuente raíz documental** en la Fase I – Inicio/Inducción.  
-- Actualizar el historial de commits con cada incorporación o ajuste.  
-- Usar este README como **portada ejecutiva** de la carpeta, asegurando claridad y trazabilidad.
-
----
