@@ -1,4 +1,3 @@
-
 # 📝 Sesión de apertura Primer acercamiento 
 (Duración: 30-45 minutos)
 ## 🎯 Proposito
@@ -23,10 +22,10 @@ Construir confianza, escuchar activamente y generar inferencias, hipótesis y co
 
  # 📜 Guion minuto a minuto Propuesta tecnica (narrativa estratégica con temas relevantes y recomendados) 
  (Duracion total: 90 minutos)
- ## 🎬 Guion narrativo — Fase 1 “¡SORPRENDO!”
+ ## 🎬 Guion narrativo — Sesión 1 “¡SORPRENDO!”
  (Duración: 7 minutos ≈ 7 %)
  ## 🎯 Proposito
- La **Fase 1 – Introducción “¡Sorprendo!”** debe funcionar como un discurso de apertura ágil‑misterioso, que sitúe a la organización dentro del contexto de los cisnes negros: eventos inesperados, disruptivos y de alto impacto que redefinen la forma de planificar y operar
+ La **Sesión 1 – Introducción “¡Sorprendo!”** debe funcionar como un discurso de apertura ágil‑misterioso, que sitúe a la organización dentro del contexto de los cisnes negros: eventos inesperados, disruptivos y de alto impacto que redefinen la forma de planificar y operar
 
 | Minuto | Acción del consultor | Contenido narrativo | Técnica / tono | Resultado esperado |
 | --- | --- | --- | --- | --- |
@@ -43,7 +42,7 @@ Construir confianza, escuchar activamente y generar inferencias, hipótesis y co
 1. **Contraste inicial (Sparklines):** del mundo ordinario al mundo de cisnes negros.  
 2. **Metáforas heurísticas:** cada referencia funciona como un espejo de conciencia organizacional.  
 3. **Transición emocional:** del asombro al propósito.  
-4. **Puente hacia la Fase 2:** “Si el mundo cambió, ¿cómo cambiamos nosotros?” — frase de cierre que abre la Narración “¡Pongo en contexto!”.
+4. **Puente hacia la Sesión 2:** “Si el mundo cambió, ¿cómo cambiamos nosotros?” — frase de cierre que abre la Narración “¡Pongo en contexto!”.
 
 ---
 
@@ -54,10 +53,10 @@ Construir confianza, escuchar activamente y generar inferencias, hipótesis y co
 
 ---
 
-# 🎬 Guion narrativo — Fase 2 “¡Pongo en contexto!” 
+# 🎬 Guion narrativo — Sesión 2 “¡Pongo en contexto!” 
 (Duración: 16 minutos ≈ 16 %)
 ## 🎯 Proposito
-La **Fase 2 – Narración “¡Pongo en contexto!”** debe funcionar como el puente reflexivo entre el asombro inicial del mundo de los cisnes negros (Fase 1) y la comprensión estructurada de cómo las organizaciones pueden responder desde su interior. Aquí la técnica Convergencia de Ideas se usa para unir distintas líneas de pensamiento —liderazgo, motivación, estructura y espiritualidad organizacional— en una sola visión coherente.
+La **Sesión 2 – Narración “¡Pongo en contexto!”** debe funcionar como el puente reflexivo entre el asombro inicial del mundo de los cisnes negros (Fase 1) y la comprensión estructurada de cómo las organizaciones pueden responder desde su interior. Aquí la técnica Convergencia de Ideas se usa para unir distintas líneas de pensamiento —liderazgo, motivación, estructura y espiritualidad organizacional— en una sola visión coherente.
 
 | Minuto | Acción del consultor | Contenido narrativo | Técnica / tono | Resultado esperado |
 |--------|----------------------|---------------------|----------------|--------------------|
@@ -77,7 +76,7 @@ La **Fase 2 – Narración “¡Pongo en contexto!”** debe funcionar com
 1. **De la incertidumbre al sentido:** se parte del caos global y se aterriza en la necesidad de estructuras flexibles.  
 2. **Convergencia de Ideas:** se integran modelos racionales (Lewin, Maslow) y simbólicos (Cábala) para mostrar que la gestión moderna requiere pensamiento dual.  
 3. **Transición emocional:** del entendimiento intelectual al compromiso práctico.  
-4. **Puente hacia la Fase 3:** “Ahora que comprendemos el contexto, veamos los datos que sustentan nuestra propuesta.”
+4. **Puente hacia la Sesión 3:** “Ahora que comprendemos el contexto, veamos los datos que sustentan nuestra propuesta.”
 
 ---
 
@@ -88,14 +87,14 @@ La **Fase 2 – Narración “¡Pongo en contexto!”** debe funcionar com
 
 ---
 
-# 🎬 Guion narrativo — Fase 3 “¡Argumento con datos duros!” 
+# 🎬 Guion narrativo — Sesión 3 “¡Argumento con datos duros!” 
 (Duración: 40 minutos ≈ 70 %)
 ## 🎯 Proposito
-La **Fase 3 – “Carga de la prueba”** es el momento donde la narrativa se vuelve **argumentativa y demostrativa**: se pasa del contexto conceptual (Fase 2) a la evidencia empírica y técnica que sustenta la propuesta. Aquí el tono debe ser **serio‑formal y ágil‑energético**, combinando datos duros con una estructura lógica que muestre solvencia y credibilidad.  
+La **Sesión 3 – “Carga de la prueba”** es el momento donde la narrativa se vuelve **argumentativa y demostrativa**: se pasa del contexto conceptual (Fase 2) a la evidencia empírica y técnica que sustenta la propuesta. Aquí el tono debe ser **serio‑formal y ágil‑energético**, combinando datos duros con una estructura lógica que muestre solvencia y credibilidad.  
 
 | Minuto | Acción del consultor | Contenido narrativo | Técnica / tono | Resultado esperado |
 |--------|----------------------|---------------------|----------------|--------------------|
-| **0:00–2:00** | Apertura de transición desde la Fase 2. | “Después de comprender el contexto y las fuerzas que moldean el cambio, ahora veamos los datos que lo confirman.” | Seria‑formal / tono claro. | Preparar la audiencia para el análisis técnico. |
+| **0:00–2:00** | Apertura de transición desde la Sesión 2. | “Después de comprender el contexto y las fuerzas que moldean el cambio, ahora veamos los datos que lo confirman.” | Seria‑formal / tono claro. | Preparar la audiencia para el análisis técnico. |
 | **2:00–6:00** | Presentar la **descripción del sector QSR** (Quick Service Restaurant). | Mostrar cifras de crecimiento, tendencias de consumo, retos de eficiencia y digitalización. Ejemplo: “El sector QSR crece X % anual, pero enfrenta una caída del Y % en satisfacción del cliente.” | Ágil‑energética / tono informativo. | Contextualizar la propuesta dentro del mercado real. |
 | **6:00–10:00** | Exponer la **competencia internacional y local**. | Comparar prácticas de innovación y servicio entre referentes globales y locales. “Las marcas líderes ya integran Lean Thinking y experiencia cliente 360°.” | Lenta‑sorpresa / tono analítico. | Mostrar brecha competitiva y oportunidad de mejora. |
 | **10:00–15:00** | Revisar la **normatividad y estándares de calidad**. | Explicar cómo ISO 9001:2015, BPM y HACCP impactan la operación. “Cumplir normas no es burocracia; es blindaje reputacional.” | Seria‑formal / tono técnico. | Reforzar credibilidad y alineación regulatoria. |
@@ -115,7 +114,7 @@ El detalle del plan de trabajo se presentará mediante una herramienta visual de
 |--------------|--------------------|---------------------|--------------|-----------|
 | 30:00–35:00  | Mostrar indicadores de éxito y métricas. | KPI operativos (tiempo de servicio, merma, rotación de personal), KPI emocionales (satisfacción cliente, clima laboral). | Seria‑formal / tono analítico. | Evidenciar cómo se medirá el impacto. |
 | 35:00–38:00  | Integrar hallazgos del nivel 3 (propósito) con los datos. | “Estos números no solo miden eficiencia; reflejan la energía y propósito que la organización quiere proyectar.” | Lenta‑sorpresa / tono reflexivo. | Conectar evidencia con identidad organizacional. |
-| 38:00–40:00  | Cierre de la fase. | Frase de transición: “Los datos confirman que el cambio no es una apuesta, sino una necesidad estratégica.” | Fuerte‑intenso / tono convincente. | Consolidar credibilidad y preparar el paso a la Fase 4. |
+| 38:00–40:00  | Cierre de la fase. | Frase de transición: “Los datos confirman que el cambio no es una apuesta, sino una necesidad estratégica.” | Fuerte‑intenso / tono convincente. | Consolidar credibilidad y preparar el paso a la Sesión 4. |
 
 
 ---
@@ -124,7 +123,7 @@ El detalle del plan de trabajo se presentará mediante una herramienta visual de
 1. **Del contexto a la evidencia:** se pasa de la comprensión del entorno (Fase 2) a la demostración empírica.  
 2. **Datos como argumento:** cada cifra se convierte en prueba de la necesidad y viabilidad del cambio.  
 3. **Integración emocional:** los indicadores se vinculan con el propósito organizacional (nivel 3).  
-4. **Puente hacia la Fase 4:** “Ahora que los datos hablan, veamos cómo se traducen en compromisos y tareas concretas.”
+4. **Puente hacia la Sesión 4:** “Ahora que los datos hablan, veamos cómo se traducen en compromisos y tareas concretas.”
 
 ---
 
@@ -135,10 +134,10 @@ El detalle del plan de trabajo se presentará mediante una herramienta visual de
 
 ---
 
-## 🎬 Guion narrativo — Fase 4 “¡Reflexiono y dejo tarea!” 
+## 🎬 Guion narrativo — Sesión 4 “¡Reflexiono y dejo tarea!” 
 (Duración: 7 minutos ≈ 7 %)
 ## 🎯 Proposito
-La **Fase 4 – “¡Reflexiono y dejo tarea!”** es el cierre emocional y estratégico del proceso consultivo. Aquí se **conectan los hallazgos del nivel 3 (energético‑existencial)** con los compromisos operativos y la formalización del acuerdo. El tono debe transitar de **profundo‑misterioso** (reflexión) a **ligero‑alegre** (tareas) y culminar **fuerte‑intenso** (frase de pensamiento).  
+La **Sesión 4 – “¡Reflexiono y dejo tarea!”** es el cierre emocional y estratégico del proceso consultivo. Aquí se **conectan los hallazgos del nivel 3 (energético‑existencial)** con los compromisos operativos y la formalización del acuerdo. El tono debe transitar de **profundo‑misterioso** (reflexión) a **ligero‑alegre** (tareas) y culminar **fuerte‑intenso** (frase de pensamiento).  
 
 | Minuto | Acción del consultor | Contenido narrativo | Técnica / tono | Resultado esperado |
 |--------|----------------------|---------------------|----------------|--------------------|
