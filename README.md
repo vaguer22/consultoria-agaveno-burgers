@@ -1,10 +1,3 @@
-Perfecto, adrian 🌟  
-Veo que el repositorio **consultoria-agaveno-burgers** ya tiene una estructura muy bien organizada con carpetas para *Assets, Documentos, Estándares, Feedback, Contracts, Reports* y *Roadmap*. El README general debe funcionar como **portada ejecutiva y guía de navegación** del proyecto, integrando propósito, alcance, estructura y trazabilidad de los entregables.
-
-Aquí tienes una versión lista para copiar y pegar en el archivo raíz `README.md`:
-
----
-
 ## 🧩 Consultoría Agaveño Burgers  
 **Proyecto colaborativo integral enfocado en eficiencia operativa y mejora continua.**
 
