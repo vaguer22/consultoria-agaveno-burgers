@@ -7,6 +7,7 @@ El objetivo es consolidar un sistema de gestión ágil, medible y replicable en 
 
 ### 🏗️ Alcance  
 El proyecto abarca las siguientes fases:
+1. **Primer acercamiento** - Apertura
 1. **Diagnóstico inicial** – levantamiento de procesos, indicadores y puntos críticos.  
 2. **Diseño operativo** – definición de estándares, flujos y roles.  
 3. **Implementación** – despliegue de herramientas y capacitación.  
