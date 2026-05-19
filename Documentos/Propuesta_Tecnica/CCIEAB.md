@@ -106,7 +106,7 @@ La **Fase 3 – “Carga de la prueba”** es el momento donde la narrativa se
 📝 **Nota previa al plan de trabajo (blueprint):**  
 El detalle del plan de trabajo se presentará mediante una herramienta visual denominada *blueprint*. Este recurso representa de manera esquemática los procesos, interacciones y experiencias de un servicio o proyecto, con el propósito de mejorar la experiencia del cliente y optimizar la gestión interna. La explicación se apoyará en este esquema para facilitar la comprensión y la toma de decisiones.
 
-👉 El *blueprint* se muestra en un archivo independiente a este `CCIEAB.md`, preparado en formato de presentación (`Blueprint_CCIEAB.ppt`) con recursos visuales y efectos dinámicos tipo Prezi para ilustrar gráficamente los flujos y relaciones entre fases.
+👉 El blueprint se presenta en el archivo Blueprint_CCIEAB.md, donde se expone de manera esquemática la estructura y los procesos clave del proyecto.
 
 ### Detallar el plan de trabajo (blueprint)  
 *(Aquí continúa el desarrollo del plan con el esquema visual modular que ya definimos.)*
