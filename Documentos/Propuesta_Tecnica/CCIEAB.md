@@ -104,7 +104,9 @@ La **Fase 3 – “Carga de la prueba”** es el momento donde la narrativa se
 | **25:00–30:00** | Detallar el **plan de trabajo (blueprint)**. | Presentar cronograma 30/90/180 días con hitos: diagnóstico, implementación, evaluación. “Cada fase tiene entregables verificables y métricas de éxito.” | Ágil‑energética / tono preciso. | Visualizar ruta de acción y control de resultados. |
 
 📝 **Nota previa al plan de trabajo (blueprint):**  
-En este punto se señalará que el detalle del plan de trabajo se presentará mediante una herramienta visual denominada *blueprint*. Este recurso representa de manera esquemática los procesos, interacciones y experiencias de un servicio o proyecto, con el propósito de mejorar la experiencia del cliente y optimizar la gestión interna. La explicación se apoyará en este esquema para facilitar la comprensión y la toma de decisiones.
+El detalle del plan de trabajo se presentará mediante una herramienta visual denominada *blueprint*. Este recurso representa de manera esquemática los procesos, interacciones y experiencias de un servicio o proyecto, con el propósito de mejorar la experiencia del cliente y optimizar la gestión interna. La explicación se apoyará en este esquema para facilitar la comprensión y la toma de decisiones.
+
+👉 El *blueprint* se muestra en un archivo independiente a este `CCIEAB.md`, preparado en formato de presentación (`Blueprint_CCIEAB.ppt`) con recursos visuales y efectos dinámicos tipo Prezi para ilustrar gráficamente los flujos y relaciones entre fases.
 
 ### Detallar el plan de trabajo (blueprint)  
 *(Aquí continúa el desarrollo del plan con el esquema visual modular que ya definimos.)*
