@@ -1,17 +1,28 @@
-## 🧩 Consultoría Agaveño Burgers  
+# 🧩 Consultoría Agaveño Burgers  
 **Proyecto colaborativo integral enfocado en eficiencia operativa y mejora continua.**
 
-### 🎯 Propósito  
+## 🎯 Propósito  
 Este repositorio documenta el desarrollo del modelo consultivo para **El Agaveño Burgers**, orientado a optimizar procesos, estandarizar prácticas y fortalecer la cultura de mejora continua.  
 El objetivo es consolidar un sistema de gestión ágil, medible y replicable en entornos de servicio rápido (QSR).
 
-### 🏗️ Alcance  
-El proyecto abarca las siguientes fases:
-1. **Primer acercamiento** - Apertura
-1. **Diagnóstico inicial** – levantamiento de procesos, indicadores y puntos críticos.  
-2. **Diseño operativo** – definición de estándares, flujos y roles.  
-3. **Implementación** – despliegue de herramientas y capacitación.  
-4. **Evaluación y mejora** – seguimiento de métricas y retroalimentación continua.
+## 🏗️ Alcance  
+El proyecto abarca las siguientes sesiones:
+
+### 1ra. Sesión: Apertura (primer acercamiento con la organizacion-cliente)
+Construir confianza, escuchar activamente y generar inferencias, hipótesis y comparaciones que alimenten el prediagnóstico.
+ 
+### 2da. Sesión Introducción “¡Sorprendo!” 
+Debe de funcionar como un discurso de apertura ágil misterioso, que sitúe a la organización dentro del contexto de los cisnes negros: eventos inesperados, disruptivos y de alto impacto que redefinen la forma de planificar y operar.
+ 
+### 3ra. Sesión Narración “¡Pongo en contexto!” 
+Debe funcionar como el puente reflexivo entre el asombro inicial del mundo de los cisnes negros (Fase 1) y la comprensión estructurada de cómo las organizaciones pueden responder desde su interior. Aquí la técnica Convergencia de Ideas se usa para unir distintas líneas de pensamiento —liderazgo, motivación, estructura y espiritualidad organizacional— en una sola visión coherente.
+ 
+### 4ta. Sesión “Carga de la prueba”
+Es el momento donde la narrativa se vuelve argumentativa y demostrativa: se pasa del contexto conceptual (Fase 2) a la evidencia empírica y técnica que sustenta la propuesta. Aquí el tono debe ser serio formal y ágil energético, combinando datos duros con una estructura lógica que muestre solvencia y credibilidad.
+
+### 5ta. Sesión “¡Reflexiono y dejo tarea!” 
+Es el cierre emocional y estratégico del proceso consultivo. Aquí se conectan los hallazgos del nivel 3 (energético existencial) con los compromisos operativos y la formalización del acuerdo. El tono debe transitar de profundo misterioso (reflexión) a ligero alegre (tareas) y culminar fuerte intenso (frase de pensamiento).
+
 
 ### 📂 Estructura del repositorio
 | Carpeta | Contenido principal | Propósito |
