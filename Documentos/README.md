@@ -16,9 +16,6 @@ La carpeta `/Docs` centraliza los **documentos fundacionales** del proyecto **CC
 - **Mapa Emotivo**  
   Representación narrativa y visual del propósito del proyecto, integrando la dimensión emocional y cultural.
 
-- **README General del Proyecto**  
-  Portada ejecutiva que sintetiza la visión, objetivos y estructura modular del sistema CCIEAB.
-
 ---
 
 ## 🧭 Propósito estratégico
