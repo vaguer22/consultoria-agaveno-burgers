@@ -56,8 +56,128 @@ El proyecto abarca las siguientes fases:
 | `reports` | Informes de avance y resultados | Seguimiento de entregables |
 | `roadmap` | Plan de fases y hitos | Trazabilidad del proyecto |
 
-### 🔧 Metodología
-El enfoque combina principios de **Lean Six Sigma**, **Gestión del Cambio** y **Consultoría Integral**, integrando herramientas visuales y métricas de desempeño para garantizar la sostenibilidad del modelo.
+### 🔧 Metodología del propósito de cada carpeta en el repositorio
+El repositorio `consultoria-agaveno-burgers` está concebido como un ecosistema modular donde cada carpeta cumple un propósito metodológico específico y se conecta con las demás para asegurar coherencia, defendibilidad y sostenibilidad del proyecto: **Assets** concentra los recursos visuales y gráficos que comunican hallazgos y resultados; **Documentos** constituye la base escrita con informes, planes y SOPs que dan trazabilidad a cada fase; **Estándares** reúne manuales, protocolos y formatos oficiales que norman la intervención y garantizan uniformidad; **Feedback** centraliza la retroalimentación de cliente, consultores y personal operativo para alimentar el ciclo de mejora continua; **contracts** formaliza compromisos legales y éticos mediante cartas acuerdo, propuestas técnicas y contratos; **reports** consolida los informes de avance, resultados de pilotos y reportes finales como evidencia objetiva; y **roadmap** organiza cronogramas, diagramas de Gantt e hitos para dar trazabilidad temporal y visibilidad del progreso, de modo que en conjunto el repositorio funcione como un sistema integral que conecta compromisos, evidencias, normas, retroalimentación y resultados en una narrativa consultiva clara y sostenible.
+
+---
+
+### Metodología de soporte para presentaciones — Carpeta **Assets** (versión simple)
+
+La carpeta **Assets** reúne todos los materiales visuales que sirven de apoyo en las presentaciones del proyecto. Aquí se guardan **slides, mapas conceptuales, diagramas, dashboards, íconos y plantillas** que ayudan a comunicar de manera clara y atractiva los hallazgos y resultados de cada fase. Su propósito es que la información técnica se traduzca en recursos fáciles de entender para el cliente y el equipo, manteniendo una identidad visual coherente y práctica. Los archivos se organizan en subcarpetas según su tipo :
+| Subcarpeta | Contenido | Propósito |
+| --- | --- | --- |
+| ``/slides/`` | Presentaciones ejecutivas por fase (Inicio, Diagnóstico, Planeación, Implementación, Cierre) | Comunicación formal con el cliente |
+| ``/maps/`` | Mapas conceptuales, flujos de procesos, diagramas MEO | Visualización de relaciones y brechas |
+| ``/icons/`` | Iconografía y elementos gráficos reutilizables | Coherencia visual entre documentos |
+| ``/dashboards/`` | Gráficos de KPIs y resultados operativos | Seguimiento cuantitativo |
+| ``/templates/`` | Plantillas de PowerPoint, Canva o Markdown | Estandarización del formato visual |
+| ``/exports/`` | Versiones finales en PDF o PNG para entrega | Archivo de materiales aprobados |
+
+y se actualizan conforme avanza el proyecto. En pocas palabras, **Assets es el soporte gráfico y narrativo** que convierte los datos y documentos en presentaciones comprensibles, defendibles y útiles.  
+
+---
+
+### Metodología de soporte documental — Carpeta **Documentos** (versión simple)
+
+La carpeta **Documentos** guarda todos los archivos escritos que respaldan el proyecto: desde la carta acuerdo y el diagnóstico inicial, hasta los planes estratégicos, informes de piloto y el informe final. Su propósito es ser la **columna vertebral del repositorio**, asegurando que cada fase tenga evidencia clara y organizada. Los documentos se dividen en subcarpetas por fase:
+| Subcarpeta | Contenido | Propósito |
+| --- | --- | --- |
+| ``/inicio/`` | Carta acuerdo, propuesta técnica, contrato | Formalizar la intervención |
+| ``/diagnostico/`` | Informes de levantamiento, matrices MEO, cronometrajes, entrevistas | Evidencia de la situación actual |
+| ``/planeacion/`` | Plan estratégico, fichas de medida, roadmap, SOPs preliminares | Diseñar medidas y prioridades |
+| ``/implementacion/`` | Programa de acción, informes de piloto, SOPs validados | Documentar ejecución |
+| ``/cierre/`` | Informe final, presentación ejecutiva, acta de cierre | Formalizar conclusión y transferencia |
+| ``/templates/`` | Plantillas de entrevista, cronometraje, SOP, informe piloto | Estandarizar formatos |
+| ``/changelog.md`` | Registro de cambios y versiones | Control de modificaciones |
+
+En resumen, **Documentos es el espacio donde se centraliza la información escrita y oficial**, garantizando trazabilidad, orden y defendibilidad en todo el proceso consultivo. 
+
+---
+
+### Metodología de consolidación de buenas prácticas — Carpeta **Estándares**
+
+La carpeta **Estándares** reúne los manuales, protocolos y formatos que sirven como guía oficial del proyecto. Su propósito es consolidar las buenas prácticas y asegurar que cada fase se ejecute de manera uniforme y defendible. Los documentos se organizan en subcarpetas según su tipo:
+| Subcarpeta | Contenido | Propósito |
+| --- | --- | --- |
+| ``/manuales/`` | Manuales operativos y de capacitación | Guías prácticas para roles y procesos |
+| ``/protocolos/`` | Protocolos de actuación y gobernanza | Normas de interacción y control |
+| ``/formatos/`` | Plantillas de uso obligatorio (SOP, entrevistas, cronometrajes, informes) | Estandarizar recolección y entrega |
+| ``/visual-style.md`` | Manual de estilo visual | Identidad gráfica para presentaciones |
+| ``/changelog.md`` | Registro de cambios en estándares | Control de versiones y auditoría |
+
+En resumen, **Estándares es el espacio donde se concentran las reglas y plantillas que garantizan orden, consistencia y reproducibilidad** en todo el proceso consultivo.
+
+---
+
+### Metodología de ciclo de mejora continua — Carpeta **Feedback**
+
+La carpeta **Feedback** centraliza la retroalimentación que se recibe durante el proyecto, tanto de clientes como de consultores y personal operativo. Su propósito es transformar los comentarios en mejoras prácticas que fortalezcan cada fase y aseguren que los entregables evolucionen con calidad y pertinencia.  
+
+Los archivos se organizan en subcarpetas según el origen de la retroalimentación:
+| Subcarpeta | Contenido | Propósito |
+| --- | --- | --- |
+| ``/cliente/`` | Comentarios y evaluaciones del Sponsor y equipo directivo | Capturar visión externa |
+| ``/consultores/`` | Observaciones del equipo consultor | Documentar aprendizajes internos |
+| ``/operativos/`` | Retroalimentación de personal en campo | Validar aplicabilidad práctica |
+| ``/sintesis/`` | Informes de retroalimentación por fase | Consolidar hallazgos |
+| ``/changelog.md`` | Registro de cambios derivados de feedback | Trazabilidad de ajustes |
+
+En resumen, **Feedback es el motor de mejora continua del repositorio**, asegurando que cada fase se refine con base en la experiencia y aportes de todos los actores del proyecto.  
+
+---
+
+### Metodología de formalización de compromisos — Carpeta **contracts** 
+
+La carpeta **contracts** concentra los documentos que formalizan los acuerdos entre el equipo consultor y el cliente. Su propósito es asegurar que cada compromiso quede registrado de manera clara, legal y trazable, garantizando transparencia y seriedad en la intervención.  
+
+Los archivos se organizan en subcarpetas según el tipo de documento:
+| Subcarpeta | Contenido | Propósito |
+| --- | --- | --- |
+| ``/carta_acuerdo/`` | Carta Acuerdo inicial | Formalizar intención y alcance preliminar |
+| ``/propuesta_tecnica/`` | Propuesta técnica y económica | Definir tipo de intervención, plazos y honorarios |
+| ``/contratos/`` | Contratos de prestación de servicios | Formalizar compromisos legales |
+| ``/actas/`` | Actas de reuniones y acuerdos | Registrar decisiones y compromisos parciales |
+| ``/changelog.md`` | Registro de cambios contractuales | Control de versiones y auditoría |
+
+En resumen, **contracts es el espacio donde se consolidan las bases legales y éticas del proyecto**, asegurando que cada compromiso esté documentado y disponible como evidencia defendible en todo el proceso consultivo.  
+
+---
+
+### Metodología de seguimiento de entregables — Carpeta **reports**
+
+La carpeta **reports** reúne los informes que documentan el avance y los resultados del proyecto. Su propósito es dar trazabilidad y evidencia objetiva del cumplimiento de los compromisos establecidos, asegurando que cada fase quede registrada de manera clara y defendible.  
+
+Los archivos se organizan en subcarpetas por etapa:
+| Subcarpeta | Contenido | Propósito |
+| --- | --- | --- |
+| ``/inicio/`` | Informe de arranque y acuerdos iniciales | Evidenciar condiciones de inicio |
+| ``/diagnostico/`` | Informe diagnóstico y hallazgos | Documentar situación actual |
+| ``/planeacion/`` | Informe de planeación y roadmap | Formalizar medidas y prioridades |
+| ``/implementacion/`` | Informes de piloto y ejecución | Evidenciar resultados y ajustes |
+| ``/cierre/`` | Informe final y presentación ejecutiva | Formalizar conclusión y transferencia |
+| ``/logs/`` | Bitácoras de reuniones y actas | Registrar decisiones y avances |
+| ``/changelog.md`` | Registro de cambios en reports | Control de versiones y auditoría |
+
+En resumen, **reports es el espacio donde se consolidan los entregables escritos de cada fase**, convirtiéndose en el sistema de evidencia y comunicación del proyecto.  
+
+---
+
+### Metodología de trazabilidad del proyecto — Carpeta **roadmap**
+
+La carpeta **roadmap** organiza los cronogramas, hitos y diagramas que permiten dar seguimiento al avance del proyecto. Su propósito es asegurar que cada fase quede registrada en tiempos claros y que los entregables puedan visualizarse de manera ordenada y defendible.  
+
+Los archivos se dividen en subcarpetas según su función:
+| Subcarpeta | Contenido | Propósito |
+| --- | --- | --- |
+| ``/gantt/`` | Diagramas de Gantt por fase | Visualizar tiempos y dependencias |
+| ``/hitos/`` | Listado de hitos clave | Registrar entregables críticos |
+| ``/cronogramas/`` | Cronogramas detallados por semana/mes | Control operativo |
+| ``/visuals/`` | Mapas de ruta gráficos (PNG, SVG) | Comunicación visual |
+| ``/changelog.md`` | Registro de cambios en roadmap | Auditoría y trazabilidad |
+
+En resumen, **roadmap es el sistema de trazabilidad temporal del repositorio**, mostrando cómo se avanza en cada fase y asegurando visibilidad y control sobre los compromisos del proyecto.  
+
+---
 
 ### 🧠 Colaboración
 Este repositorio está diseñado para trabajo colaborativo entre consultores, líderes operativos y equipo de dirección.  
