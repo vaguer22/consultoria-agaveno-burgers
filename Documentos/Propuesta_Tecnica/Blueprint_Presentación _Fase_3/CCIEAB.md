@@ -3,16 +3,26 @@
 
 ---
 
-
-
-#Consejo: Para el primer acercamiento se agendara una reunion  de aproximadamente 2 horas de duracion
-- iniciar con mi proposito que es tener evidencia tangible de mis competencias y habilidades, entonces lo que quiero es generar un portafolio Donde vaya documentando mi experiencia empezando por documentar el informe del proyecto que les quiero proponer. En ese informe presentaré los logros cumplidos estructurados en:
+# ⚠️ Importante: Para el primer acercamiento se agendara una reunion  de aproximadamente 2 horas de duracion
+- iniciar con mi proposito que es tener evidencia tangible de mis competencias y habilidades, entonces lo que quiero es generar un portafolio Donde vaya documentando mi experiencia empezando por documentar el informe del proyecto que les quiero proponer. En ese informe presentaré los logros cumplidos desglosados en:
 -  Impacto (OKR), Objetivos y Resultados Clave
--  Resultados (KPI) indicadores de desempeño y procesos Optimizados
-  
-#**“Porqué razones dentro del mercado en el que se participa se le da mayor reconocimiento a la competencia”**  
+-  Resultados de desempeño (KPI) indicadores clave de desempeño
+-  Resultados de comportamiento (KBI) indicadores clave de comportamiento
+-  Dismunucion de desperdicio y aumento de capacidad operativa 
 
-📌 **Claves desde el contenido de la obra:**
+# 📌 Exponer el hecho acerca de Escalar vs Crecer tu Empresa
+<img width="600" height="200" alt="image" src="https://github.com/user-attachments/assets/8ec14e30-0e64-4452-882f-5ddce3b6b96e" />
+
+Si yo quiero vender $10X mas tengo que meter 10X mas tiempo, esfuerzo y dinero, para que del otro lado puedan salir 10X mas resultados. = Eso es crecer el negocio 
+
+Pero escalarlo significa incrementar esto → $$$, sin necesidad de incrementar esto → tiempo, esfuerzo y dinero
+
+Y la única forma de lograr esto es alineando toda la organización hacia un mismo objetivo
+ 
+ 
+# 📌 Exponer la pregunta **“Porqué razones dentro del mercado en el que se participa se le da mayor reconocimiento a la competencia”**  
+
+ **Claves desde el contenido de la obra:**
 
 - **Entorno Pyme en México:** El prólogo señala que la mayoría de las empresas son pequeñas y medianas, con limitaciones en capacitación, innovación y uso de técnicas de calidad. Esto las coloca en desventaja frente a competidores más preparados.  
 
@@ -119,6 +129,9 @@ El mayor reconocimiento a la competencia dentro del mercado proviene de su capac
 - **Mes 6–8:** Seguimiento, ajustes y cierre.
 
 **Esfuerzo estimado:** equipo consultor 0.5–1.5 FTE durante diagnóstico/planeación; 0.2–1.0 FTE durante implementación según alcance.
+
+<img width="642" alt="image" src="https://github.com/user-attachments/assets/d511ed7c-8f05-49d7-9833-9f233ce5fcd8" />
+
 
 ---
 
