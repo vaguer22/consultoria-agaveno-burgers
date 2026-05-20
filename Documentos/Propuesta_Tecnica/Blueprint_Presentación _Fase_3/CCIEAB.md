@@ -3,6 +3,8 @@
 
 ---
 
+
+
 #Consejo: Para el primer acercamiento se agendara una reunion  de aproximadamente 2 horas de duracion
 - iniciar con mi proposito que es tener evidencia tangible de mis competencias y habilidades, entonces lo que quiero es generar un portafolio Donde vaya documentando mi experiencia empezando por documentar el informe del proyecto que les quiero proponer. En ese informe presentaré los logros cumplidos estructurados en:
 -  Impacto (OKR), Objetivos y Resultados Clave
@@ -22,6 +24,7 @@
 
 - **Cultura organizacional:** Se subraya que muchas empresas operan de forma aislada, sin colaboración ni integración sectorial. Esto limita su competitividad, mientras que la competencia que trabaja en redes o con prácticas de mejora continua gana legitimidad.  
 
+## El cambio debe ser planeado, reflexivo y gradual, no emergente ni reactivo. Solo así se asegura que los medios elegidos tengan coherencia con la visión de largo plazo
 ---
 
 ✅ **En síntesis:**  
