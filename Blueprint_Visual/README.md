@@ -6,13 +6,14 @@ La carpeta `/Assets` concentra los **recursos gráficos, mapas conceptuales, sli
 ---
 
 ## 📑 Contenido principal
-### Mapas conceptuales y diagramas - Presentacion del Guion_Mapa_Emotivo 
+### 🧾 Mapas conceptuales y diagramas - Presentacion del Guion_Mapa_Emotivo 
 - Representaciones visuales del modelo consultivo, flujos de trabajo y relaciones entre fases. 
-### Slides visuales - Presentacion Blueprint 
+### 🎬 Slides visuales - Presentacion Blueprint 
 - Presentaciones ejecutivas por fase del proyecto (Inicio, Diagnóstico, Planeación, Implementación, Cierre). - 
-###  Íconos y recursos gráficos - Material visual propio 
+### 🎭🖌️Íconos y recursos gráficos - Material visual propio 
 - Elementos visuales para reforzar identidad y claridad en materiales de comunicación.
-### Historias y Notas de orador
+### 🎙️ Historias y Notas de orador
+- Relatos breves y guiones de apoyo que acompañan las presentaciones visuales, diseñados para conectar con la audiencia, dar continuidad entre fases del proyecto y reforzar la claridad narrativa del modelo consultivo.
 ---
 
 ## 🧭 Propósito estratégico
