@@ -12,7 +12,7 @@ La carpeta `/Assets` concentra los **recursos gráficos, mapas conceptuales, sli
 - Presentaciones ejecutivas por fase del proyecto (Inicio, Diagnóstico, Planeación, Implementación, Cierre). - 
 ###  Íconos y recursos gráficos - Material visual propio 
 - Elementos visuales para reforzar identidad y claridad en materiales de comunicación.
-
+### Historias y Notas de orador
 ---
 
 ## 🧭 Propósito estratégico
