@@ -16,10 +16,6 @@ La carpeta "Blueprint_Visual" concentra los **recursos gráficos, mapas conceptu
 - Se utilizan colores y símbolos consistentes para identificar fases (Inicio, Diagnóstico, Planeación, Implementación, Cierre).  
 - Se integran métricas y brechas detectadas en el diagnóstico.  
 
-**Ejemplo:**  
-- *Mapa de flujo del proceso de atención al cliente* mostrando pasos: **Recepción → Diagnóstico → Propuesta → Implementación → Evaluación**.  
-- *Diagrama Ishikawa* para causas raíz de baja productividad.  
-
 ---
 
 ### 🎬 Slides visuales – Presentación Blueprint  
@@ -32,10 +28,6 @@ La carpeta "Blueprint_Visual" concentra los **recursos gráficos, mapas conceptu
 - Se guardan en `/slides/` organizadas por fase.  
 - Cada slide contiene narrativa clara, datos duros y elementos visuales congruentes con los mapas conceptuales.  
 - Se acompañan de versiones exportadas en PDF para entrega oficial.  
-
-**Ejemplo:**  
-- *Slide de Diagnóstico* con hallazgos clave: “Tiempo promedio de servicio: 12 min (meta: 8 min)”.  
-- *Slide de Implementación* mostrando KPIs: “Reducción de desperdicio en cocina: -15%”.  
 
 ---
 
@@ -50,11 +42,6 @@ La carpeta "Blueprint_Visual" concentra los **recursos gráficos, mapas conceptu
 - Se usan en mapas, slides y dashboards para mantener consistencia visual.  
 - Incluyen guías de uso en `visual-style.md`.  
 
-**Ejemplo:**  
-- Ícono de “cliente satisfecho” (rostro sonriente con check).  
-- Ícono de “proceso operativo” (engranajes interconectados).  
-- Ícono de “KPIs” (gráfico de barras ascendente).  
-
 ---
 
 ### 🎙️ Historias y Notas de orador  
@@ -68,17 +55,10 @@ La carpeta "Blueprint_Visual" concentra los **recursos gráficos, mapas conceptu
 - Se redactan en tono cálido y profesional, con ejemplos fáciles de entender.  
 - Refuerzan la claridad narrativa del modelo consultivo.  
 
-**Ejemplo:**  
-- Nota de orador en fase de Inicio: *“Hoy comenzamos un viaje de transformación; cada paso que demos será trazable y defendible.”*  
-- Historia en fase de Cierre: *“El cambio no termina aquí, se convierte en cultura que vive en cada proceso.”*  
-
 ---
 
 📌 **En resumen:**  
 Este bloque del README explica cómo los **mapas, slides, íconos y notas de orador** se integran como soporte visual y narrativo del proyecto. Cada subcarpeta aporta un tipo de recurso específico: **mapas para visualizar, slides para comunicar, íconos para unificar y notas para conectar con la audiencia**.  
-
-¿Quieres que te arme también un **esquema visual tipo tabla modular** que muestre cómo estos cuatro elementos se relacionan entre sí dentro de *Assets*?
----
 
 ## 🧭 Propósito estratégico
 - **Comunicación visual:** facilitar comprensión de conceptos y procesos.  
