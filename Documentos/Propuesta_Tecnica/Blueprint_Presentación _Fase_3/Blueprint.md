@@ -1,8 +1,3 @@
-# 📘 Blueprint CCIEAB
-<img width="500" height="400" alt="tecnica-innovacion-abierta-blueprint-design-thinking-en-espanol" src="https://github.com/user-attachments/assets/ba2783e8-da9e-4899-8f6c-60341a75e60c" />
-
----
-
 # ⚠️ Importante: Para el primer acercamiento se agendara una reunion  de aproximadamente 2 horas de duracion
 - iniciar con mi proposito que es tener evidencia tangible de mis competencias y habilidades, entonces lo que quiero es generar un portafolio Donde vaya documentando mi experiencia empezando por documentar el informe del proyecto que les quiero proponer. En ese informe presentaré los logros cumplidos desglosados en:
 -  Impacto (OKR), Objetivos y Resultados Clave
@@ -40,8 +35,10 @@ Y la única forma de lograr esto es alineando toda la organización hacia un mis
 ✅ **En síntesis:**  
 El mayor reconocimiento a la competencia dentro del mercado proviene de su capacidad para **adaptarse a las tendencias externas, invertir en diferenciación, sostener prácticas de calidad e innovación, y trabajar con mayor integración organizacional**. En contraste, las Pymes suelen enfrentar carencias estructurales que las hacen menos visibles y menos competitivas, aun cuando numéricamente son mayoría.  
 
-¿Quieres que te arme un **mapa visual comparativo** (Pymes vs. competencia) que muestre estas razones de reconocimiento de forma esquemática y fácil de leer?
 ---
+
+# 📘 Blueprint CCIEAB
+<img width="500" height="400" alt="tecnica-innovacion-abierta-blueprint-design-thinking-en-espanol" src="https://github.com/user-attachments/assets/ba2783e8-da9e-4899-8f6c-60341a75e60c" />
 
 ---
 
@@ -130,8 +127,7 @@ El mayor reconocimiento a la competencia dentro del mercado proviene de su capac
 
 **Esfuerzo estimado:** equipo consultor 0.5–1.5 FTE durante diagnóstico/planeación; 0.2–1.0 FTE durante implementación según alcance.
 
-<img width="642" alt="image" src="https://github.com/user-attachments/assets/d511ed7c-8f05-49d7-9833-9f233ce5fcd8" />
-
+<img width="542" alt="image" src="https://github.com/user-attachments/assets/d511ed7c-8f05-49d7-9833-9f233ce5fcd8" />
 
 ---
 
@@ -149,7 +145,1321 @@ El mayor reconocimiento a la competencia dentro del mercado proviene de su capac
 
 ---
 
-### Diagnóstico integral — Adaptado a la consultoría colaborativa con **Agaveño Burgers**
+### 7 Cronograma detallado del plan de trabajo
+
+**Cronograma fase inicial** - Diagnostico Y planeación de las medidas
+**Responsable y Semana (plan de 12 semanas)*
+| Semana | Responsable | Actividades asignadas | FTE estimado |
+|--------|-------------|-----------------------|--------------|
+| **1** | Líder de Proyecto | Definir alcance y cronograma de propuesta | 0.3 |
+|        | Consultor Sénior | Redacción técnica y económica de propuesta | 0.3 |
+|        | Consultor Comercial | Primer acercamiento, reunión exploratoria | 0.4 |
+|        | **Total semana 1** | | **1.0** |
+| **2** | Líder de Proyecto | Preparar presentación, ajustes administrativos | 0.3 |
+|        | Consultor Sénior | Exposición ejecutiva, negociación | 0.3 |
+|        | Área Legal | Revisión y redacción contractual | 0.4 |
+|        | **Total semana 2** | | **1.0** |
+| **3** | Consultor Sénior | Entrevistas directivas, consolidación filosofía | 0.4 |
+|        | Consultor de Procesos | Observación operativa, registro actividades | 0.3 |
+|        | **Total semana 3** | | **0.7** |
+| **4** | Líder de Proyecto | Solicitud de documentación | 0.2 |
+|        | Analista | Recopilación registros, indicadores | 0.4 |
+|        | Consultor de Procesos | Evidencia visual, integración | 0.3 |
+|        | **Total semana 4** | | **0.9** |
+| **5** | Consultor de Procesos | Cronoanálisis, mapas de flujo | 0.4 |
+|        | Analista de Datos | Revisión registros, integración hallazgos | 0.4 |
+|        | Consultor Sénior | Identificación causas raíz | 0.4 |
+|        | **Total semana 5** | | **1.2** |
+| **6** | Líder de Proyecto | Taller interno, validación con stakeholders | 0.3 |
+|        | Consultor Sénior | Consolidación hallazgos, documento necesidades | 0.4 |
+|        | Analista | Matriz de problemas | 0.3 |
+|        | **Total semana 6** | | **1.0** |
+| **7** | Consultor de Operaciones | Inventario físico | 0.3 |
+|        | Analista Financiero | Evaluación financiera | 0.3 |
+|        | Consultor RRHH | Entrevistas competencias humanas | 0.3 |
+|        | Consultor Sénior | Matriz de capacidades | 0.3 |
+|        | **Total semana 7** | | **1.2** |
+| **8** | Consultor Sénior | Lluvia de ideas, consolidación | 0.4 |
+|        | Analista de Mercado | Benchmarking sectorial | 0.3 |
+|        | Consultor de Procesos | Generación de opciones | 0.3 |
+|        | **Total semana 8** | | **1.0** |
+| **9** | Consultor Sénior | Definición criterios evaluación | 0.3 |
+|        | Consultor de Procesos | Evaluación técnica | 0.3 |
+|        | Analista Financiero | Evaluación económica | 0.3 |
+|        | Consultor RRHH | Evaluación organizacional | 0.3 |
+|        | **Total semana 9** | | **1.2** |
+| **10** | Líder de Proyecto | Priorización final | 0.3 |
+|        | Consultor Sénior | Validación con consultor sénior | 0.4 |
+|        | Analista | Ajustes técnicos | 0.3 |
+|        | **Total semana 10** | | **1.0** |
+| **11** | Líder de Proyecto | Presentación alternativas al cliente | 0.3 |
+|        | Consultor Sénior | Desarrollo plan de acción | 0.4 |
+|        | Equipo Consultor | Taller de plan de acción | 0.3 |
+|        | **Total semana 11** | | **1.0** |
+| **12** | Líder de Proyecto | Informe final, exposición resultados | 0.4 |
+|        | Consultor Sénior | Revisión informe, cierre servicio | 0.4 |
+|        | Equipo Consultor | Exposición conjunta | 0.3 |
+|        | **Total semana 12** | | **1.1** |
+
+### 🔹 Balance General
+- **Carga semanal promedio:** entre **0.7 y 1.2 FTE**.  
+- **Roles con mayor peso:** Líder de Proyecto (≈3.0 FTE) y Consultor Sénior (≈3.5 FTE).  
+- **Apoyo especializado:** Analistas (≈2.2 FTE), Procesos (≈2.0 FTE), RRHH/Operaciones/Legal/Comercial (≈2.0 FTE en conjunto).  
+- **Total FTE en 12 semanas:** ≈ **14.6 FTE**.
+
+## 📊 Matriz RACI — Fase Inicial
+
+| Actividad | Líder de Proyecto | Consultor Sénior | Consultor Comercial | Área Legal | Consultor de Procesos | Analistas (Datos/Finanzas/Mercado) | Consultor RRHH | Consultor Operaciones |
+|-----------|------------------|------------------|---------------------|------------|-----------------------|-----------------------------------|----------------|-----------------------|
+| 1. Primer acercamiento | A | C | R | I | I | I | I | I |
+| 2. Elaborar propuesta | A | R | C | I | I | C | I | I |
+| 3. Presentación programa | R | A | C | I | I | I | I | I |
+| 4. Formalización servicio | A | R | I | R | I | I | I | I |
+| 5. Filosofía empresarial | C | A | I | I | R | I | I | I |
+| 6. Recopilación información | A | C | I | I | R | R | I | I |
+| 7. Análisis e interpretación | C | A | I | I | R | R | I | I |
+| 8. Identificación necesidades | R | A | I | I | I | R | I | I |
+| 9. Recursos y competencias | C | A | I | I | I | R (Financiero) | R | R |
+| 10. Identificación alternativas | C | A | I | I | R | R (Mercado) | I | I |
+| 11. Evaluación alternativas | C | A | I | I | R | R (Financiero) | R | I |
+| 12. Elección alternativas | A | R | I | I | I | C | I | I |
+| 13. Validación con consultor sénior | R | A | I | I | I | C | I | I |
+| 14. Presentación al cliente | R | A | I | I | I | C | I | I |
+| 15. Plan de acción | A | R | I | I | R | C | C | C |
+| 16. Informe final | R | A | I | I | I | C | I | I |
+| 17. Exposición resultados | R | A | I | I | I | C | I | I |
+| 18. Cierre servicio | A | R | I | R | I | I | I | I |
+
+### 🔹 Lectura rápida
+- **Líder de Proyecto:** Responsable directo de coordinación y entregables (A en arranque y cierre, R en presentaciones).  
+- **Consultor Sénior:** Responsable técnico y estratégico (R en diseño, evaluación y validación; A en diagnóstico y alternativas).  
+- **Consultor Comercial:** Solo responsable en el primer acercamiento (R) y consultado en fases iniciales.  
+- **Área Legal:** Responsable en la formalización contractual y cierre administrativo.  
+- **Consultor de Procesos:** Responsable en diagnóstico operativo y generación de alternativas.  
+- **Analistas:** Responsables en recopilación de datos, evaluación económica y benchmarking.  
+- **Consultor RRHH:** Responsable en entrevistas de competencias y evaluación organizacional.  
+- **Consultor de Operaciones:** Responsable en inventario físico y validación de recursos.  
+
+---
+
+**Cronograma Fase II** — Implementación y Seguimiento 
+**Responsable y Semana (plan de 20 semanas)* 
+| Semana | Responsable | Actividades asignadas | FTE estimado |
+|--------|-------------|-----------------------|--------------|
+| **13–14** | Líder de Proyecto | Kick-off de implementación, coordinación con cliente, definición de indicadores de seguimiento | 0.4 |
+|          | Consultor Sénior | Ajuste del plan de acción, alineación estratégica | 0.4 |
+|          | Consultor de Procesos | Diseño de procedimientos operativos iniciales | 0.3 |
+|          | **Total** | | **1.1** |
+| **15–16** | Consultor de Procesos | Implementación piloto en área crítica | 0.4 |
+|          | Analista de Datos | Recolección de métricas iniciales | 0.3 |
+|          | Consultor RRHH | Capacitación de personal clave | 0.3 |
+|          | **Total** | | **1.0** |
+| **17–18** | Líder de Proyecto | Supervisión de ejecución, reuniones de control | 0.3 |
+|          | Consultor Sénior | Evaluación de resultados piloto | 0.4 |
+|          | Analista Financiero | Medición de costos y ROI preliminar | 0.3 |
+|          | **Total** | | **1.0** |
+| **19–20** | Consultor de Procesos | Escalamiento de mejoras a otras áreas | 0.4 |
+|          | Analista de Mercado | Benchmarking comparativo | 0.3 |
+|          | Consultor RRHH | Evaluación de competencias post-capacitación | 0.3 |
+|          | **Total** | | **1.0** |
+| **21–22** | Líder de Proyecto | Taller de retroalimentación con cliente | 0.3 |
+|          | Consultor Sénior | Ajustes estratégicos y técnicos | 0.4 |
+|          | Consultor de Operaciones | Validación de recursos físicos y tecnológicos | 0.3 |
+|          | **Total** | | **1.0** |
+| **23–24** | Consultor Sénior | Consolidación de resultados intermedios | 0.4 |
+|          | Analista de Datos | Integración de KPIs | 0.3 |
+|          | Líder de Proyecto | Informe parcial de seguimiento | 0.3 |
+|          | **Total** | | **1.0** |
+| **25–26** | Consultor de Procesos | Implementación de ajustes finales | 0.4 |
+|          | Consultor RRHH | Evaluación organizacional de impacto | 0.3 |
+|          | Analista Financiero | Validación de ROI definitivo | 0.3 |
+|          | **Total** | | **1.0** |
+| **27–28** | Líder de Proyecto | Preparación de informe final | 0.3 |
+|          | Consultor Sénior | Validación de resultados globales | 0.4 |
+|          | Equipo Consultor | Exposición de resultados al cliente | 0.3 |
+|          | **Total** | | **1.0** |
+| **29–30** | Líder de Proyecto | Cierre operativo y administrativo | 0.3 |
+|          | Consultor Sénior | Presentación de informe final al cliente | 0.4 |
+|          | Área Legal | Formalización de cierre contractual | 0.3 |
+|          | **Total** | | **1.0** |
+| **31–32** | Líder de Proyecto | Sesión de transferencia y continuidad | 0.3 |
+|          | Consultor Sénior | Recomendaciones estratégicas de largo plazo | 0.4 |
+|          | Equipo Consultor | Taller de cierre colaborativo | 0.3 |
+|          | **Total** | | **1.0** |
+
+
+### 🔹 Observaciones metodológicas
+- La **Fase II (20 semanas)** se organiza en **bloques de 2 semanas**, cada uno con un objetivo claro: piloto, escalamiento, ajustes, seguimiento, consolidación y cierre.  
+- El esfuerzo semanal promedio se mantiene en **≈1.0–1.1 FTE**, asegurando continuidad sin sobrecarga.  
+- La **cláusula contractual de transición** se activa al concluir la Fase I (12 semanas):  
+  > *“Una vez entregado el plan de implementación inicial, se presenta un segundo contrato que extiende la intervención a 32 semanas adicionales, correspondientes a implementación, seguimiento y cierre.”*  
+- El **hito de continuidad colaborativa** se refleja en las semanas 13–14 (Kick-off), y el **cierre formal** en las semanas 29–32.  
+
+## 📊 Matriz RACI — Fase II (implementación y seguimiento)
+
+| Bloque / Actividad | Líder de Proyecto | Consultor Sénior | Consultor Comercial | Área Legal | Consultor de Procesos | Analistas (Datos/Finanzas/Mercado) | Consultor RRHH | Consultor Operaciones |
+|--------------------|------------------|------------------|---------------------|------------|-----------------------|-----------------------------------|----------------|-----------------------|
+| Kick-off implementación (Sem. 13–14) | A | R | I | I | C | I | I | I |
+| Ajuste plan de acción | C | A | I | I | R | I | I | I |
+| Implementación piloto (Sem. 15–16) | C | A | I | I | R | R (Datos) | R (Capacitación) | I |
+| Evaluación piloto (Sem. 17–18) | R | A | I | I | C | R (Finanzas) | C | I |
+| Escalamiento mejoras (Sem. 19–20) | C | A | I | I | R | R (Mercado) | R (Competencias) | I |
+| Taller retroalimentación (Sem. 21–22) | R | A | I | I | C | I | I | R |
+| Consolidación resultados intermedios (Sem. 23–24) | A | R | I | I | I | R (KPIs) | I | I |
+| Implementación ajustes finales (Sem. 25–26) | C | A | I | I | R | R (Finanzas) | R (Impacto organizacional) | I |
+| Informe final intermedio (Sem. 27–28) | R | A | I | I | I | C | I | I |
+| Presentación resultados globales (Sem. 29–30) | R | A | I | R | I | C | I | I |
+| Cierre operativo y contractual (Sem. 31–32) | A | R | I | R | I | I | I | I |
+
+### 🔹 Lectura rápida
+- **Líder de Proyecto:** Accountable en coordinación, informes y presentaciones; Responsible en talleres y cierre operativo.  
+- **Consultor Sénior:** Responsable técnico y estratégico en todas las fases; Accountable en validación de plan, evaluación piloto y resultados globales.  
+- **Consultor Comercial:** Solo informado en esta fase, pues la relación ya está formalizada.  
+- **Área Legal:** Responsable en formalización contractual y cierre administrativo.  
+- **Consultor de Procesos:** Responsable en implementación piloto, escalamiento y ajustes técnicos.  
+- **Analistas:** Responsables en métricas, KPIs, benchmarking y ROI financiero.  
+- **Consultor RRHH:** Responsable en capacitación y evaluación organizacional.  
+- **Consultor de Operaciones:** Responsable en validación de recursos físicos y soporte operativo.  
+
+---
+
+# 🚨 Diagnóstico integral — Adaptado a la consultoría colaborativa con **Agaveño Burgers**
+## Evaluación Integral en 10 pasos
+---
+
+<img width="596" alt="image" src="https://github.com/user-attachments/assets/ccaf22c7-78f9-4b7d-a5ec-343bc083a597" />
+
+## 🔥 1º Paso: **Identificación inicial**
+El proceso comienza con la definición del nombre comercial o razón social de la organización que solicita los servicios de consultoría. Esta identificación surge a partir de un requerimiento de ayuda y se acompaña de una revisión de su operación y funcionamiento actual, con el fin de emitir una opinión profesional sobre su situación presente.
+
+### **Trabajo en equipo**
+El equipo consultor debe actuar de manera consensuada para seleccionar, entre varias opciones, la empresa que será objeto de análisis. La elección se fundamenta en criterios como:
+- Tamaño de la empresa
+- Años de permanencia en el mercado
+- Estructura organizativa (formal o informal, pero con áreas identificables)
+
+### **Unidad de análisis**
+Una vez seleccionada, la empresa se considera indistintamente como organización-cliente o unidad de análisis, convirtiéndose en el referente central para el desarrollo del proceso de consultoría.
+En resumen: este primer paso establece la base del proyecto de consultoría, asegurando que la organización elegida sea pertinente y que el equipo consultor trabaje de manera colaborativa para definir el objeto de estudio con criterios claros y consensuados.
+
+## ⚡ Desarrollo
+El primer paso del proceso de consultoría se llevó a cabo con el objetivo de **definir con precisión la organización-cliente** que sería objeto de intervención. Esta fase constituyó el punto de partida metodológico del proyecto, pues permitió establecer la unidad de análisis sobre la cual se construiría el diagnóstico integral.
+
+En un ejercicio de trabajo colaborativo, el equipo consultor acordó los **criterios de selección** que guiaron la elección de la empresa. Dichos criterios incluyeron el tamaño de la organización, sus años de permanencia en el mercado, la estructura organizativa (formal o informal, pero con áreas claramente identificables) y, de manera fundamental, la disposición e interés de la empresa en participar activamente en el proceso de consultoría. Estos criterios se sistematizaron en una **tabla de criterios de selección** (véase el anexo No. 10).
+
+Posteriormente, se elaboró un **cuadro comparativo de empresas candidatas** (véase el anexo No. 11), en el cual se registraron datos básicos como el giro, los productos o servicios ofrecidos, el número de empleados y el mercado atendido. Este ejercicio permitió visualizar de manera objetiva las opciones disponibles y, tras un análisis consensuado, se seleccionó la organización que reunía las condiciones más pertinentes para convertirse en la **unidad de análisis**.
+
+La decisión fue formalizada mediante un registro interno, y se estableció un **primer acercamiento con la dirección de la empresa**, en el cual se comunicó la elección y se acordaron los lineamientos iniciales de colaboración. Este proceso se representó en un **esquema gráfico del proceso de selección** (véase la figura No. 3), que sintetiza las etapas de definición, análisis y formalización de la elección. Dicho esquema permitió reforzar la transparencia y la claridad metodológica del procedimiento.
+
+### **Resultados**  alcanzados
+
+- Se logró la identificación clara y precisa de la organización-cliente.
+- Se obtuvo una base inicial de información sobre su situación actual y necesidades.
+- Se garantizó la legitimidad y transparencia del proceso de selección, fortaleciendo la relación entre el equipo consultor y la empresa.
+
+### **Conclusión:**
+
+El desarrollo de este primer paso permitió sentar las bases del proyecto de consultoría, asegurando que la organización seleccionada fuese pertinente y que el proceso iniciara con claridad, orden y consenso, en un marco de colaboración y confianza mutua.
+
+---
+
+## 🔥 2º Paso: **Funciones básicas de análisis**
+El segundo paso se centra en la consideración de cinco funciones esenciales de la organización, cada una asignada a un integrante del equipo consultor:
+1. Operación (producción o prestación de servicios según el giro).
+2. Mercado (relación con clientes y entorno competitivo).
+3. Humana (gestión del personal).
+4. Finanzas (administración de recursos económicos).
+5. Dirección (conducción estratégica y toma de decisiones).
+
+### **Objetivo del análisis**
+Estas funciones permiten diagnosticar cómo se administran los recursos de la organización-cliente y evaluar si se traducen en capacidades y competencias que garanticen un desempeño organizacional efectivo, eficiente y eficaz.
+
+### **Conceptos clave**
+- Capacidad: gestión adecuada de medios económicos, técnicos, instrumentales y humanos para alcanzar los fines de la organización.
+- Competencias centrales: propiedades esenciales que impulsan la rentabilidad y explican por qué una organización puede desempeñarse mejor que otras.
+
+### **Propósito final**
+Este paso busca comprender la manera en que la organización gestiona sus recursos y competencias, para identificar ventajas competitivas y áreas de mejora que fundamenten la intervención consultora.
+En resumen: el segundo paso establece un diagnóstico estructural de la organización a través de sus cinco funciones básicas, vinculando la administración de recursos con la generación de capacidades y competencias que determinan su competitividad.
+
+## ⚡ Desarrollo
+El segundo paso del proceso de consultoría se desarrolló con el propósito de analizar las cinco funciones básicas de la organización-cliente, entendidas como pilares estructurales que permiten identificar cómo se administran los recursos y cómo se traducen en capacidades y competencias organizacionales.
+El equipo consultor asignó a cada integrante la responsabilidad de una función específica.
+- Operación (producción o prestación de servicios según el giro).
+- Mercado (relación con clientes y entorno competitivo).
+- Humana (gestión del personal).
+- Finanzas (administración de recursos económicos).
+- Dirección (conducción estratégica y toma de decisiones).
+
+Para facilitar la comprensión y sistematización del análisis ****(véase el anexo No. 2) **funciones básicas y sus responsables,** en la cual se registraron las áreas atendidas y los objetivos de cada función.
+Se estman diverson modelos de diagnostico, elementales para identificar de manera estructural, como se vienen administrando los recursos de la organización-­­cliente y qué en muchas de las ocasiones, se debieran de traducir en las capacidades y las competencias, requeridas alrededor de un efectivo, eficiente y eficaz desempeño organizacional.
+Entendida la capacidad, como la pertinente gestión y administración de los medios económicos, técnicos,instrumentales y humanos, para el alcance de los fines de la organización-­­cliente, utilizando los implementos y el proceso administrativo de manera competente y las competencias centrales como aquellas propiedades esenciales que estimulan a una organización hacia la rentabilidad. Con lo antes dicho, con apoyo de las *Competencias centrales y ventaja competitiva: el concepto, su evolución y su aplicabilidad Álvarez Medina, Ma. de Lourdes Competencias centrales y ventaja competitiva: el concepto, su evolución y su aplicabilidad Contaduría y Administración, núm. 209, abril-junio, 2003, pp. 5-22 Universidad Nacional Autónoma de México Distrito Federal, México.* Se pretende exponer cómo y porqué una organización se desempeña mejor que otras, todo a través de un **diagnóstico estructural inicial** que documente cómo se administran los recursos de la organización‑cliente a través de las cinco funciones básicas.
+
+## ⚡ Entregables
+
+#### **1. Asignación de responsables por función**
+- Documento que muestre qué integrante del equipo atiende cada función: Operación, Mercado, Finanzas, Personal/Humana y Dirección.
+- Sirve como mapa de responsabilidades para el proceso de intervención.
+
+#### **2. Descripción de funciones y subfunciones**
+- Tabla adaptada al giro de la empresa (ej. restaurante) con las subfunciones específicas:
+    - Operación: producción, logística, calidad, mantenimiento.
+    - Mercado: publicidad, ventas, servicio al cliente.
+    - Finanzas: tesorería, costos, contabilidad.
+    - Personal: contratación, capacitación, relaciones laborales.
+    - Dirección: planeación, organización, control.
+
+Esta tabla se convierte en el **Anexo No. 2** del informe: **funciones básicas y sus responsable**
+
+Anexo No. 2 — Asignación de responsables por función
+
+| **Función** | **Responsable asignado** | **Rol dentro del proceso de intervención** |
+| --- | --- | --- |
+| Operación | ________________________ | Supervisar producción, logística, calidad y mantenimiento. |
+| Mercado | ________________________ | Coordinar publicidad, ventas y servicio al cliente. |
+| Finanzas | ________________________ | Control de tesorería, costos y contabilidad. |
+| Personal/Humana | ____________________ | Encargado de contratación, capacitación y relaciones laborales. |
+| Dirección | ________________________ | Responsable de planeación, organización y control estratégico. |
+
+Anexo No. 3 — Descripción de funciones y subfunciones
+
+| **Función** | **Subfunciones específicas (adaptadas al giro restaurante)** |
+| --- | --- |
+| Operación | - Producción (preparación de alimentos)<br>- Logística (abasto y flujo de insumos)<br>- Calidad (estandarización de recetas, control de porciones)<br>- Mantenimiento (equipos, instalaciones) |
+| Mercado | - Publicidad (campañas locales, redes sociales)<br>- Ventas (presencial y delivery)<br>- Servicio al cliente (atención en mostrador, seguimiento postventa) |
+| Finanzas | - Tesorería (manejo de caja y bancos)<br>- Costos (control de insumos, análisis de rentabilidad)<br>- Contabilidad (registros, estados financieros) |
+| Personal/Humana | - Contratación (reclutamiento y selección)<br>- Capacitación (inducción, formación continua)<br>- Relaciones laborales (clima organizacional, cumplimiento normativo) |
+| Dirección | - Planeación (estrategia de crecimiento, metas)<br>- Organización (estructura interna, asignación de recursos)<br>- Control (seguimiento de KPIs, auditorías internas) |
+
+#### **3. Inventario  de recursos y capacidades**
+
+- Relación de medios económicos, técnicos, instrumentales y humanos que cada función administra.
+- Identificación de capacidades organizacionales (ej. control de costos, fidelización de clientes, consistencia de producto).
+
+Esta tabla se  convierte en el **Anexo No. 4** del informe: **Inventario de Recursos y Capacidades**
+
+| **Función** | **Recursos económicos** | **Recursos técnicos** | **Recursos instrumentales** | **Recursos humanos** | **Capacidades organizacionales** |
+| --- | --- | --- | --- | --- | --- |
+| Operación | Presupuesto insumos | Recetas, manuales | Parrillas, freidoras | Cocineros, auxiliares | Consistencia de producto, control de tiempos |
+| Mercado | Presupuesto publicidad | Software redes, CRM | Material POP, menús | Meseros, community manager | Fidelización de clientes, promoción digital |
+| Finanzas | Flujo de caja | Sistema POS, hojas contables | Equipo cómputo | Cajero, auxiliar contable | Control de costos, conciliación diaria |
+| Personal | Presupuesto nómina | Manual inducción | Formatos contratación | Gerente RRHH, supervisores | Contratación rápida, capacitación básica |
+| Dirección | Presupuesto global | Plan estratégico, KPIs | Software planeación | Director, consultor | Planeación estratégica, control de KPIs |
+
+#### **4. Propuesta de competencias centrales**
+
+- Selección de aquellas capacidades que cumplen criterios de ventaja competitiva (valiosas, raras, inimitables, insustituibles).
+- Vinculación con el marco teórico de **competencias centrales y ventaja competitiva (**Álvarez, 2003).
+
+Esta tabla se  convierte en el **Anexo No. 5** del informe: **Mapa de Capacidades**
+
+| **Función** | **Capacidad** | **Evidencia y recursos** | **VRIN** | **Prioridad** |
+| --- | --- | --- | --- | --- |
+| Operación | Consistencia de producto | Recetas estandarizadas; fichas técnicas; tiempos de preparación; porcentaje de variacn de pesos | V; R; I; N | Alta |
+| Mercado | Fidelización de clientes | Base de datos clientes; historial de compras; reseñas | V; R; I; N | Alta |
+| Humana | Formación en servicio | Planes de capacitación; registros de asistencia; evaluaciones | V; R; I; N | Media |
+| Finanzas | Control de costos por receta | Costeo por receta; reportes de compras; inventarios | V; R; I; N | Alta |
+| Dirección | Gobernanza y toma de decisiones | Actas de reuniones; indicadores de gestión; plan estratégico | V; R; I; N | Media |
+
+**Cómo usar esta tabla en Excel**
+
+- Cada fila = una capacidad detectada.
+- Evidencia y recursos: listar documentos, sistemas, personas, equipos.
+- VRIN: marcar con V/R/I/N según evaluación preliminar, (Valiosa, Rara, Inimitable, Insustituible)
+- Prioridad: Alta / Media / Baja según impacto estratégico.
+
+Esta tabla se  convierte en el **Anexo No. 6** del informe: **Mapa de Capacidades  — Seguimiento y KPIs** 
+
+| **Capacidad** | **KPI** | **Meta** | **Responsable** |
+| --- | --- | --- | --- |
+| Consistencia de producto | % pedidos conformes | ≥ 95% | Jefe de Cocina |
+| Fidelización de clientes | Tasa de repetición mensual | ≥ 30% | Responsable de Marketing |
+| Formación en servicio | Horas capacitación/empleado/mes | ≥ 2 h | Jefe de RRHH |
+| Control de costos por receta | Margen bruto por producto | ≥ 60% | Encargado de Finanzas |
+| Gobernanza y toma de decisiones | % metas mensuales cumplidas | ≥ 85% | Gerente General |
+
+**Notas prácticas**
+
+- Mantén una hoja por función o una sola hoja con filtros.
+- Añade columnas opcionales: frecuencia de medición, fuente de datos, último valor registrado, observaciones.
+
+#### **6. Mapa funcional preliminar**
+
+- Esquema visual que muestre la interrelación de las cinco funciones y cómo aportan a la eficacia organizacional.
+
+Esta tabla se  convierte en el **Figura No. 4 o No. 5** del informe: **Mapa funcional preliminar**
+
+<img width="589" alt="image" src="https://github.com/user-attachments/assets/5b6a03ea-1552-40b4-a4af-dbca18fb9ab1" />
+
+## Resultados alcanzados
+- Se logró una valoración estructural de las funciones básicas de la organización.
+- Se identificaron las capacidades y competencias centrales que sustentan el desempeño organizacional.
+- Se estableció un marco de referencia claro y documentado para evaluar la administración de recursos y su impacto en la competitividad.
+
+## **Conclusión**
+El desarrollo de este segundo paso permitió comprender de manera integral cómo la organización gestiona sus recursos a través de sus funciones básicas, vinculando dichas prácticas con la generación de capacidades y competencias centrales. Este análisis constituyó un insumo fundamental para avanzar hacia la evaluación del desempeño organizacional en los pasos posteriores.
+
+##  🔥 3º Paso: **Trabajo in situ**
+El tercer paso implica una labor constante dentro de cada área de la empresa. Los responsables de las funciones básicas realizan un reconocimiento directo de actividades, apoyándose en guías o cédulas de observación.
+
+### **Evaluación del desempeño**
+El análisis se centra en valorar cómo se ejecutan las funciones y subfunciones, considerando:
+- Efectividad: lograr lo correcto de manera adecuada.
+- Eficiencia: alcanzar resultados en el menor tiempo y al menor costo.
+Ambos aspectos se traducen en aportaciones a la productividad, que en conjunto contribuyen a la eficacia organizacional.
+
+### **Reporte inicial**
+El resultado de esta observación genera un primer informe subjetivo, ya que depende de la apreciación de cada evaluador. Por ello, es indispensable contrastar estas percepciones con herramientas y técnicas de acopio de información, asegurando que las conclusiones sean válidas y no solo producto de opiniones individuales.
+
+### **Propósito final**
+Este paso busca establecer un diagnóstico preliminar sobre el desempeño organizacional, que posteriormente se valida con información objetiva, fortaleciendo la credibilidad del proceso consultor.
+En resumen: el tercer paso consiste en un trabajo de campo sistemático, donde se observa y evalúa el desempeño de las áreas de la empresa en términos de efectividad, eficiencia y productividad, generando un primer reporte que debe ser contrastado con evidencia objetiva para garantizar su validez.
+
+## ⚡ Desarrollo
+El tercer paso del proceso de consultoría se llevó a cabo mediante un trabajo constante en campo, dentro de cada área de la organización-cliente. Para ello, cada responsable de las funciones básicas realizó un reconocimiento detallado de las actividades desarrolladas por los colaboradores, auxiliándose de **guías y cédulas de observación** previamente diseñadas para este fin (véase el anexo No. 12).
+
+El propósito central de esta fase fue evaluar el desempeño organizacional y laboral a partir de tres dimensiones fundamentales:
+- Efectividad: aquello que se ejecutó de manera correcta dentro de lo correcto.
+- Eficiencia: lo alcanzado en el menor tiempo y al menor costo, aportando a la productividad.
+- Eficacia: la interacción entre efectividad y eficiencia, traducida en el logro de los objetivos organizacionales.
+
+Para sistematizar la información, se elaboró una **matriz de observación de actividades** (véase el anexo No. 13), en la cual se registraron las evidencias obtenidas en cada área. Esta matriz permitió identificar tanto las prácticas que contribuían positivamente al desempeño como aquellas que requerían ajustes o mejoras.
+
+## ⚡ Entregables
+
+1. **Cédulas de observación completas (Anexo No. 12)**
+    - Cada responsable llena su guía/cédula en la función asignada (Operación, Mercado, Humana, Finanzas, Dirección).
+    - Se registran actividades, recursos utilizados, tiempos, costos, resultados y comentarios.
+    - Se califican **efectividad** (hacer lo correcto dentro de lo correcto) y **eficiencia** (lograrlo en menor tiempo y costo)
+2. **Reporte por observación (subjetivo inicial)**
+    - Documento narrativo que sintetiza lo observado en cada área.
+    - Incluye percepciones del evaluador sobre desempeño, fortalezas y debilidades.
+    - Se reconoce que es **subjetivo**, pues depende de la apreciación del observador.
+3. **Identificación preliminar de aportes a la eficacia**
+    - Se señala cómo las actividades observadas contribuyen (o no) al logro de los resultados esperados por la organización‑cliente.
+    - Se vincula cada hallazgo con la productividad y la eficacia global.
+4. **Propuesta de validación**
+    - Se recomienda qué herramientas y técnicas de acopio de información se usarán para confirmar lo observado (encuestas, entrevistas, indicadores, revisión documental).
+    - Esto asegura que el diagnóstico no quede solo en percepciones.
+
+### Anexo No. 12 — Cédula de observación funcional (versión editable)
+
+<img width="572" alt="image" src="https://github.com/user-attachments/assets/2c086889-cfbe-4112-8cd6-98fc863a077f" />
+
+| **Datos generales** |  |
+| --- | --- |
+| Función observada | (Operación / Mercado / Humana / Finanzas / Dirección) |
+| Responsable de observación | (Nombre del consultor) |
+| Fecha y hora | (dd/mm/aaaa – hh:mm) |
+| Área / puesto observado | (Ej. Cocina, caja, atención al cliente) |
+
+### Tabla de observación estructurada
+
+| **Actividad observada** | **Propósito funcional** | **Efectividad (1–5)** | **Eficiencia (1–5)** | **Evidencia observada** | **Comentario del observador** |
+| --- | --- | --- | --- | --- | --- |
+| Preparación de hamburguesas | Cumplir estándar de calidad | 4 | 3 | Tiempo: 18 min; receta incompleta | Falta checklist visual |
+| Atención en mostrador | Recibir pedidos correctamente | 5 | 4 | Cliente atendido en 2 min | Muy buena actitud |
+| Registro de ventas | Control financiero diario | 3 | 2 | Registro manual, sin desglose | Riesgo de error por duplicidad |
+| Capacitación informal | Transmitir conocimiento operativo | 2 | 3 | Explicación verbal sin guía | No hay formato de inducción |
+| Supervisión de insumos | Asegurar disponibilidad | 4 | 4 | Revisión visual, sin inventario | Se detectó falta de pan |
+
+### Escala de evaluación:
+- **Efectividad:** ¿Se logra lo correcto dentro de lo correcto?
+- **Eficiencia:** ¿Se logra en el menor tiempo y al menor costo?
+- **1 = Muy bajo**, **5 = Muy alto**
+
+### Síntesis del observador
+- **Fortalezas detectadas:**
+    - (Ej. Buen trato al cliente, rapidez en atención, compromiso del personal)
+- **Áreas de oportunidad:**
+    - (Ej. Falta de estandarización, control débil de insumos, capacitación informal)
+- **Propuesta de validación:**
+    - (Ej. Aplicar encuesta breve a clientes; revisar registros de ventas; entrevistar al encargado)
+
+### Reflexión metodológica
+**Este reporte se considera **subjetivo** en primera instancia, ya que se basa en la percepción del observador. Para validar sus hallazgos, se recomienda aplicar herramientas complementarias como encuestas, entrevistas, revisión documental o indicadores operativos.*
+
+---
+
+### ✅ Firma del responsable
+
+| Nombre | Firma | Fecha |
+| --- | --- | --- |
+|  |  |  |
+
+El resultado inicial de este trabajo fue un **primer reporte por observación**, considerado de carácter subjetivo, dado que dependió de la apreciación de cada evaluador. Con el fin de garantizar la validez de los hallazgos, dicho reporte fue sometido posteriormente a técnicas de acopio de información complementarias, asegurando que las conclusiones no provinieran únicamente de percepciones individuales. Este proceso se representó en un **esquema gráfico de validación de observaciones** (véase la figura No. 5), que sintetizó la transición de la observación subjetiva hacia un diagnóstico más objetivo.
+
+### Resultados alcanzados
+- Se obtuvo un panorama preliminar del desempeño organizacional y laboral, basado en observaciones directas.
+- Se identificaron fortalezas y áreas de mejora en la ejecución de funciones y subfunciones.
+- Se generó un primer reporte de observación, que constituyó la base para posteriores validaciones con herramientas objetivas.
+
+## ⚡ **Conclusión**
+El desarrollo de este tercer paso permitió contar con una primera aproximación al desempeño de la organización-cliente, integrando observaciones directas en campo y estableciendo un puente hacia la validación objetiva de los hallazgos. Este proceso fortaleció la credibilidad del diagnóstico y aseguró que las evaluaciones se sustentaran en evidencias verificables.
+
+---
+
+## 🔥4º Paso: **Revisión documental**
+Este paso implica un análisis minucioso de toda la base documental disponible en la empresa. Cada responsable de función solicita la información necesaria a través del representante designado por la organización, con quien intercambia puntos de vista sobre lo identificado en dichas fuentes.
+
+**Fuentes secundarias**
+La documentación revisada se considera de carácter secundario, ya que proviene de datos recopilados previamente por otros. El objetivo es conocer hechos y fenómenos que permitan comprender mejor la situación de la organización.
+
+**Trabajo de gabinete**
+El equipo consultor realiza un análisis conjunto, contrastando hallazgos y emitiendo opiniones calificadas sobre la relación directa e indirecta entre la información documental y los resultados alcanzados por la organización-cliente.
+
+**Fuentes primarias**
+Además de los documentos internos, se recurre a fuentes externas primarias mediante trabajo de campo, recabando información de agentes clave como:
+- Clientes
+- Proveedores
+- Instituciones
+- Sociedad en general
+
+**Propósito final**
+Este paso busca integrar la evidencia documental con la información de campo, generando un diagnóstico más completo y confiable sobre la organización, que permita identificar factores internos y externos que inciden en su desempeño.
+En resumen: el cuarto paso combina la revisión documental interna con la recopilación de información externa primaria, fortaleciendo el diagnóstico con una visión integral que conecta datos, percepciones y resultados organizacionales.
+
+## ⚡ Desarrollo
+
+El cuarto paso del proceso de consultoría se llevó a cabo mediante una revisión minuciosa de la base documental disponible en la organización-cliente. Para ello, cada responsable de función solicitó la información pertinente a través del representante designado por la empresa, con quien se intercambiaron puntos de vista respecto a lo identificado en cada fuente.
+La revisión se centró en **fuentes secundarias**, entendidas como documentos y datos recopilados previamente por otros, cuyo análisis permitió conocer hechos y fenómenos relevantes para el diagnóstico. Este trabajo se sistematizó en un **cuadro de clasificación de fuentes secundarias** (véase el anexo No. 14), en el cual se registraron los documentos revisados, su procedencia y el tipo de información aportada.
+De manera complementaria, se consideraron **fuentes primarias**, obtenidas mediante trabajo de campo con agentes externos de importancia estratégica, tales como clientes, proveedores e instituciones vinculadas. La información recabada se organizó en una **tabla de fuentes primarias consultadas** (véase el anexo No. 15), que permitió distinguir entre testimonios directos, entrevistas y encuestas aplicadas.
+El equipo consultor realizó un **trabajo de gabinete exhaustivo**, en el cual se contrastaron los hallazgos y se emitieron opiniones calificadas sobre la relación directa e indirecta entre la información documental y los resultados alcanzados por la organización. Este proceso se representó en un **esquema gráfico de flujo de revisión documental** (véase la figura No. 6), que sintetizó las etapas de acopio, análisis y validación de la información.
+
+## ⚡ Entregables
+
+1. **Revisión documental interna (fuentes secundarias)**
+    - Cada responsable por función solicita y analiza la documentación disponible en la empresa: manuales, registros contables, reportes de ventas, nóminas, actas de reunión, indicadores operativos, etc.
+    - Se elabora un **informe de revisión documental** que contrasta lo observado en campo (Tercer Paso) con lo que está registrado oficialmente.
+    - Se identifican coincidencias, discrepancias y vacíos de información.
+2. **Trabajo de gabinete del equipo consultor**
+    - Reunión de análisis colectivo donde se integran los hallazgos de cada función.
+    - Se emiten **opiniones calificadas** sobre la relación directa e indirecta entre los hallazgos y los resultados alcanzados por la organización‑cliente.
+    - Se construye un **mapa de evidencias** que conecta observación, documentación y desempeño.
+3. **Fuentes primarias externas**
+    - Recopilación de información de agentes externos clave: clientes, proveedores, instituciones, sociedad local.
+    - Se aplican entrevistas, encuestas o revisión de datos externos (ej. reseñas en línea, benchmarking sectorial).
+    - Se genera un **reporte de fuentes primarias** que complementa la visión interna.
+
+### Procedimiento para el Cuarto Paso
+
+1. **Solicitud y recepción documental**
+    - Enviar solicitud formal al representante interno por función.
+    - Registrar recepción en el **Registro de Solicitud Documental**.
+2. **Revisión documental individual**
+    - Cada responsable analiza documentos asignados y completa una **ficha de revisión** con: resumen, evidencias que confirman observación, discrepancias y vacíos.
+3. **Recolección de fuentes primarias externas**
+    - Ejecutar encuestas, entrevistas y observación según plan.
+    - Registrar evidencias (transcripciones, fotos, capturas, formularios) y anexarlas.
+4. **Trabajo de gabinete colectivo**
+    - Reunir al equipo consultor para integrar hallazgos.
+    - Confrontar fichas de revisión con cédulas de observación y fuentes primarias.
+    - Aplicar análisis estructurado (p. ej., Matriz de Evidencia, Análisis VRIN, 5 Fuerzas de Porter).
+5. **Análisis y priorización**
+    - Evaluar impacto en eficacia y urgencia de intervención.
+    - Priorizar hallazgos con criterios: impacto en resultados, grado de evidencia, riesgo y costo de corrección.
+6. **Redacción del Informe del Cuarto Paso**
+    - Incluir: inventario documental, síntesis por función, matriz de evidencia, análisis Porter, conclusiones y plan de validación.
+    - Adjuntar anexos: transcripciones, encuestas, actas de gabinete y evidencias digitales.
+
+### Resumen
+Entrega un **informe de gabinete** que valide y complemente la observación in situ mediante la revisión exhaustiva de la documentación interna y la recolección sistemática de fuentes primarias externas. El objetivo es contrastar evidencias, identificar discrepancias, priorizar hallazgos y proponer acciones verificables.
+
+---
+
+### Preparación previa
+- Nombramiento de pares: cada responsable por función solicita documentos a su par designado en la empresa.
+- Lista documental inicial: compilar inventario de manuales, reportes, estados financieros, actas, registros operativos y sistemas.
+- Plan de fuentes primarias: definir agentes externos a consultar (clientes, proveedores, competidores, comunidad) y métodos (encuesta, entrevista, observación, análisis de reseñas).
+- Equipo y calendario: fijar reuniones de gabinete, responsables de análisis y plazos de entrega.
+
+---
+
+### Integración, validación y salida del gabinete
+** - Triangulación:** contrastar observación, documentos y fuentes externas; ajustar hipótesis.
+** - Opiniones calificadas:** el equipo emite juicios sobre relaciones causales entre hallazgos y resultados organizacionales.
+** - Plan de validación:** definir auditorías puntuales, muestreos, encuestas ampliadas o pruebas piloto para confirmar hallazgos.
+** - Entregables:** Informe del Cuarto Paso con anexos (inventario documental, transcripciones, matrices, plan de acción).
+
+---
+
+### Cronograma, control de calidad y riesgos
+**- Cronograma sugerido:** 10–15 días para revisión documental y recolección primaria; 3–5 días para trabajo de gabinete; 5 días para redacción y entrega.
+**- Control de calidad:** checklist de inclusión de evidencias, verificación de fuentes, firma de responsables y validación por el representante interno.
+**- Riesgos y mitigación:**
+    - *Falta de documentos* → solicitar acta formal y escalamiento.
+    - *Sesgo en entrevistas* → usar guías semiestructuradas y grabar con permiso.
+    - *Evidencia contradictoria* → ampliar muestra y aplicar pruebas objetivas (conciliaciones, auditorías).
+
+---
+
+**Anexo operativo inmediato**
+- Implementa el **Registro de Solicitud Documental** y la **Tabla de Fuentes Primarias** hoy mismo; programa la primera reunión de gabinete dentro de 7 días para iniciar la triangulación y priorización.
+## r4
+- Se obtuvo una visión integral de la información secundaria y primaria disponible.
+- Se identificaron hallazgos relevantes que fortalecieron el diagnóstico inicial.
+- Se generó un primer panorama validado sobre la relación entre los documentos revisados y el desempeño de la organización-cliente.
+
+## ⚡ Conclusión
+El desarrollo de este cuarto paso permitió consolidar la revisión documental como un insumo esencial del diagnóstico, integrando fuentes internas y externas en un marco de análisis riguroso y participativo. La combinación de trabajo de campo y gabinete aseguró que los hallazgos fueran confiables y pertinentes para la evaluación integral.
+
+---
+
+## 🔥 5º Paso
+
+### **Retroalimentación y validación**
+Este paso busca transformar el reporte de observación subjetivo en un reporte objetivo, mediante el uso de técnicas y herramientas de acopio de información que permitan confirmar o complementar lo observado.
+
+**Técnicas empleadas**
+- Cuestionarios: deben ser breves, claros y con predominio de preguntas cerradas para facilitar la sistematización de resultados.
+- Entrevistas: útiles en investigación cualitativa; pueden ser estructuradas, semiestructuradas o no estructuradas (en profundidad), según el tipo de información que se requiera.
+- Encuestas: recogen opiniones de una muestra representativa, con preguntas fáciles de entender, abiertas o cerradas, sobre una temática definida.
+
+**Tipos de preguntas**
+Se distinguen dos grandes categorías:
+1. Convergentes: buscan aclarar detalles específicos (qué, dónde, quién, cuándo).
+2. Divergentes: amplían el contexto (por qué, qué pasa si), estimulando reflexión y visión más amplia.
+
+**Proceso de análisis**
+El análisis alterna ciclos de ampliación (generar múltiples opciones, objetivos o cursos de acción) y reducción (seleccionar los más relevantes o prometedores). La calidad de las preguntas y la disposición de los informantes son claves para obtener información confiable y fortalecer la relación con ellos.
+
+**Propósito final**
+Este paso convierte la observación inicial en un diagnóstico sólido y verificable, aportando información útil para la toma de decisiones y asegurando que el proceso consultor sea confiable, eficiente y respetuoso de las personas involucradas.
+En resumen: el quinto paso es la validación objetiva de la observación inicial, mediante cuestionarios, entrevistas y encuestas, apoyándose en preguntas bien diseñadas que permitan obtener información precisa y contextual, fortaleciendo tanto el análisis como la relación con los agentes consultados.
+
+## ⚡ Desarrollo
+El quinto paso del proceso de consultoría se llevó a cabo con el propósito de transformar el reporte de observación subjetivo en un reporte objetivo, mediante la aplicación de técnicas de acopio de información que permitieron confirmar, complementar y sistematizar los hallazgos obtenidos en campo.
+Para ello, el equipo consultor diseñó y aplicó diversos instrumentos de recolección de datos, entre los que destacaron cuestionarios, entrevistas y encuestas, todos ellos elaborados con objetivos precisos y pertinentes. Los cuestionarios se estructuraron con predominio de preguntas cerradas, a fin de facilitar la sistematización de resultados, y se documentaron en un **anexo de cuestionarios de referencia** (véase el anexo No. 13).
+En cuanto a las entrevistas, se emplearon tres modalidades: estructuradas, semiestructuradas y no estructuradas o en profundidad. Cada modalidad se seleccionó en función del tipo de información requerida, y se organizó en un **cuadro comparativo de tipos de entrevistas** (véase el anexo No. 14), que permitió visualizar sus características y aplicaciones dentro del proceso.
+Las encuestas, por su parte, se aplicaron a una muestra representativa del universo de agentes considerados, con preguntas claras y fáciles de entender. Los resultados se registraron en una **tabla de encuestas aplicadas y su representatividad** (véase el anexo No. 15), asegurando que la información obtenida reflejara de manera confiable las opiniones y percepciones de los participantes.
+El análisis se enriqueció con la clasificación de las preguntas en dos categorías:
+- Preguntas convergentes (qué, dónde, quién, cuándo), orientadas a obtener detalles específicos.
+- Preguntas divergentes (por qué, qué pasaría si), destinadas a ampliar el contexto y explorar nuevas perspectivas.
+
+Este proceso se representó en un **esquema gráfico del ciclo de retroalimentación** (véase la figura No. 7), que sintetizó la transición de la observación subjetiva hacia un diagnóstico objetivo, mostrando cómo las técnicas aplicadas contribuyeron a la validación de los hallazgos.
+
+## ⚡ Resultados alcanzados
+
+- Se logró la validación objetiva de las observaciones iniciales, reduciendo la subjetividad del reporte preliminar.
+- Se obtuvo información estructurada y sistematizada mediante cuestionarios, entrevistas y encuestas.
+- Se fortaleció la credibilidad del diagnóstico, al integrar datos provenientes de diferentes técnicas y fuentes.
+- Se consolidó un reporte objetivo de observación, que sirvió como insumo fundamental para la evaluación integral.
+
+## ⚡ Conclusión
+
+El desarrollo de este quinto paso permitió convertir las observaciones preliminares en información objetiva y confiable, asegurando que el diagnóstico se sustentara en evidencias verificables y en la participación activa de los agentes involucrados. Este proceso fortaleció la relación con los informantes y garantizó la pertinencia de los hallazgos para la toma de decisiones estratégicas.
+
+## Checklist
+
+- **Documento de hipótesis generado.**
+- **Instrumentos diseñados y pilotados.**
+- **Muestra definida y aprobada.**
+- **Plan logístico con fechas y responsables.**
+- **Registro de evidencias y formatos de captura listos.**
+- **Criterios de validación y métricas definidas.**
+
+### **Documento de Hipótesis — El Agaveño Burgers**
+
+**Formato listo para imprimir y firmar**
+
+---
+
+### Portada
+
+**Título:** Documento de Hipótesis — Validación Cuarto → Quinto Paso
+
+**Empresa:** El Agaveño Burgers
+
+**Periodo de trabajo de campo:** (dd/mm/aaaa – dd/mm/aaaa)
+
+**Equipo consultor:** (Nombres y roles)
+
+**Representante interno:** (Nombre y cargo)
+
+**Fecha de emisión:** (dd/mm/aaaa)
+
+### 1. Propósito
+
+**Objetivo:** Formular hipótesis verificables, derivadas de la revisión documental y fuentes primarias, que guiarán el diseño de instrumentos y la recolección de datos del Quinto Paso para obtener un reporte por observación objetivo.
+
+<img width="636" alt="image" src="https://github.com/user-attachments/assets/7534acc9-1eba-4d33-a338-330fa1a62f2b" />
+
+### 2. Hipótesis verificables
+
+1. **H1 — Consistencia de producto:** La variabilidad en la preparación de hamburguesas explica la insatisfacción de clientes recurrentes.
+2. **H2 — Tiempo de servicio:** Los tiempos de preparación y entrega superan los estándares internos y afectan la tasa de repetición de clientes.
+3. **H3 — Control de inventarios:** Las discrepancias en inventarios se deben a registros manuales y provocan faltantes frecuentes.
+4. **H4 — Capacitación:** La ausencia de un plan formal de inducción y capacitación reduce la eficiencia operativa y aumenta errores.
+5. **H5 — Relación con proveedores:** La dependencia de un proveedor clave incrementa riesgo de rupturas de stock y costos.
+6. **H6 — Percepción de valor:** El precio percibido por los clientes no se alinea con la calidad y servicio ofrecidos, afectando conversión y retención.
+7. **H7 — Canales de venta:** La falta de integración entre ventas presenciales y delivery genera diferencias en ticket promedio y tiempos de entrega.
+
+### 3. Variables, indicadores y fuentes de verificación
+
+| **Hipótesis** | **Variable** | **Indicador (KPI)** | **Fuente de verificación** |
+| --- | --- | --- | --- |
+| H1 | Consistencia de producto | % pedidos conformes | Observación; encuestas clientes |
+| H2 | Tiempo de servicio | Tiempo promedio pedido→entrega (min) | Observación; registros POS |
+| H3 | Control de inventarios | % discrepancia inventario | Reportes inventario; auditoría |
+| H4 | Capacitación | Horas capacitación/empleado/mes | Registros RRHH; encuestas personal |
+| H5 | Dependencia proveedor | % compras de proveedor clave | Órdenes de compra; entrevistas proveedor |
+| H6 | Percepción de valor | Índice satisfacción precio/valor (1–5) | Encuestas clientes; reseñas |
+| H7 | Integración canales | Diferencia ticket promedio (%) | Reportes ventas POS; plataformas delivery |
+
+### 4. Instrumentos y diseño de recolección (resumen listo para pilotar)
+
+- **Encuesta corta a clientes (presencial/digital):** 8 preguntas cerradas (Likert 1–5) + 1 abierta; objetivo H1, H2, H6; duración 3–5 min.
+- **Entrevista semiestructurada a proveedores:** 6–8 preguntas abiertas; objetivo H5; grabación con permiso.
+- **Encuesta/entrevista al personal operativo y de caja:** semiestructurada; 6 preguntas; objetivo H3, H4, H7.
+- **Observación estructurada (checklist):** ítems: tiempos, cumplimiento receta, control porciones, checklist salida; objetivo H1, H2, H7.
+- **Revisión documental puntual:** reportes POS, libros de inventario, órdenes de compra, registros de capacitación; objetivo H3, H5, H7.
+
+### 5. Muestra, logística y calendario
+
+| **Instrumento** | **Universo** | **Muestra sugerida** | **Responsable** |
+| --- | --- | --- | --- |
+| Encuesta clientes | Clientes presenciales y delivery | 100 respuestas (mix) | Responsable Mercado |
+| Observación estructurada | Turnos pico (almuerzo/cena) | 10 turnos observados | Responsable Operación |
+| Entrevistas proveedores | Proveedores clave (pan, carne) | 3 entrevistas | Responsable Finanzas |
+| Encuesta personal | Personal operativo y caja | 100% del personal operativo | Responsable Humana |
+
+**Fechas estimadas:** Pilotaje instrumentos (Día 2–4); Recolección (Día 5–14); Procesamiento y análisis (Día 15–18); Entrega reporte objetivo (Día 19–20).
+
+### 6. Criterios de validación y umbrales sugeridos
+
+- **Triangulación:** una hipótesis se considera *confirmada* si al menos dos fuentes independientes coinciden (documental + primaria o primaria + primaria). *Parcial* si evidencia mixta; *rechazada* si evidencia contradictoria.
+- **Umbrales sugeridos:** % pedidos conformes ≥ 95% (H1); tiempo promedio ≤ 15 min (H2); discrepancia inventario ≤ 3% (H3); rotación ≤ 30% anual (H4).
+
+---
+
+### 7. Entregables asociados
+
+- Documento de Hipótesis firmado.
+- Instrumentos piloto (encuesta clientes, guía entrevista proveedores, checklist observación).
+- Plan de muestreo y calendario con responsables.
+- Formato de registro de evidencias para anexos.
+
+---
+
+### 8. Aprobación y firmas
+
+**Aprobación del representante interno**
+
+Nombre: __________________________
+
+Cargo: ___________________________
+
+Firma: ___________________________
+
+Fecha: ____ / ____ / ______
+
+**Aprobación del líder del equipo consultor**
+
+Nombre: __________________________
+
+Cargo: ___________________________
+
+Firma: ___________________________
+
+Fecha: ____ / ____ / ______
+
+### Recopilación de datos resultantes del checklist y estructura completa del paquete documental
+
+**El Agaveño Burgers — Quinto Paso (Reporte por observación objetivo)**
+
+## 1. Resumen ejecutivo
+
+**Propósito:** Consolidar los datos recolectados según el checklist operativo y validar las hipótesis del Documento de Hipótesis.
+
+**Alcance:** 100 encuestas clientes (60 presencial / 40 delivery), 35 observaciones en un turno de 7 horas ( 16:00 - 23:00), observar mínimo 5 pedidos por hora, 3 entrevistas a proveedores, 100% del personal operativo encuestado, revisión documental solicitada.
+
+**Resultado esperado:** Matriz de triangulación que clasifica cada hipótesis como *Confirmada / Parcial / Rechazada*, con evidencias y acciones prioritarias.
+
+---
+
+## 2. Recopilación de datos por instrumento
+
+### 2.1 Encuesta corta a clientes — **Resumen agregado**
+
+| **Indicador** | **Valor** |
+| --- | --- |
+| Respuestas totales | **100** |
+| Frecuencia visitantes: Primera vez / Ocasional / Frecuente | **20 / 50 / 30** |
+| Sabor (promedio 1–5) | **4.2** |
+| Pedido llegó en tiempo esperado (Sí) | **78%** |
+| Presentación/porciones (promedio 1–5) | **4.0** |
+| Precio adecuado (promedio 1–5; 1=bajo,5=alto) | **3.6** |
+| Recomendaría (Sí) | **82%** |
+| Volverá en 30 días (Sí) | **65%** |
+| Comentarios recurrentes (top 3) | **“Variación en sabor”; “Buen trato”; “A veces tarda delivery”** |
+
+**Metadatos:** 60 presencial (tiempo medio aplicación 3:20 min), 40 delivery (aplicadas por seguimiento telefónico; tiempo medio 2:40 min).
+
+---
+
+### 2.2 Observación estructurada
+
+| **Indicador** | **Valor agregado** |
+| --- | --- |
+| Pedidos observados | **50** |
+| Tiempo promedio pedido→entrega | **16:30 min** |
+| Cumplimiento receta (estimado) | **92%** |
+| Control de porciones (Correcto) | **88%** |
+| Uso checklist salida | **60%** |
+| Trato al cliente (promedio 1–5) | **4.4** |
+| Incidencias frecuentes | **Retrasos en picos; omisión de checklist en salida** |
+
+---
+
+### 2.3 Entrevistas a proveedores (3) — **Síntesis**
+
+| **Proveedor** | **Plazo promedio** | **Dependencia (%)** | **Riesgos identificados** |
+| --- | --- | --- | --- |
+| Pan | 24–48 h | 45% | Variabilidad en entregas en temporada alta |
+| Carne | 48–72 h | 60% | Precio volátil; dependencia alta |
+| Insumos complementarios | 72 h | 30% | Alternativas locales limitadas |
+
+**Insights cualitativos:** necesidad de acuerdos formales de servicio; posibilidad de segundo proveedor para carne; negociar condiciones de pago para reducir riesgo.
+
+---
+
+### 2.4 Encuesta/entrevista al personal (censo) — **Resumen**
+
+| **Indicador** | **Valor** |
+| --- | --- |
+| Empleados encuestados | **Todos (n)** |
+| Inducción formal recibida | **40% Sí / 60% No** |
+| Fichas técnicas disponibles | **55% Sí / 45% No** |
+| Frecuencia capacitación | **Mayoría: Nunca / Ocasional** |
+| Horas capacitación promedio/mes | **0.8 h** |
+| Problemas recurrentes reportados | **Falta de estandarización; rotación en turnos; registros manuales** |
+
+---
+
+### 2.5 Revisión documental puntual — **Disponibilidad y hallazgos**
+
+| **Documento** | **Disponibilidad** | **Hallazgo clave** |
+| --- | --- | --- |
+| Reportes POS (últimos 3 meses) | **Sí** | Datos consolidados; falta conciliación diaria |
+| Libros de inventario | **Parcial** | Registros manuales; faltantes no conciliados |
+| Registros de capacitación | **No completos** | Falta plan formal documentado |
+| Órdenes de compra | **Sí (parciales)** | Dependencia alta en proveedor carne |
+
+---
+
+## 3. Matriz de triangulación y validación de hipótesis
+
+| **Hipótesis** | **Evidencia documental** | **Evidencia primaria** | **Resultado (C/P/R)** | **Comentario** |
+| --- | --- | --- | --- | --- |
+| H1 Consistencia producto | Fichas técnicas parciales | Encuesta sabor 4.2; observación cumplimiento 92% | **Parcial** | Variabilidad percibida por clientes; cumplimiento alto pero hay variación puntual. |
+| H2 Tiempo servicio | Registros POS (sin conciliación) | Observación 16:30 min; 78% clientes tiempo esperado | **Parcial** | Promedio ligeramente por encima del umbral (≤15 min). Mejorar procesos en picos. |
+| H3 Control inventarios | Libros parciales | Entrevistas personal + auditoría rápida (discrepancia estimada 6%) | **Rechazada** (no cumple) | Discrepancia >3% umbral; registros manuales generan faltantes. |
+| H4 Capacitación | Registros incompletos | Encuesta personal: 60% sin inducción; 0.8 h/mes | **Rechazada** | Necesario plan formal de inducción y capacitación. |
+| H5 Proveedores | Órdenes de compra | Entrevistas proveedores: dependencia carne 60% | **Parcial** | Dependencia alta; riesgo identificado. |
+| H6 Percepción valor | Reseñas + encuestas | Índice precio/valor 3.6/5 | **Parcial** | Percepción aceptable pero margen para mejorar relación precio‑valor. |
+| H7 Integración canales | Reportes POS vs delivery | Ticket promedio diferencia ~12% | **Parcial** | Diferencia cercana al umbral (≤10%); requiere conciliación y control de procesos delivery. |
+
+**Leyenda:** C=Confirmada; P=Parcial; R=Rechazada.
+
+---
+
+## 4. Métricas clave y cumplimiento frente a umbrales
+
+| **KPI** | **Valor observado** | **Umbral definido** | **Cumple** |
+| --- | --- | --- | --- |
+| % pedidos conformes | 92% | ≥95% | No |
+| Tiempo promedio pedido→entrega | 16:30 min | ≤15 min | No |
+| % discrepancia inventario | ~6% | ≤3% | No |
+| Horas capacitación/empleado/mes | 0.8 h | ≥2 h | No |
+| Dependencia proveedor clave (carne) | 60% | ≤70% | Sí |
+| Índice satisfacción precio/valor | 3.6/5 | ≥4/5 | No |
+| Diferencia ticket presencial vs delivery | 12% | ≤10% | No |
+
+---
+
+## 🔥 6º Paso
+
+### **Evaluación integral de la situación actual**
+Este paso busca realizar una valoración profunda y pertinente de cada una de las funciones básicas analizadas en la intervención (operación, mercado, humana, finanzas y dirección). El objetivo es identificar las capacidades reales de la organización-cliente, derivadas del uso racional de sus recursos, y cómo estas se traducen en competencias centrales.
+
+**Dimensiones de desempeño**
+La evaluación se centra en tres aspectos clave:
+- **Efectividad**: cumplimiento correcto de los fines establecidos.
+- **Eficiencia**: logro de resultados en menor tiempo y con menor costo.
+- **Eficacia**: integración de efectividad y eficiencia para alcanzar los objetivos organizacionales.
+
+**Primer análisis de resultados**
+Se genera un panorama inicial que se presenta a la organización-cliente, otorgándole el derecho de réplica. Si no existe consenso sobre lo notificado, se identifican las razones de la discrepancia y se acuerdan medidas para lograr coincidencia en los puntos de vista.
+
+**Validación con herramientas de diagnóstico**
+Este primer análisis se somete posteriormente a la aplicación de modelos y herramientas de diagnóstico, con el fin de asegurar que la evaluación refleje de manera real y objetiva la situación actual de la operación y funcionamiento de la organización.
+En resumen: el sexto paso consolida todo lo trabajado previamente en una evaluación integral y validada, que permite a la organización-cliente reconocer sus capacidades, competencias y desempeño, asegurando transparencia mediante el derecho de réplica y la aplicación de herramientas diagnósticas.
+
+## Desarrollo
+El sexto paso del proceso de consultoría se llevó a cabo con el propósito de realizar una evaluación profunda y pertinente de la situación actual de la organización-cliente, considerando los fines que atiende cada función básica dentro del proceso de intervención. Esta fase permitió identificar las capacidades reales de la empresa a partir del empleo racional de los recursos disponibles, lo que contribuyó directamente al logro de sus competencias centrales.
+
+El equipo consultor elaboró un **primer análisis de resultados**, en el cual se valoraron los indicadores de efectividad, eficiencia y eficacia. Dicho análisis fue presentado a la organización-cliente, otorgándole el **derecho de réplica** para asegurar transparencia y participación activa. En caso de discrepancias, se identificaron las razones de las diferencias y se acordaron medidas que garantizaran la coincidencia en los puntos de vista. Este proceso se documentó en un **cuadro de réplica y consenso** (véase el anexo No. 16), que permitió registrar las observaciones de la empresa y las respuestas del equipo consultor.
+
+#### **Anexo Nº 16 – Cuadro de réplica y consenso**
+
+| **Función básica** | **Hallazgo inicial (equipo consultor)** | **Observación / réplica (organización-cliente)** | **Respuesta del equipo consultor** | **Medida de consenso acordada** |
+| --- | --- | --- | --- | --- |
+| **Operación** | Se identificó cumplimiento parcial de estándares de calidad en procesos clave. | La organización argumenta que los estándares aplicados no reflejan las particularidades de su sector. | Se reconoce la validez de la observación y se acuerda ajustar los criterios de evaluación a parámetros sectoriales. | Adaptar indicadores de calidad a estándares propios del giro empresarial. |
+| **Mercado** | Estrategia comercial con baja diversificación de canales de venta. | La empresa señala que se encuentra en proceso de implementar nuevos canales digitales. | Se valida el avance y se ajusta el diagnóstico para reflejar la etapa de transición. | Incorporar cronograma de implementación de canales digitales en el análisis. |
+| **Humana** | Capacitación insuficiente en competencias digitales para el personal operativo. | La organización indica que existen programas internos de formación que no fueron considerados. | Se revisan los programas y se integran al diagnóstico como evidencia complementaria. | Documentar y registrar los programas internos de capacitación en el informe final. |
+| **Finanzas** | Alta dependencia de un solo flujo de ingresos. | La empresa informa que se están explorando nuevas líneas de negocio. | Se reconoce la iniciativa y se ajusta la evaluación para reflejar proyectos en curso. | Registrar proyectos de diversificación financiera en el diagnóstico integral. |
+| **Dirección** | Falta de mecanismos formales de seguimiento estratégico. | La organización afirma que existen reuniones informales de seguimiento. | Se valida la práctica y se recomienda formalizarla para asegurar trazabilidad. | Diseñar protocolo documentado de seguimiento estratégico con responsables definidos. |
+
+### **Matriz comparativa de estándares: genéricos vs. giro restaurantero (comida rápida)**
+
+### *Aplicable al caso de El Agaveño Burgers*
+
+| **Categoría de calidad** | **Estándares genéricos (no sectoriales)** | **Estándares específicos del giro restaurantero de comida rápida** | **Justificación técnica de la adaptación** |
+| --- | --- | --- | --- |
+| **1. Procesos operativos** | Eficiencia general del proceso.Productividad por área.Control básico de tiempos. | **Tiempo promedio de preparación por producto (TPP).Tiempo de entrega en mostrador o drive‑thru.% de pedidos entregados sin error.** | La comida rápida exige **velocidad, precisión y consistencia**, no solo eficiencia general. |
+| **2. Higiene y seguridad alimentaria** | Cumplimiento genérico de normas de higiene.Control básico de limpieza. | **Cumplimiento NOM‑251‑SSA1‑2009.Control de temperaturas (cocción, conservación, recalentamiento).Prevención de contaminación cruzada.Checklist de sanitización por turno.** | El giro restaurantero está regulado por **normas sanitarias obligatorias**; requiere indicadores específicos. |
+| **3. Experiencia del cliente** | Satisfacción general del cliente.Evaluación de servicio. | **Tiempo de espera en fila.Índice de satisfacción post‑visita (encuesta rápida).Tasa de repetición de clientes.** | En comida rápida, la experiencia depende de **rapidez + precisión + limpieza**, no solo satisfacción general. |
+| **4. Productos y consistencia** | Calidad del producto final.Control de defectos. | **Estándares de presentación del producto.Gramaje y porciones estandarizadas.% de productos devueltos o rehechos.** | La consistencia es clave para marcas de comida rápida; requiere **estandarización estricta**. |
+| **5. Recursos y mermas** | Control general de inventarios.Costos operativos. | **% de merma por turno.Rotación de inventario perecedero.Control de aceite y grasas (normativa municipal).** | El giro maneja **insumos perecederos** y procesos sensibles (aceites, carnes), por lo que requiere métricas específicas. |
+| **6. Personal y capacitación** | Capacitación general.Competencias laborales básicas. | **Capacitación en higiene (NOM‑251).Manejo higiénico de alimentos (NOM‑093).Uso de EPP (NOM‑017‑STPS).** | El personal debe cumplir **normas sanitarias y de seguridad** específicas del sector. |
+| **7. Cumplimiento normativo** | Cumplimiento administrativo general. | **NOM‑251‑SSA1‑2009** (higiene).**NOM‑093‑SSA1‑1994** (preparación de alimentos).**NOM‑120‑SSA1‑1994** (productos cárnicos).**Reglamento de Salud Municipal Guadalajara.** | El giro restaurantero está altamente regulado; los indicadores deben reflejar **cumplimiento legal obligatorio**. |
+
+**Cómo usar esta matriz en tu tesis**
+
+Puedes integrarla así:
+
+✔ En el **Anexo Nº 16**, como evidencia de la medida acordada:
+
+“Adaptar indicadores de calidad a estándares propios del giro restaurantero.”
+
+✔ En el **Anexo Nº 17**, como parte de la tabla de indicadores de desempeño.
+
+✔ En el **Capítulo metodológico**, para justificar la pertinencia sectorial del diagnóstico.
+
+- Cada discrepancia se documentó con precisión, evitando ambigüedades y garantizando la trazabilidad del proceso de réplica.
+- Las medidas de consenso acordadas se definieron como **acciones concretas**, con responsables y plazos, vinculadas al **Anexo Nº 17 (tabla de indicadores de desempeño)** y a la **Figura Nº 8 (ciclo de evaluación y réplica)**.
+
+Posteriormente, este panorama inicial fue sometido a la **estimación y aplicación de herramientas de diagnóstico**, con el fin de asegurar la identificación real de la situación actual de la operación y funcionamiento de la organización. Para ello, se diseñó una **tabla de indicadores de desempeño organizacional** (véase el anexo No. 17), en la cual se clasificaron los hallazgos según las tres dimensiones clave:
+
+- Efectividad: cumplimiento correcto de los fines establecidos.
+- Eficiencia: logro de resultados en menor tiempo y con menor costo.
+- Eficacia: integración de efectividad y eficiencia para alcanzar los objetivos organizacionales.
+
+#### **Anexo Nº 17 – Tabla de indicadores de desempeño organizacional**
+
+| **Función básica** | **Indicador de efectividad** | **Indicador de eficiencia** | **Indicador de eficacia** | **Observaciones / hallazgos** |  |
+| --- | --- | --- | --- | --- | --- |
+| **Operación** | % de cumplimiento de estándares de calidad en procesos clave. | Tiempo promedio de ciclo de producción por unidad. | Relación entre cumplimiento de estándares y reducción de tiempos de producción. | Se evidenció cumplimiento parcial de estándares, con oportunidad de mejora en tiempos de ciclo. |  |
+| **Mercado** | Nivel de penetración en segmentos objetivo (% de clientes alcanzados). | Costo promedio de adquisición de cliente (CAC). | Relación entre penetración de mercado y sostenibilidad del CAC. | Estrategia comercial en transición hacia diversificación digital; se requiere seguimiento a cronograma. |  |
+| **Humana** | % de personal capacitado en competencias digitales. | Tiempo promedio de incorporación de nuevas competencias en la operación. | Relación entre nivel de capacitación y reducción de errores operativos. | Se identificó capacitación parcial; programas internos deben documentarse para fortalecer evidencia. |  |
+| **Finanzas** | Diversificación de fuentes de ingreso (% de ingresos por nuevas líneas). | Relación costo-beneficio de proyectos de expansión. | Impacto de la diversificación en la estabilidad financiera. | Alta dependencia de un flujo principal; proyectos de diversificación en curso deben registrarse. |  |
+| **Dirección** | Existencia de mecanismos formales de seguimiento estratégico. | Frecuencia y costo de reuniones de seguimiento. | Relación entre mecanismos de seguimiento y cumplimiento de metas estratégicas. | Se constató práctica informal de seguimiento; se recomienda formalizar protocolos documentados. |  |
+
+El proceso se representó en una **figura esquemática del ciclo de evaluación y réplica** (véase la figura No. 8), que sintetizó las etapas de análisis inicial, presentación de resultados, réplica de la organización y validación mediante herramientas diagnósticas.
+
+<img width="568" alt="image" src="https://github.com/user-attachments/assets/22d4d4b5-309d-467a-987f-c8d6fc846f62" />
+
+## Resultados alcanzados
+
+- Se obtuvo una evaluación integral de la situación actual, basada en indicadores de desempeño organizacional y laboral.
+- Se identificaron las capacidades y competencias centrales de la organización-cliente.
+- Se garantizó la participación activa de la empresa mediante el derecho de réplica y el consenso en los hallazgos.
+- Se fortaleció la objetividad del diagnóstico al complementar el análisis inicial con herramientas y modelos de evaluación.
+
+## **Conclusión**:
+
+El desarrollo de este sexto paso permitió consolidar un diagnóstico confiable y participativo, en el cual la organización-cliente no solo conoció sus capacidades y limitaciones, sino que también tuvo la oportunidad de validar y consensuar los hallazgos. Este proceso aseguró que la evaluación integral reflejara de manera precisa la situación actual, constituyendo un insumo fundamental para los pasos posteriores del modelo.
+
+
+## 🔥 7º Paso **Estimacion de Modelos y Herramientas de Diagnóstico**
+En esta etapa se procedió a validar y profundizar el primer panorama obtenido del análisis objetivo. El propósito fue someter los hallazgos preliminares a una batería de modelos diagnósticos, con el fin de verificar, matizar y consolidar la situación real de la organización‑cliente. Se buscó además documentar las discrepancias surgidas en la réplica del cliente y transformarlas en evidencia técnica que alimentara la Matriz FODA
+
+## ⚡ **Metodología**
+
+1. Revisión del informe preliminar (resultado del Paso 6). Se registraron consensos y desacuerdos, y se definieron las preguntas de verificación.
+2. Selección de modelos y herramientas. Se priorizó el MEO (Matriz “Lo que es”) como modelo base y se complementó con: autoevaluación por modelos de excelencia, campo de fuerzas (Lewin) enriquecido con lectura de polaridades, Sensing/redarquía, diagrama causa‑efecto y Pareto.
+3. Aplicación sistemática por modelo. Cada modelo se ejecutó con protocolo estandarizado: objetivo, método, fuentes, responsables, cronograma y anexos de evidencia.
+4. Análisis individual de resultados. Se elaboró un informe por modelo que incluyó hallazgos, evidencias y grado de concordancia con el informe preliminar.
+5. Integración y consolidación. Se cruzaron los resultados para producir un diagnóstico consolidado que alimentó la Matriz FODA del Paso 8.
+
+#### Regla práctica
+Todo hallazgo del Paso 7 debe mapearse a una **evidencia** en el Paso 10: la Auditoría administrativa (registro POS, foto, acta de entrevista) y a un **indicador** en el Paso 9 para seguimiento.
+**Ejemplo:** si Paso 7 detecta alta variabilidad en tiempos de preparación (insumo: observación MEO), auditoría medirá tiempos por estación y propondrá estandarización de recetas y formación (Paso 10).
+
+#### Revisión del informe preliminar
+Se presentó el informe preliminar en sesión con la dirección y mandos medios; se registraron observaciones y se acordó el alcance del Paso 7.
+**Anexo No. 20:** *Acta de réplica y acuerdos* (tabla simple con columnas: **Fecha; Participantes; Punto observado; Réplica del cliente; Acción acordada**).
+
+### Integración de resultados y preparación para el Paso 8
+Se consolidaron los informes individuales en una matriz de convergencia que mostró coincidencias, contradicciones y vacíos de evidencia. A partir de esa matriz se generó el insumo para la **Matriz FODA**: fortalezas (p. ej., procesos documentados), debilidades (p. ej., control estadístico), oportunidades (p. ej., demanda creciente en segmento Y) y amenazas (p. ej., variabilidad de proveedores).
+
+**Anexo ejemplo (Matriz de convergencia — extracto):**
+
+| **Tema** | **MEO** | **Autoevaluación** | **Lewin** | **Sensing** | **Conclusión** |
+| --- | --- | --- | --- | --- | --- |
+| Calidad producto X | Conformidad 88% | Procesos medianos | Resistencia a cambio | Quejas clientes | Prioridad alta: estandarizar y controlar materia prima |
+
+
+### Resultados alcanzados (redacción en pasado)
+
+- Se **validaron** y **corroboraron** los hallazgos preliminares mediante la Matriz “Lo que es”, lo que permitió identificar rupturas entre procesos y resultados.
+- La autoevaluación **evidenció** brechas de liderazgo y gestión por procesos que explicaron parte de la variabilidad operativa.
+- El mapa de fuerzas (Lewin) **explicó** resistencias culturales y permitió diseñar palancas de intervención concretas.
+- El piloto Sensing y el análisis de redarquía **identificaron** nodos informales que aceleraron o frenaron la adopción de cambios.
+- Los diagramas causa‑efecto y Pareto **priorizaron** las causas raíz, concentrando las acciones en las que generaban mayor impacto.
+- Se **entregó** un diagnóstico consolidado que alimentó la Matriz FODA y sirvió como base para las fases de estandarización y validación comercial.
+
+
+### Conclusiones (redacción en pasado, tono interpersonal)
+
+Con la aplicación ordenada de los modelos, se **logró** transformar la réplica inicial del cliente en evidencia técnica y consensuada. El enfoque sistémico del MEO, combinado con herramientas normativas (modelos de excelencia), analíticas (Pareto, Ishikawa) y culturales (Lewin + lectura de polaridades, Sensing), **permitió** construir un diagnóstico robusto y accionable. Las conclusiones principales fueron que la organización **tenía** procesos documentados pero **carecía** de controles estadísticos y de una gobernanza de redes informales; por ello, las intervenciones posteriores se **orientaron** a estandarizar procesos críticos, fortalecer la gestión de proveedores y activar embajadores internos para el cambio. En conjunto, el Paso 7 **cumplió** su propósito de producir un insumo técnico y consensuado para el Paso 8.
+
+
+### Anexos sugeridos (lista completa y ejemplos concretos)
+
+1. **Acta de réplica y acuerdos** (formato: fecha, participantes, punto, réplica, acción).
+2. **Matriz “Lo que es”** (tabla completa por proceso con evidencias y métricas).
+3. **Resumen de autoevaluación** (cuestionario aplicado, puntajes por dimensión, análisis).
+4. **Mapa de fuerzas (Lewin)** por problema (documento gráfico + tabla de palancas).
+5. **Ficha piloto Sensing** (objetivo, canales, responsables, hallazgos).
+6. **Mapa de red interna** (nodos, conexiones, influencia).
+7. **Diagrama Ishikawa** por problema priorizado (archivo gráfico + resumen).
+8. **Tabla Pareto** con causas y acumulado.
+9. **Matriz de convergencia** (cruce de modelos).
+10. **Consolidado para FODA** (documento que alimentó el Paso 8).
+
+**Cada anexo se **presentó** con metadatos: autor del análisis, fecha, fuentes consultadas, método de recolección y nivel de evidencia (alta/ media/ baja).*
+
+
+### Entregables finales del Paso 7 (lo que se dejó al cliente)
+
+- Informe técnico por modelo (seis documentos).
+- Paquete de anexos (10 ítems) con evidencias y formatos editables.
+- Documento síntesis para FODA.
+- Recomendaciones priorizadas y plan de acciones inmediatas (3–6 meses).
+
+---
+
+## ⚡ Redacción en formato académico requerido para tesis: cada sección se desarrolla en tiempo pasado, con tono impersonal y lenguaje atemporal; se añaden ejemplos concretos de anexos que se deben incorporar.
+---
+El séptimo paso del proceso de consultoría se llevó a cabo con el propósito de integrar modelos y herramientas de diagnóstico organizacional, cuya pertinencia y consistencia han sido comprobadas en la práctica. Esta fase permitió enriquecer el análisis de la situación actual mediante metodologías estructuradas que aportaron evidencias sobre los distintos componentes de la organización- cliente.
+
+### 👉 Modelo de Elementos Organizacionales
+
+En primer lugar, se aplicó el Modelo de Elementos Organizacionales, utilizando la matriz denominada *“Lo que es”*. Esta herramienta permitió evaluar cinco aspectos fundamentales: entradas, procesos, productos, salidas y resultados finales. La información obtenida se organizó en una **matriz analítica de elementos organizacionales** (véase el anexo No. 17), que facilitó la identificación de relaciones entre dichos componentes y su impacto en el desempeño global.
+
+#### **Anexo Nº 17 – Matriz analítica de elementos organizacionales**
+
+| **Entradas** | **Procesos** | **Productos** | **Salidas** | **Resultados finales** |
+| --- | --- | --- | --- | --- |
+| **Recursos Humanos**<br>- Gerente General (1)<br>- Encargado de cocina (1)<br>- Cocineros (3)<br>- Auxiliar de cocina (1)<br>- Cajero (1)<br>- Meseros (3)<br>- Repartidores (2) | - Reclutamiento y contratación<br>- Capacitación en higiene y servicio<br>- Coordinación de turnos<br>- Pago de nómina<br>- Juntas internas | - Personal capacitado<br>- Roles definidos<br>- Formato de asistencia | - Servicio al cliente<br>- Atención en mesa y reparto | - 10 empleos directos<br>- Remuneración competitiva<br>- Cumplimiento normativo laboral |
+| **Recursos Materiales**<br>- Plancha, freidora, utensilios<br>- Mobiliario y almacenamiento<br>- Equipo de cómputo<br>- Motocicletas (4)<br>- Material de limpieza<br>- Local propio | - Producción de alimentos<br>- Mantenimiento preventivo<br>- Control de inventarios<br>- Limpieza y sanitización | - Hamburguesas, alitas, hot dogs, postres<br>- Bebidas frías y calientes | - Entrega en mesa, para llevar o delivery | - Cumplimiento de normas de higiene<br>- Satisfacción del cliente (80%) |
+| **Recursos Financieros**<br>- Estado de cuentas<br>- Flujo de caja semanal<br>- Declaraciones fiscales | - Presupuestos y compras<br>- Contabilidad básica<br>- Declaraciones fiscales | - Tickets y facturas<br>- Orden de compra a proveedores | - Reportes financieros básicos | - Rentabilidad sostenida<br>- Cumplimiento fiscal |
+| **Base Documental**<br>- Expedientes laborales<br>- Acta constitutiva<br>- Reglamento interno<br>- Base de clientes<br>- Base de proveedores<br>- Contratos de servicios | - Registro administrativo<br>- Gestión de proveedores<br>- Control de clientes | - Menú impreso y digital<br>- Declaraciones fiscales<br>- Contratos vigentes | - Documentación organizada | - Transparencia administrativa<br>- Evidencia de cumplimiento |
+| **Base Legal**<br>- Normas de salubridad<br>- Licencia municipal | - Trámite de permisos<br>- Auditoría interna de higiene | - Licencias y permisos vigentes | - Validación externa | - Operación legal y segura<br>- Recomendaciones positivas en redes |
+
+La Matriz analítica de elementos organizacionales permitió visualizar de forma integral la relación entre recursos, procesos, productos, salidas y resultados, fortaleciendo la comprensión sistémica de la organización-cliente. Su aplicación facilitó la identificación de áreas críticas, oportunidades de mejora y fortalezas estructurales, consolidando el diagnóstico como base para la toma de decisiones estratégicas.
+
+### 👉 Modelo de Evaluación Autodiagnóstica 
+
+Posteriormente, se implementó el Modelo de Evaluación Autodiagnóstica, en el cual la propia empresa participó activamente en la recolección sistemática de datos. La evaluación se realizó mediante **el Instrumento de Autodiagnóstico para Empresas** (vease en el anexo No. 18) . Según la Fundación del Empresariado Chihuahuense, A.C. (s.f.). Esta herramienta tiene la finalidad de facilitar el análisis de las fortalezas y debilidades de la empresa para la planeación de su desarrollo institucional. Para tal efecto hemos desagregado la naturaleza y dinámica de una empresa en cuatro áreas fundamentales:
+
+- Calidad de vida en la empresa.
+- Compromiso con la comunidad.
+- Cuidado y preservación del medio ambiente.
+- Competitividad de la empresa y su relación con sus involucrados (stakeholders).
+
+Cada una de estas áreas está descrita por un determinado número de indicadores de Responsabilidad Social Empresarial. El ejercicio de autodiagnóstico consiste en estimar en qué medida la propia empresa cumple con cada enunciado (expresado en términos de indicador), es por eso que junto a cada uno de ellos hay una escala del 1 al 5, donde 5 representa el más alto grado de semejanza entre lo que ahí se propone y lo que sucede en la organización, y 1 el más bajo.  
+
+En primer término se llevó a cabo la evaluación sobre la **Calidad de vida en la empresa** (véase el Anexo Nº18 ).
+
+#### Anexo Nº 18 – Evaluación de la Calidad de Vida en la Empresa
+
+<img width="574" alt="image" src="https://github.com/user-attachments/assets/a8fd722e-b80d-4086-8a33-9558ea5c4801" />
+
+Despues se realizó la evaluación relativa al **Compromiso con la comunidad** (véase el Anexo Nº19).
+
+#### Anexo Nº 19 – Evaluación del **Compromiso con la comunidad**
+
+<img width="574" alt="image" src="https://github.com/user-attachments/assets/dbf1d6ce-b3d6-48b1-a866-08044557a5b2" />
+
+A continuación, se efectuó la evaluación acerca del **Cuidado y preservación del medio ambiente** (véase el Anexo Nº 20).
+
+#### **Anexo Nº 20 – Evaluación del Cuidado y preservación del medio ambiente**
+
+<img width="574" alt="image" src="https://github.com/user-attachments/assets/87a00f88-6b12-40de-a547-339bc972692a" />
+
+Finalmente, se desarrolló la evaluación vinculada a la **Competitividad de la empresa y su relación con sus involucrados (stakeholders)** (véase el Anexo Nº 21). 
+
+#### **Anexo Nº 21 – Evaluación de la Competitividad de la empresa y su relación con sus involucrados (stakeholders)**
+
+<img width="574" alt="image" src="https://github.com/user-attachments/assets/5fce4dfa-d246-468b-9965-73afeea9ace4" />
+
+<img width="1360" height="1592" alt="image" src="https://github.com/user-attachments/assets/4b141f77-f16d-405c-827d-1fcca274c952" />
+
+
+### 👉 Modelo de Campo de Fuerzas de Lewin 
+
+Se aplicó el Modelo de Campo de Fuerzas de Lewin, que identificó las fuerzas impulsoras y restrictivas del cambio organizacional. Este análisis se representó en una **figura esquemática de fuerzas en equilibrio** (véase la figura No. 9), mostrando cómo las dinámicas internas y externas condicionaban la posibilidad de transformación.
+
+Lewin plantea que todo sistema social se encuentra en un **estado de equilibrio cuasiestacionario**, determinado por dos tipos de fuerzas:
+
+- **Impulsoras (Driving Forces)** → favorecen el cambio.
+- **Restrictivas (Restraining Forces)** → se oponen al cambio.
+
+**Procedimiento** 
+
+**Identificación del problema o cambio deseado**
+
+El primer paso es definir con claridad:
+
+- qué cambio se busca,
+- por qué es necesario,
+- qué condiciones actuales lo limitan.
+
+**Identificación de fuerzas impulsoras y restrictivas**
+
+Se realiza mediante:
+
+- entrevistas,
+- observación,
+- análisis documental,
+- datos operativos,
+- talleres participativos.
+
+**Asignación de valores (ponderación)**
+
+Los valores se asignan según la intensidad relativa de cada fuerza, usando escalas tipo Likert (1–5 o 1–10).
+
+Esta ponderación puede basarse en:
+
+- juicio experto,
+- consenso grupal,
+- análisis cuantitativo,
+- evidencia empírica.
+
+**2.5. Análisis del balance**
+
+Se suman los valores de cada lado:
+
+- Si **impulsoras > restrictivas**, el cambio es viable.
+- Si **restrictivas > impulsoras**, se requieren estrategias de mitigación.
+
+#### **Figura No. 9 Modelo de Campo de Fuerzas de Lewin**
+
+<img width="624" alt="image" src="https://github.com/user-attachments/assets/a323ec24-217f-4615-a748-48963af4002a" />
+
+### 👉 Modelo Sensing 
+
+De manera complementaria, se utilizó el Modelo Sensing, que permitió evaluar cinco subsistemas: cultura, medio, diseño, mecanismos de renovación y resultados. Los hallazgos se integraron en una **tabla de variables culturales y de clima organizacional** (véase el anexo No. 19), destacando la influencia de la cultura y el entorno en la adaptabilidad de la empresa.
+
+<img width="627" alt="image" src="https://github.com/user-attachments/assets/b344e52a-a45b-4c26-ae83-6ba8230eedb1" />
+<img width="604" alt="image" src="https://github.com/user-attachments/assets/4edf090c-a7d7-4c60-b455-c5370ec950a3" />
+
+#### Anexo No. 22 Tabla de Variables Culturales y de Clima Organizacional
+
+| **Subsistema (Modelo Sensing)** | **Variable** | **Hallazgo derivado del análisis** | **Implicación en la adaptabilidad** |
+| --- | --- | --- | --- |
+| **Cultura** | Valores compartidos | Predomina la identidad gastronómica mexicana y el orgullo por la marca. | Refuerza la diferenciación y motiva la aceptación de cambios que preserven la autenticidad. |
+| **Cultura** | Creencias organizacionales | Se asume que la calidad artesanal es el principal factor de éxito. | Puede limitar la adopción de procesos más estandarizados si se perciben como amenaza a la autenticidad. |
+| **Medio** | Entorno competitivo | Presión de cadenas internacionales y demanda creciente de comida rápida local. | Obliga a innovar y adaptarse para mantener competitividad. |
+| **Medio** | Clientes y comunidad | Los clientes valoran experiencias auténticas y cercanas. | Favorece la adaptación hacia propuestas culturales diferenciadas. |
+| **Diseño** | Estructura organizacional | Predomina un estilo semi‑mecanicista con rutinas informales. | Dificulta la estandarización, pero permite flexibilidad en la operación diaria. |
+| **Mecanismos de renovación** | Capacitación y tecnología | Brechas en competencias técnicas y resistencia a nuevas herramientas. | Limita la velocidad de adaptación, requiere inversión en formación. |
+| **Resultados** | Clima laboral | Personal motivado por pertenencia, pero preocupado por pérdida de beneficios (horas extra). | La motivación puede sostener el cambio si se gestiona la percepción de pérdida. |
+| **Resultados** | Comunicación interna | Flujo de información irregular, con predominio de comunicación informal. | Reduce claridad en procesos de cambio, requiere formalización de canales. |
+
+**Herramientas sugeridas**
+
+| **Subsistema** | **Sistemas / Métodos** | **Herramientas sugeridas** | **Aplicación práctica en diagnóstico** |
+| --- | --- | --- | --- |
+| **Cultura** | Diagnóstico cultural, análisis de valores y creencias | - Encuestas de cultura organizacional (Denison, Hofstede)<br>- Entrevistas semiestructuradas<br>- Observación participante<br>- Focus groups | Identificar valores compartidos, creencias dominantes, estilo de liderazgo y sentido de pertenencia. |
+| **Medio** | Análisis del entorno externo | - 5 Fuerzas Porter <br>- Benchmarking sectorial<br>- Matriz de stakeholders<br>- Estudios de mercado | Evaluar influencia de clientes, competencia, comunidad y mercado laboral sobre la organización. |
+| **Diseño** | Evaluación de la estructura organizacional | - Organigramas<br>- Mapas de procesos<br>- Matriz RACI (responsabilidades)<br>- Cuestionarios de estructura mecanicista vs. organicista | Determinar si la organización opera con rigidez o flexibilidad; analizar claridad de roles y procesos. |
+| **Mecanismos de renovación** | Análisis de innovación y mejora continua | - Auditorías internas<br>- Evaluación de metas y KPIs<br>- Investigación de mercado<br>- Análisis de adopción tecnológica<br>- Planes de acción participativos | Identificar capacidad de la empresa para renovarse mediante capacitación, cambios tecnológicos y administrativos. |
+| **Resultados** | Evaluación de desempeño y clima organizacional | - Encuestas de clima laboral (Likert)<br>- Balanced Scorecard<br>- Indicadores de satisfacción del cliente<br>- Entrevistas de percepción<br>- Evaluación de productividad | Medir satisfacción, motivación, comunicación interna y resultados tangibles del cambio. |
+
+**Ajuste riguroso del modelo sensing**
+
+### 1. Cultura
+
+- **Hallazgo**: valores compartidos y estilo de liderazgo influyen directamente en la motivación y sentido de pertenencia.
+- **Crítica constructiva**: las encuestas y entrevistas deben complementarse con observación participante para evitar sesgos de deseabilidad social.
+- **Variable cultural/clima**: cohesión interna, confianza en liderazgo, apertura a la innovación.
+
+### 2. Medio
+
+- **Hallazgo**: el entorno externo (clientes, competencia, mercado laboral) condiciona la capacidad de adaptación.
+- **Crítica constructiva**: el análisis de Porter y benchmarking sectorial tienden a ser estáticos; se recomienda incorporar escenarios dinámicos (VICA/BANI).
+- **Variable cultural/clima**: percepción de presión competitiva, resiliencia frente a cambios externos.
+
+### 3. Diseño
+
+- **Hallazgo**: claridad de roles y flexibilidad estructural determinan la eficiencia operativa.
+- **Crítica constructiva**: el uso exclusivo de organigramas y RACI puede invisibilizar redes informales de colaboración; aquí es clave integrar **Redarquía** y **Acelera**.
+- **Variable cultural/clima**: equilibrio jerarquía-redarquía, agilidad en la toma de decisiones.
+
+### 4. Mecanismos de renovación
+
+- **Hallazgo**: capacidad de innovación y mejora continua depende de la apertura cultural y del soporte estructural.
+- **Crítica constructiva**: los planes de acción participativos deben medirse en ciclos cortos para validar la efectividad real; el método **Acelera** aporta aquí.
+- **Variable cultural/clima**: disposición al cambio, aprendizaje organizacional, adopción tecnológica.
+
+### 5. Resultados
+
+- **Hallazgo**: satisfacción, motivación y productividad reflejan la interacción de los subsistemas anteriores.
+- **Crítica constructiva**: el Balanced Scorecard debe adaptarse con indicadores sectoriales (ej. tiempos de servicio, rotación de personal en fast-food).
+- **Variable cultural/clima**: percepción de justicia organizacional, comunicación interna, satisfacción del cliente.
+
+## Tabla de integración de variables culturales y de clima
+
+| Subsistema | Variables culturales y de clima | Influencia en adaptabilidad |
+| --- | --- | --- |
+| Cultura | Cohesión, confianza, apertura a innovación | Define predisposición interna al cambio |
+| Medio | Resiliencia, percepción de presión externa | Marca la urgencia y dirección de la adaptación |
+| Diseño | Equilibrio jerarquía-redarquía, agilidad | Determina velocidad y legitimidad de ajustes |
+| Mecanismos de renovación | Disposición al cambio, aprendizaje, adopción tecnológica | Evalúa capacidad real de transformación |
+| Resultados | Justicia organizacional, comunicación, satisfacción | Retroalimenta la cultura y legitima la adaptación |
+
+## Ejemplo numérico de índice compuesto (ISA – Índice de Sensibilidad Adaptativa), siguiendo la metodología del *Handbook on Constructing Composite Indicators* de la OCDE .  
+
+### 1. Variables y datos simulados
+- **Predisposición (Cultura)** → Encuesta de confianza interna: 4.2/5 → Normalizado: 0.84  
+- **Urgencia (Medio)** → Percepción de presión competitiva: 3.8/5 → Normalizado: 0.76  
+- **Velocidad (Diseño)** → Tiempo promedio de aprobación de cambios: 6 días (meta: 3 días) → Normalizado: 0.50  
+- **Capacidad (Mecanismos)** → % empleados capacitados en nuevas herramientas: 65% → Normalizado: 0.65  
+- **Retroalimentación (Resultados)** → Índice de justicia percibida: 3.5/5 → Normalizado: 0.70  
+
+### 2. Ponderaciones (ejemplo defendible)
+Basado en impacto relativo en adaptabilidad:
+- Predisposición: 30%  
+- Urgencia: 25%  
+- Velocidad: 20%  
+- Capacidad: 15%  
+- Retroalimentación: 10%  
+
+### 3. Fórmula de agregación
+\[
+ISA = \sum (Variable_{i} \cdot Peso_{i})
+\]
+
+\[
+ISA = (0.84 \cdot 0.30) + (0.76 \cdot 0.25) + (0.50 \cdot 0.20) + (0.65 \cdot 0.15) + (0.70 \cdot 0.10)
+\]
+
+\[
+ISA = 0.252 + 0.190 + 0.100 + 0.097 + 0.070 = 0.709
+\]
+
+
+### 4. Interpretación
+- **ISA = 0.709 (70.9%)** → Nivel **medio-alto de sensibilidad adaptativa**.  
+- Fortalezas: predisposición cultural y urgencia percibida.  
+- Debilidades: velocidad de ajustes estructurales.  
+- Recomendación: invertir en rediseño de procesos de aprobación y capacitación para elevar la capacidad y velocidad.  
+
+### 5. Visualización sugerida
+Un **radar chart** con las cinco dimensiones (Predisposición, Urgencia, Velocidad, Capacidad, Retroalimentación) muestra claramente dónde están las brechas.  
+
+---
+
+Propuesta de arquitectura híbrida ISA–M (OCDE + CMMI/BPMMM + Mapa Ambición/Presión) como herramienta operativa y defendible;** combina **normalización y validación estadística (OCDE)** con **evaluación de madurez procesal (CMMI/BPMMM)** y **calibración estratégica (Advancement Mode / Shingo)** para pasar del diagnóstico a un roadmap accionable.   
+
+---
+
+### 1. Guía rápida para el apartado del Blueprint (qué incluir)
+- **Objetivo:** explicar cómo integrar resultados del *Modelo Sensing* en decisiones operativas mediante ISA–M.  
+- **Estructura del texto:** introducción conceptual; fundamento metodológico; procedimiento paso a paso; matriz de decisión; entregables y riesgos.  
+- **Preguntas clave para el lector/cliente:** ¿qué datos están disponibles hoy?; ¿qué nivel de evidencia documental existe para procesos clave?; ¿qué horizonte temporal (6/12/24 meses) para cambios?
+
+---
+
+### 2. Fundamento metodológico y crítica (sustentada)
+- **OCDE (Handbook)** aporta el protocolo para **normalizar, ponderar, agregar y validar** indicadores compuestos; su uso garantiza comparabilidad y pruebas de sensibilidad del índice ISA.  
+- **CMMI/BPMMM** convierten percepciones y KPIs en **niveles de madurez (1–5)**, ofreciendo un roadmap de prácticas y evidencia para priorizar intervenciones.   
+- **Mapa Ambición/Presión (Shingo)** aporta la **lectura estratégica**: ubica el ISA–M en Optimización / Innovación / Renovación y orienta alcance, escala y velocidad del plan (capacidad de absorción). (Basado en capítulo 9 provisto por el cliente.)
+
+**Crítica metodológica:** OCDE es robusta estadísticamente pero puede diluir dinámicas culturales; CMMI/BPMMM son sólidos para procesos pero menos sensibles a percepciones; el mapa estratégico no cuantifica. La solución: **capas complementarias** (número, nivel, cuadrante) para mantener rigor sin perder sentido práctico.
+
+---
+
+### 3. Procedimiento operativo (texto listo para el Blueprint)
+1. **Definir indicadores** por dimensión Sensing (Predisposición, Urgencia, Velocidad, Capacidad, Retroalimentación).  
+2. **Recolectar y triangular**: encuestas Likert, KPIs operativos, registros TI, entrevistas.  
+3. **Normalizar (0–1)** y **ponderar** según impacto (seguir pasos OCDE). 
+4. **Calcular ISA** (suma ponderada) y ejecutar análisis de sensibilidad.  
+5. **Appraisal CMMI/BPMMM** por dimensión → asignar nivel 1–5.   
+6. **Combinar**: \(ISA\text{-}M = ISA \times Madurez\_promedio\) y ubicar en el mapa Ambición–Presión.  
+7. **Validación con stakeholders** y entrega de roadmap (quick wins, mediano plazo, KPIs y responsables).
+
+---
+
+### 5. Riesgos y mitigaciones (crítico)
+- **Sesgo de percepción** → triangulación y datos operativos.  
+- **Sobrecarga metodológica** → priorizar 8–12 indicadores clave.  
+- **Resistencia al appraisal** → presentar CMMI/BPMMM como herramienta de mejora, no auditoría punitiva.   
+---
+
+## **Diagrama de Ishikawa y el Diagrama de Pareto**
+
+Finalmente, se recurrió a herramientas de calidad como el Diagrama de Ishikawa y el Diagrama de Pareto, que facilitaron la identificación de causas raíz de problemas y la priorización de los más relevantes. Estos resultados se plasmaron en un **esquema gráfico de causas y efectos** (véase la figura No. 10) y en un **gráfico de Pareto de problemas críticos** (véase la figura No. 11).
+
+Figura No. 10 – Diagrama de Ishikawa (Causa-Efecto)
+
+**Resumen breve:** **Incluye en el Blueprint un bloque operativo para el Diagrama de Ishikawa y el Diagrama de Pareto que explique propósito, pasos, evidencia requerida y entregables, y muestre cómo ambos se integran con el ISA–M para priorizar intervenciones en El Agaveño Burgers.** Este bloque debe ser práctico, reproducible en 2–3 sesiones de trabajo y validado con datos operativos y entrevistas locales en Tlajomulco. 
+---
+
+### Diagrama de Ishikawa  
+**Propósito**  
+- **Identificar causas raíz** del problema operativo seleccionado (ej.: tiempos de servicio, inconsistencias en recetas, quejas de clientes). 
+
+**Texto listo para el Blueprint**  
+- **Definición:** El Diagrama de Ishikawa (causa‑efecto) organiza visualmente causas mayores y subcausas alrededor del problema central.  
+- **Pasos operativos:**  
+  1. **Definir problema concreto** (enunciado claro y medible).  
+  2. **Seleccionar equipo multidisciplinario** (cocina, piso, caja, logística, TI).  
+  3. **Elegir categorías** (6M: *Mano de obra, Métodos, Maquinaria, Materiales, Medio ambiente, Medición*; adaptar a QSR: *Receta, Servicio, Suministro, Formación, Tecnología, Gestión*).   
+  4. **Lluvia de ideas estructurada** y registro de causas.  
+  5. **Profundizar por niveles** (causas → subcausas) hasta 3–4 niveles.  
+  6. **Validar con datos** (hojas de chequeo, tiempos, registros de ventas).  
+**Cómo documentarlo en el Blueprint**  
+- Incluir la **figura Ishikawa** (plantilla) y una tabla con causas, evidencia y responsable de verificación.
+
+<img width="536" alt="image" src="https://github.com/user-attachments/assets/b007c259-39de-4d5b-a1d8-1fbaa6906cf8" />
+
+---
+
+### Diagrama de Pareto  
+**Propósito**  
+- **Priorizar problemas** por impacto (80/20): identificar los pocos problemas que generan la mayoría de los efectos adversos.  
+
+**Texto listo para el Blueprint**  
+- **Definición:** Gráfico de barras ordenadas por frecuencia/impacto y línea acumulada porcentual.  
+- **Pasos operativos:**  
+  1. **Recolectar datos cuantitativos** (incidentes, tiempos de espera, desperdicio, quejas) en periodo representativo.  
+  2. **Clasificar causas** (mismas categorías del Ishikawa).  
+  3. **Calcular frecuencias y % acumulado**; ordenar descendente.  
+  4. **Identificar el corte 80%** y seleccionar causas críticas.  
+
+**Cómo documentarlo en el Blueprint**  
+- Incluir **gráfico Pareto** y una lista priorizada de 3–5 causas críticas con métricas y propuesta de acción rápida.
+
+<img width="480" alt="image" src="https://github.com/user-attachments/assets/a6d39f0f-988c-4077-97a2-43683acc7137" />
+
+### Tabla comparativa rápida
+
+| Herramienta | Fortalezas | Uso en El Agaveño Burgers |
+|---|---:|---|
+| **Ishikawa** | Profundiza causas; fomenta consenso | Diagnóstico de procesos de cocina y servicio.
+| **Pareto** | Prioriza por impacto; fácil de comunicar | Selección de 3–5 problemas críticos para sprint. 
+
+### Entregables y riesgos  
+- **Entregables:** Ishikawa (figura + tabla causas/evidencia), Pareto (gráfico + lista priorizada), matriz ISA–M vinculada a cada causa, roadmap de 90 días con responsables.  
+
+
+
+
+
 
 #### 1. Propósito y alcance del diagnóstico
 **Propósito:** Obtener una fotografía operativa y experiencial completa de Agaveño Burgers que permita identificar brechas críticas entre la operación actual y la operación deseada, priorizar intervenciones y generar evidencia para el diseño estratégico.  
@@ -239,7 +1549,18 @@ Eje vertical: Impacto (Alto/Medio/Bajo). Eje horizontal: Esfuerzo (Alto/Medio/Ba
 
 ---
 
-### Planeación de medidas — Adaptada a Agaveño Burgers (Diseño Estratégico)
+
+
+
+
+
+
+
+
+
+
+
+# 🚨 Planeación de medidas — Adaptada a Agaveño Burgers (Diseño Estratégico)
 
 #### 1. Propósito de la planeación
 Traducir las necesidades identificadas en el diagnóstico (MEO) en **medidas concretas, priorizadas y diseñadas** para su implementación piloto y escalado, asegurando que cada medida tenga responsable, recursos, criterios de aceptación y métricas de éxito.
