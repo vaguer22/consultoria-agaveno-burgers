@@ -323,13 +323,93 @@ El mayor reconocimiento a la competencia dentro del mercado proviene de su capac
 
 ---
 
-# 🚨 Diagnóstico integral — Adaptado a la consultoría colaborativa con **Agaveño Burgers**
-## Evaluación Integral en 10 pasos
+# 🚩 FASE II Diagnóstico 
+
+#### 1. Propósito y alcance del diagnóstico
+**Propósito:** Obtener una fotografía operativa y experiencial completa de Agaveño Burgers que permita identificar brechas críticas entre la operación actual y la operación deseada, priorizar intervenciones y generar evidencia para el diseño estratégico.  
+**Alcance:** Puntos de venta seleccionados (sede principal y 1–2 sucursales piloto), cocina, servicio en sala/para llevar/delivery, inventario, turnos pico, y procesos de soporte (compras, limpieza, RR. HH.).
+
+#### 2. Principios aplicados (alineados al libro ABC)
+- **Enfoque sistémico (MEO):** analizar personas, procesos, tecnología, espacio y gobernanza como elementos interdependientes.  
+- **Evidencia mixta:** combinar datos cuantitativos (cronometrajes, volúmenes, ventas por hora) y cualitativos (entrevistas, observación).  
+- **Co‑diseño:** involucrar operativos y mandos en recolección y validación para asegurar factibilidad.  
+- **Ética y confidencialidad:** proteger información sensible y actuar conforme al código de conducta profesional.
+
+> **Cita clave tomada del libro de referencia:**  
+> “De esta manera a partir del Modelo de Elementos Organizacionales (MEO) … se estima la Determinación de Necesidades, que no es más que el compendio sobre la disparidad entre ‘lo que es’ y ‘lo que debería de ser’.”  
+
+#### 3. Productos esperados del diagnóstico
+- **Informe diagnóstico por punto de venta** (resumen ejecutivo + anexos con datos crudos).  
+- **Matriz MEO “Lo que es / Lo que debería ser”** por elemento organizacional.  
+- **Mapa de procesos y flujos de cocina** (antes/después propuesto).  
+- **Tabla de tiempos por actividad** (baseline).  
+- **Lista priorizada de necesidades** con impacto estimado y propuesta de quick wins.  
+- **Registro fotográfico y notas de campo** (horarios pico).
+
+
+#### 4. Actividades y métodos (paso a paso)
+
+**4.1 Preparación (0.5–1 semana)**  
+- Reunión de arranque con Sponsor y Gerente de Proyecto de Agaveño Burgers.  
+- Revisión documental: ventas por hora, recetas, layout, organigrama, manuales existentes.  
+- Definición de puntos de observación, turnos y permisos.
+
+**4.2 Recolección de datos (1–2 semanas)**  
+- **Cronometraje y muestreo de tiempos:** registrar tiempos de toma de pedido, preparación, emplatado, entrega. Formato CSV simple: `fecha,punto_venta,turno,actividad,tiempo_segundos,operario`.  
+- **Observación estructurada en horarios pico:** checklist de flujo, cuellos de botella, colas, interferencias en cocina.  
+- **Entrevistas semiestructuradas:** cocineros, cajeros, supervisores, repartidores; preguntas sobre causas de retrasos, recursos faltantes, ideas de mejora.  
+- **Recuento de recursos y layout:** inventario de equipos, estaciones, rutas internas.  
+- **Revisión de datos operativos:** tickets, tiempos de entrega delivery, devoluciones, quejas.
+
+**4.3 Análisis y síntesis (1 semana)**  
+- Construir **Matriz MEO** por elemento (Personas, Procesos, Tecnología, Espacio, Gobernanza).  
+- Identificar brechas cuantitativas y cualitativas: convertir observaciones en necesidades.  
+- Priorizar con **matriz impacto/esfuerzo** y clasificar quick wins vs. proyectos estructurales.
+
+**4.4 Validación con el equipo (workshop 1)**  
+- Presentar hallazgos preliminares a mandos y operativos.  
+- Ajustar prioridades y recoger compromisos para pilotos.
+
+
+#### 5. Instrumentos y plantillas (listas para usar)
+
+**Plantilla A — Cronometraje (CSV)**  
+`fecha,punto_venta,turno,actividad,subactividad,operario,tiempo_segundos,observaciones`
+
+**Plantilla B — Entrevista semiestructurada (resumen)**  
+- Rol entrevistado:  
+- Pregunta 1: ¿Cuáles son los pasos que sigues desde que llega un pedido hasta que se entrega?  
+- Pregunta 2: ¿Dónde se generan retrasos frecuentes? ¿Por qué?  
+- Pregunta 3: ¿Qué recursos faltan o fallan con más frecuencia?  
+- Idea sugerida:  
+
+**Plantilla C — Matriz MEO (resumen por elemento)**  
+`Elemento | Estado actual (evidencia) | Estado deseado | Brecha | Prioridad | Responsable`
+
+**Plantilla D — Matriz Impacto / Esfuerzo**  
+Eje vertical: Impacto (Alto/Medio/Bajo). Eje horizontal: Esfuerzo (Alto/Medio/Bajo). Ubicar iniciativas.
+
+
+#### 6. KPIs de diagnóstico (baseline y objetivo)
+- **Tiempo promedio de servicio (pedido → entrega)** — baseline y meta % reducción.  
+- **Tiempo de preparación por plato** — desviación estándar y meta.  
+- **Tasa de cumplimiento de pedidos sin error** — % correcto.  
+- **Tasa de ocupación de estaciones** — % uso en pico.  
+- **CSAT (encuesta rápida post‑venta)** — puntaje inicial y meta.
+
+
+#### 7. Riesgos del diagnóstico y mitigaciones
+- **Datos no representativos** → Mitigación: muestreo en varios días y franjas horarias.  
+- **Resistencia del personal a ser observado** → Mitigación: explicar propósito, anonimizar datos, involucrar líderes.  
+- **Interrupciones operativas** → Mitigación: coordinar horarios y minimizar intrusión.
+
 ---
+
+## Evaluación Integral en 10 pasos
 
 <img width="596" alt="image" src="https://github.com/user-attachments/assets/ccaf22c7-78f9-4b7d-a5ec-343bc083a597" />
 
-## 🔥 1º Paso: **Identificación inicial**
+## 🧩 1º Paso: **Identificación inicial**
 El proceso comienza con la definición del nombre comercial o razón social de la organización que solicita los servicios de consultoría. Esta identificación surge a partir de un requerimiento de ayuda y se acompaña de una revisión de su operación y funcionamiento actual, con el fin de emitir una opinión profesional sobre su situación presente.
 
 ### **Trabajo en equipo**
@@ -363,7 +443,7 @@ El desarrollo de este primer paso permitió sentar las bases del proyecto de con
 
 ---
 
-## 🔥 2º Paso: **Funciones básicas de análisis**
+## 🧩 **2º Paso:** Funciones básicas de análisis
 El segundo paso se centra en la consideración de cinco funciones esenciales de la organización, cada una asignada a un integrante del equipo consultor:
 1. Operación (producción o prestación de servicios según el giro).
 2. Mercado (relación con clientes y entorno competitivo).
@@ -499,7 +579,7 @@ Esta tabla se  convierte en el **Figura No. 4 o No. 5** del informe: **Mapa func
 ## **Conclusión**
 El desarrollo de este segundo paso permitió comprender de manera integral cómo la organización gestiona sus recursos a través de sus funciones básicas, vinculando dichas prácticas con la generación de capacidades y competencias centrales. Este análisis constituyó un insumo fundamental para avanzar hacia la evaluación del desempeño organizacional en los pasos posteriores.
 
-##  🔥 3º Paso: **Trabajo in situ**
+##  🧩 **3º Paso:** Trabajo in situ
 El tercer paso implica una labor constante dentro de cada área de la empresa. Los responsables de las funciones básicas realizan un reconocimiento directo de actividades, apoyándose en guías o cédulas de observación.
 
 ### **Evaluación del desempeño**
@@ -599,7 +679,7 @@ El desarrollo de este tercer paso permitió contar con una primera aproximación
 
 ---
 
-## 🔥4º Paso: **Revisión documental**
+## 🧩 **4º Paso:** Revisión documental
 Este paso implica un análisis minucioso de toda la base documental disponible en la empresa. Cada responsable de función solicita la información necesaria a través del representante designado por la organización, con quien intercambia puntos de vista sobre lo identificado en dichas fuentes.
 
 **Fuentes secundarias**
@@ -705,9 +785,7 @@ El desarrollo de este cuarto paso permitió consolidar la revisión documental c
 
 ---
 
-## 🔥 5º Paso
-
-### **Retroalimentación y validación**
+## 🧩 **5º Paso** Retroalimentación y validación
 Este paso busca transformar el reporte de observación subjetivo en un reporte objetivo, mediante el uso de técnicas y herramientas de acopio de información que permitan confirmar o complementar lo observado.
 
 **Técnicas empleadas**
@@ -977,7 +1055,7 @@ Fecha: ____ / ____ / ______
 
 ---
 
-## 🔥 6º Paso
+## 🧩  6º Paso
 
 ### **Evaluación integral de la situación actual**
 Este paso busca realizar una valoración profunda y pertinente de cada una de las funciones básicas analizadas en la intervención (operación, mercado, humana, finanzas y dirección). El objetivo es identificar las capacidades reales de la organización-cliente, derivadas del uso racional de sus recursos, y cómo estas se traducen en competencias centrales.
@@ -1071,7 +1149,7 @@ El proceso se representó en una **figura esquemática del ciclo de evaluación 
 El desarrollo de este sexto paso permitió consolidar un diagnóstico confiable y participativo, en el cual la organización-cliente no solo conoció sus capacidades y limitaciones, sino que también tuvo la oportunidad de validar y consensuar los hallazgos. Este proceso aseguró que la evaluación integral reflejara de manera precisa la situación actual, constituyendo un insumo fundamental para los pasos posteriores del modelo.
 
 
-## 🔥 7º Paso **Estimacion de Modelos y Herramientas de Diagnóstico**
+## 🧩 7º Paso **Estimacion de Modelos y Herramientas de Diagnóstico**
 En esta etapa se procedió a validar y profundizar el primer panorama obtenido del análisis objetivo. El propósito fue someter los hallazgos preliminares a una batería de modelos diagnósticos, con el fin de verificar, matizar y consolidar la situación real de la organización‑cliente. Se buscó además documentar las discrepancias surgidas en la réplica del cliente y transformarlas en evidencia técnica que alimentara la Matriz FODA
 
 ## ⚡ **Metodología**
@@ -1400,7 +1478,7 @@ Propuesta de arquitectura híbrida ISA–M (OCDE + CMMI/BPMMM + Mapa Ambición/P
 - **Resistencia al appraisal** → presentar CMMI/BPMMM como herramienta de mejora, no auditoría punitiva.   
 ---
 
-## **Diagrama de Ishikawa y el Diagrama de Pareto**
+## 👉 **Diagrama de Ishikawa y el Diagrama de Pareto**
 
 Finalmente, se recurrió a herramientas de calidad como el Diagrama de Ishikawa y el Diagrama de Pareto, que facilitaron la identificación de causas raíz de problemas y la priorización de los más relevantes. Estos resultados se plasmaron en un **esquema gráfico de causas y efectos** (véase la figura No. 10) y en un **gráfico de Pareto de problemas críticos** (véase la figura No. 11).
 
@@ -1409,7 +1487,7 @@ Figura No. 10 – Diagrama de Ishikawa (Causa-Efecto)
 **Resumen breve:** **Incluye en el Blueprint un bloque operativo para el Diagrama de Ishikawa y el Diagrama de Pareto que explique propósito, pasos, evidencia requerida y entregables, y muestre cómo ambos se integran con el ISA–M para priorizar intervenciones en El Agaveño Burgers.** Este bloque debe ser práctico, reproducible en 2–3 sesiones de trabajo y validado con datos operativos y entrevistas locales en Tlajomulco. 
 ---
 
-### Diagrama de Ishikawa  
+### 👉 Diagrama de Ishikawa  
 **Propósito**  
 - **Identificar causas raíz** del problema operativo seleccionado (ej.: tiempos de servicio, inconsistencias en recetas, quejas de clientes). 
 
@@ -1425,11 +1503,11 @@ Figura No. 10 – Diagrama de Ishikawa (Causa-Efecto)
 **Cómo documentarlo en el Blueprint**  
 - Incluir la **figura Ishikawa** (plantilla) y una tabla con causas, evidencia y responsable de verificación.
 
-<img width="536" alt="image" src="https://github.com/user-attachments/assets/b007c259-39de-4d5b-a1d8-1fbaa6906cf8" />
+<img width="736" alt="image" src="https://github.com/user-attachments/assets/b007c259-39de-4d5b-a1d8-1fbaa6906cf8" />
 
 ---
 
-### Diagrama de Pareto  
+### 👉 Diagrama de Pareto  
 **Propósito**  
 - **Priorizar problemas** por impacto (80/20): identificar los pocos problemas que generan la mayoría de los efectos adversos.  
 
@@ -1446,112 +1524,203 @@ Figura No. 10 – Diagrama de Ishikawa (Causa-Efecto)
 
 <img width="480" alt="image" src="https://github.com/user-attachments/assets/a6d39f0f-988c-4077-97a2-43683acc7137" />
 
-### Tabla comparativa rápida
+## ⚡ Resultados alcanzados
 
-| Herramienta | Fortalezas | Uso en El Agaveño Burgers |
-|---|---:|---|
-| **Ishikawa** | Profundiza causas; fomenta consenso | Diagnóstico de procesos de cocina y servicio.
-| **Pareto** | Prioriza por impacto; fácil de comunicar | Selección de 3–5 problemas críticos para sprint. 
+- Se obtuvo un diagnóstico integral y multifactorial, sustentado en modelos y herramientas reconocidas.
+- Se identificaron las relaciones entre entradas, procesos, productos, salidas y resultados, fortaleciendo la visión sistémica de la organización.
+- Se reconocieron las fuerzas impulsoras y restrictivas del cambio, así como las variables culturales y de clima organizacional.
+- Se priorizaron los problemas más relevantes mediante herramientas de calidad, asegurando un enfoque estratégico en la toma de decisiones.
 
-### Entregables y riesgos  
-- **Entregables:** Ishikawa (figura + tabla causas/evidencia), Pareto (gráfico + lista priorizada), matriz ISA–M vinculada a cada causa, roadmap de 90 días con responsables.  
+## ⚡ Conclusión
 
-
-
-
-
-
-#### 1. Propósito y alcance del diagnóstico
-**Propósito:** Obtener una fotografía operativa y experiencial completa de Agaveño Burgers que permita identificar brechas críticas entre la operación actual y la operación deseada, priorizar intervenciones y generar evidencia para el diseño estratégico.  
-**Alcance:** Puntos de venta seleccionados (sede principal y 1–2 sucursales piloto), cocina, servicio en sala/para llevar/delivery, inventario, turnos pico, y procesos de soporte (compras, limpieza, RR. HH.).
+El desarrollo de este séptimo paso permitió consolidar un diagnóstico robusto, en el cual convergieron distintos modelos y herramientas que aportaron evidencias objetivas y subjetivas. La integración de estas metodologías aseguró una visión holística de la organización-cliente, preparando el terreno para la estructuración de la Matriz FODA en el siguiente paso.
 
 ---
 
-#### 2. Principios aplicados (alineados al libro ABC)
-- **Enfoque sistémico (MEO):** analizar personas, procesos, tecnología, espacio y gobernanza como elementos interdependientes.  
-- **Evidencia mixta:** combinar datos cuantitativos (cronometrajes, volúmenes, ventas por hora) y cualitativos (entrevistas, observación).  
-- **Co‑diseño:** involucrar operativos y mandos en recolección y validación para asegurar factibilidad.  
-- **Ética y confidencialidad:** proteger información sensible y actuar conforme al código de conducta profesional.
+## 🧩  8º Paso  Matriz FODA
 
-> **Cita clave tomada del libro de referencia:**  
-> “De esta manera a partir del Modelo de Elementos Organizacionales (MEO) … se estima la Determinación de Necesidades, que no es más que el compendio sobre la disparidad entre ‘lo que es’ y ‘lo que debería de ser’.”  
+### ⚡ Principio del puente  Puente entre PASO 7 → PASO 8/9 → PASO 10: flujo secuencial propuesto
 
----
+**Idea central:** los modelos y herramientas del Paso 7 generan **insumos cuantitativos y cualitativos** que alimentan la **matriz FODA (Paso 8)** y la **evaluación del desempeño (Paso 9)**; ambos, a su vez, orientan la **auditoría administrativa (Paso 10)**. El flujo debe ser **iterativo** y **trazable**.
 
-#### 3. Productos esperados del diagnóstico
-- **Informe diagnóstico por punto de venta** (resumen ejecutivo + anexos con datos crudos).  
-- **Matriz MEO “Lo que es / Lo que debería ser”** por elemento organizacional.  
-- **Mapa de procesos y flujos de cocina** (antes/después propuesto).  
-- **Tabla de tiempos por actividad** (baseline).  
-- **Lista priorizada de necesidades** con impacto estimado y propuesta de quick wins.  
-- **Registro fotográfico y notas de campo** (horarios pico).
+### ⚡ Flujo secuencial (alto nivel)
 
----
+1. **Recolección de insumos (Paso 7 aplicado):** autodiagnóstico, MEO, Ishikawa, Pareto, datos POS, inventarios, encuestas clientes.
+2. **Validación y limpieza de datos:** verificación de consistencia; triangulación observación–registro–encuesta.
+3. **Análisis y priorización:** Pareto + Ishikawa para causas raíz; benchmarking operativo.
+4. **Integración estratégica (Paso 8):** construcción de **matriz FODA** con evidencia cuantitativa.
+5. **Evaluación del desempeño (Paso 9):** KPIs operativos, financieros y laborales; evaluación de clima y competencias.
+6. **Diseño de auditoría administrativa (Paso 10):** objetivos, alcance, protocolos, checklist y plan de muestreo.
+7. **Ejecución de auditoría y retroalimentación:** hallazgos, recomendaciones, plan de acción y seguimiento.
+8. **Cierre y retroalimentación al Paso 7:** actualizar modelos y herramientas según lecciones aprendidas.
 
-#### 4. Actividades y métodos (paso a paso)
+### ⚡ Matriz FODA integrada (ejemplo condensado para El Agaveño Burgers)
 
-**4.1 Preparación (0.5–1 semana)**  
-- Reunión de arranque con Sponsor y Gerente de Proyecto de Agaveño Burgers.  
-- Revisión documental: ventas por hora, recetas, layout, organigrama, manuales existentes.  
-- Definición de puntos de observación, turnos y permisos.
+| **Factor**       | **Descripción** | **Evidencia / Insumo Paso 7** |
+|------------------|-----------------|-------------------------------|
+| **Fortalezas**   | Tiempos de servicio promedio competitivos | Datos POS: throughput y tiempos de ciclo |
+|                  | Menú estandarizado | Documentación operativa y recetas base |
+|                  | Alta rotación de clientes | Registros POS de frecuencia y recurrencia |
+| **Oportunidades**| Demanda creciente en delivery | Tendencias de mercado y benchmarking QSR |
+|                  | Digitalización de inventarios | Gap detectado en controles manuales |
+|                  | Programas de fidelidad | Observación de prácticas sectoriales |
+| **Debilidades**  | Mermas elevadas en insumos perecederos | Evidencia de desperdicio en checklist Lean |
+|                  | Controles de inventario manuales | Falta de sistema digital en Paso 7 |
+|                  | Carencia de formación en seguridad alimentaria | Observación directa y ausencia de registros HACCP |
+| **Amenazas**     | Competencia local con precios agresivos | Benchmarking sectorial y análisis comparativo |
+|                  | Cambios regulatorios NOM/HACCP | Documentos normativos y auditorías previas |
+|                  | Volatilidad en precios de insumos | Reportes financieros y variaciones de proveedores |
 
-**4.2 Recolección de datos (1–2 semanas)**  
-- **Cronometraje y muestreo de tiempos:** registrar tiempos de toma de pedido, preparación, emplatado, entrega. Formato CSV simple: `fecha,punto_venta,turno,actividad,tiempo_segundos,operario`.  
-- **Observación estructurada en horarios pico:** checklist de flujo, cuellos de botella, colas, interferencias en cocina.  
-- **Entrevistas semiestructuradas:** cocineros, cajeros, supervisores, repartidores; preguntas sobre causas de retrasos, recursos faltantes, ideas de mejora.  
-- **Recuento de recursos y layout:** inventario de equipos, estaciones, rutas internas.  
-- **Revisión de datos operativos:** tickets, tiempos de entrega delivery, devoluciones, quejas.
+Cada celda debe sustentarse con la evidencia específica (tablas de mermas, registros POS, encuestas), y la matriz debe incluir **prioridad** (alto/medio/bajo) para cada ítem.
 
-**4.3 Análisis y síntesis (1 semana)**  
-- Construir **Matriz MEO** por elemento (Personas, Procesos, Tecnología, Espacio, Gobernanza).  
-- Identificar brechas cuantitativas y cualitativas: convertir observaciones en necesidades.  
-- Priorizar con **matriz impacto/esfuerzo** y clasificar quick wins vs. proyectos estructurales.
+**Propósito del FODA**
+La matriz refleja la situación actual de la organización-cliente, constituyendo lo que en la jerga técnica se denomina análisis de situación. Este paso es trascendental porque:
+- Permite correlacionar fortalezas, debilidades, oportunidades y amenazas.
+- Sienta las bases para la evaluación integral, que va más allá del diagnóstico tradicional.
+- Prepara el terreno para la incorporación de auditorías (operativa, administrativa y financiera) que complementan la valoración del desempeño organizacional y laboral.
 
-**4.4 Validación con el equipo (workshop 1)**  
-- Presentar hallazgos preliminares a mandos y operativos.  
-- Ajustar prioridades y recoger compromisos para pilotos.
+En resumen: el octavo paso consiste en estructurar la Matriz FODA como instrumento central del diagnóstico, diferenciando claramente entre factores internos y externos, y preparando la transición hacia una evaluación integral que combine análisis de situación con auditorías especializadas.
 
----
+### ⚡ Desarrollo
 
-#### 5. Instrumentos y plantillas (listas para usar)
+El octavo paso del proceso de consultoría se llevó a cabo con el propósito de **integrar todos los hallazgos obtenidos en las fases anteriores** y expresarlos de manera concreta a través de la **Matriz FODA**. Esta herramienta se consideró como un instrumento de examen fundamental, capaz de reflejar la situación actual de la organización-cliente en dos ambientes diferenciados: interno y externo.
+En relación con el **ambiente interno,** se identificaron las **fortalezas** y **debilidades** de la empresa, procurando que los planteamientos fueran lo más concretos posible. Por ejemplo, en lugar de señalar extensamente que la empresa carecía de objetivos en todas sus áreas, se registró de manera precisa la “ausencia de planeación”. De igual forma, en lugar de describir la trayectoria de la empresa con frases largas, se sintetizó en la fortaleza “experiencia en el giro”. Estos resultados se organizaron en un **cuadro de fortalezas y debilidades internas** (véase el anexo No. 20).
+Respecto al **ambiente externo**, se identificaron las **oportunidades** y **amenazas** derivadas de factores que la empresa no controla directamente, tales como tendencias del mercado, políticas públicas, condiciones sociales y avances tecnológicos. Para este análisis se aplicó la **metodología PESTEL**, que permitió clasificar los hallazgos en dimensiones políticas, económicas, sociales, tecnológicas, ecológicas y legales. Los resultados se sistematizaron en una **tabla de oportunidades y amenazas externas** (véase el anexo No. 21) y se representaron gráficamente en un **esquema PESTEL aplicado a la organización** (véase la figura No. 12).
+La integración de ambos ambientes se plasmó en la **Matriz FODA completa** (véase el anexo No. 22), la cual reflejó de manera estructurada la situación actual de la organización-cliente. Es importante señalar que en esta fase no se incluyeron recomendaciones, dado que el cometido principal fue **reflejar la realidad presente** de la empresa, dejando la formulación de estrategias para etapas posteriores.
 
-**Plantilla A — Cronometraje (CSV)**  
-`fecha,punto_venta,turno,actividad,subactividad,operario,tiempo_segundos,observaciones`
+## ⚡ Resultados alcanzados
 
-**Plantilla B — Entrevista semiestructurada (resumen)**  
-- Rol entrevistado:  
-- Pregunta 1: ¿Cuáles son los pasos que sigues desde que llega un pedido hasta que se entrega?  
-- Pregunta 2: ¿Dónde se generan retrasos frecuentes? ¿Por qué?  
-- Pregunta 3: ¿Qué recursos faltan o fallan con más frecuencia?  
-- Idea sugerida:  
-
-**Plantilla C — Matriz MEO (resumen por elemento)**  
-`Elemento | Estado actual (evidencia) | Estado deseado | Brecha | Prioridad | Responsable`
-
-**Plantilla D — Matriz Impacto / Esfuerzo**  
-Eje vertical: Impacto (Alto/Medio/Bajo). Eje horizontal: Esfuerzo (Alto/Medio/Bajo). Ubicar iniciativas.
+- Se logró la **integración sistemática de hallazgos internos y externos** en la Matriz FODA.
+- Se identificaron con claridad las **fortalezas, debilidades, oportunidades y amenazas** de la organización.
+- Se aplicó la **metodología PESTEL** como referente para el análisis del ambiente externo.
+- Se consolidó un **diagnóstico situacional completo**, que sirvió como base para la evaluación integral y la planeación estratégica.
 
 ---
 
-#### 6. KPIs de diagnóstico (baseline y objetivo)
-- **Tiempo promedio de servicio (pedido → entrega)** — baseline y meta % reducción.  
-- **Tiempo de preparación por plato** — desviación estándar y meta.  
-- **Tasa de cumplimiento de pedidos sin error** — % correcto.  
-- **Tasa de ocupación de estaciones** — % uso en pico.  
-- **CSAT (encuesta rápida post‑venta)** — puntaje inicial y meta.
+## 🧩  9º Paso
+
+**Evaluación del desempeño organizacional y laboral**
+Este paso consiste en medir el rendimiento global de la organización y de sus empleados en el desarrollo de sus actividades. El desempeño depende de la capacidad de la empresa para enfrentar los retos del entorno, por lo que su evaluación es clave para diseñar acciones estratégicas que mejoren la eficiencia y competitividad.
+
+**Importancia de la medición**
+- Permite verificar el cumplimiento de objetivos previamente planteados.
+- Contribuye a identificar desviaciones y plantear mejoras.
+- Involucra tanto indicadores financieros como cualitativos, relacionados con procesos, satisfacción del cliente y adaptación al cambio.
+- Se recomienda un enfoque mixto, combinando datos objetivos (registros contables, reportes de ventas, productividad) con medidas subjetivas (percepciones de desempeño).
+
+**Dimensiones clave**
+- Efectividad: hacer lo correcto dentro de lo correcto.
+- Eficiencia: lograr resultados en menor tiempo y con menor costo.
+- Eficacia: integración de efectividad y eficiencia para alcanzar los objetivos organizacionales.
+
+**Evaluación del desempeño laboral**
+
+Se estructura en tres pasos:
+1. Definir el puesto: tener claros objetivos y funciones.
+2. Cuestionario de evaluación: máximo 20 afirmaciones claras sobre resultados, respeto a normas y habilidades generales, calificadas como desempeño bajo, adecuado o superior.
+3. Retroalimentación: entrevista con el empleado para reconocer logros y dialogar sobre áreas de mejora, fomentando desarrollo sin juicios personales.
+
+**Propósito final**
+
+La evaluación del desempeño permite:
+
+- Identificar fortalezas y debilidades en la organización y en los colaboradores.
+- Tomar decisiones sobre capacitación, reubicación o promoción.
+- Asegurar que los resultados contribuyan a la productividad y rentabilidad de la empresa.
 
 ---
 
-#### 7. Riesgos del diagnóstico y mitigaciones
-- **Datos no representativos** → Mitigación: muestreo en varios días y franjas horarias.  
-- **Resistencia del personal a ser observado** → Mitigación: explicar propósito, anonimizar datos, involucrar líderes.  
-- **Interrupciones operativas** → Mitigación: coordinar horarios y minimizar intrusión.
+En resumen: el noveno paso convierte la medición del desempeño en una herramienta estratégica, que integra indicadores organizacionales y laborales, y que mediante cuestionarios y retroalimentación asegura un diagnóstico claro para mejorar la eficiencia, efectividad y eficacia de la organización.
+
+## Desarrollo
+
+El noveno paso del proceso de consultoría se llevó a cabo con el propósito de valorar el desempeño tanto de la organización como de sus colaboradores, entendiendo este proceso como una estimación del rendimiento global en el desarrollo de sus actividades. La evaluación se fundamentó en la premisa de que el desempeño depende en gran medida de la capacidad de la empresa para asumir los retos que impone el entorno empresarial, y que su medición constituye un insumo estratégico para la mejora de la eficiencia y competitividad.
+
+El equipo consultor definió tres dimensiones clave para la evaluación:
+
+- **Efectividad**: aquello que la organización realiza de manera correcta dentro de lo correcto.
+- **Eficiencia**: lo que se logra en el menor tiempo posible y al menor costo, aportando a la productividad.
+- **Eficacia**: la interacción entre efectividad y eficiencia, traducida en el logro de los objetivos organizacionales.
+
+Para la valoración del desempeño laboral, se siguieron tres pasos metodológicos:
+
+1. **Definición del puesto**: se revisaron las descripciones de funciones y objetivos de cada cargo, asegurando claridad en los resultados esperados.
+2. **Cuestionario de evaluación**: se diseñaron instrumentos con afirmaciones claras y observables, clasificadas en tres áreas: resultados de trabajo, respeto a normas y políticas de la empresa, y elementos generales de habilidad. Estos cuestionarios se sistematizaron en un **anexo de cuestionarios de desempeño** (véase el anexo No. 23).
+3. **Retroalimentación**: se realizaron entrevistas individuales con los colaboradores, en las cuales se reconocieron los aspectos de desempeño superior y se dialogó sobre las áreas de mejora. Este proceso se representó en un **esquema gráfico de retroalimentación laboral** (véase la figura No. 13).
+
+La información obtenida se organizó en un **cuadro de indicadores de desempeño organizacional y laboral** (véase el anexo No. 24), que permitió visualizar en qué aspectos el desempeño fue superior, adecuado o deficiente. En los casos positivos, se consideraron posibilidades de promoción o reconocimiento; en los casos negativos, se plantearon acciones de capacitación, reubicación o, en última instancia, rescisión de contrato.
 
 ---
 
+## 🧩 10º Paso
 
+**Complemento de la evaluación del desempeño**
 
+Este paso se vincula directamente con el anterior y lo fortalece mediante la aplicación de tres tipos de auditoría: administrativa, operativa y financiera. Los resultados de estas auditorías se integran al diagnóstico para consolidar la Evaluación Integral.
 
+**Auditoría administrativa**
+
+- Se basa en el proceso administrativo como eje de revisión.
+- Implica acopio de información significativa y examen completo de los datos.
+- Su objetivo es obtener información confiable que permita identificar problemas desde su origen.
+- Puede abarcar toda la empresa o áreas específicas, siempre considerando las interrelaciones entre funciones.
+
+**Auditoría operativa**
+
+- Evalúa los procesos inter e intra departamentales de la organización.
+- Se recomienda aplicar metodologías como:
+    - *La innovación de procesos en las organizaciones* (Suárez Barraza, 2013).
+    - *Manual de trabajo de Reingeniería de Procesos* (Harbour, 2001).
+- Busca medir la eficiencia y proponer mejoras o innovaciones en los procesos.
+
+**Auditoría financiera**
+
+- Se centra en el análisis de la situación económica de la empresa.
+- Utiliza razones financieras como medida objetiva para comparaciones internas.
+- Se complementa con encuestas de satisfacción de clientes, dado que la percepción externa es clave para la competitividad y supervivencia a largo plazo.
+- Referencia metodológica: Fleitman (2007).
+
+**Propósito final**
+
+La integración de los resultados de desempeño y auditorías permite:
+
+- Contar con una evaluación integral y confiable de la situación actual de la organización.
+- Identificar problemas estructurales, operativos y financieros.
+- Preparar la planeación de medidas correctivas y estratégicas en el siguiente capítulo del proceso consultor.
+
+---
+
+En resumen: el décimo paso asegura que la evaluación integral no se limite a percepciones o indicadores aislados, sino que se fundamente en auditorías administrativas, operativas y financieras, ofreciendo una visión completa y objetiva de la organización.
+
+**EVIDENCIAS REQUERIDAS ALREDEDOR DE LA EVALUACIÓN INTEGRAL**
+
+- Guías de observación
+- Entrevistas
+- Cuestionarios
+- Cuadro concentración escala evaluación auto diagnóstica (Una empresa de 10 Fernando Castañeda)
+- Gráficas evaluación auto diagnóstica
+- Matriz FODA
+- Análisis FODA
+- Modelos de diagnóstico (opcionales)
+- Gráficas y análisis: árbol de decisiones; graficas de Gantt; Ishikawa; etc. entre otros.
+- Memoria fotográfica
+- Memoria de cálculo
+- Reporte de Observación (subjetivo y objetivo)
+- Cédulas de información Jack Fleitman
+
+## Desarrollo
+
+El décimo y último paso del proceso de consultoría se llevó a cabo con el propósito de **complementar la evaluación del desempeño organizacional y laboral** mediante la aplicación de tres tipos de auditoría: administrativa, operativa y financiera. La integración de estas auditorías permitió consolidar un diagnóstico integral, aportando información confiable y pertinente para la planeación estratégica de la organización-cliente.
+
+En primer lugar, se realizó la **auditoría administrativa**, la cual se basó en el proceso administrativo como eje de revisión. El auditor acopió información significativa y efectuó un examen completo de los datos obtenidos, con el fin de identificar problemas desde su origen. Este trabajo se sistematizó en un **cuadro de etapas de la auditoría administrativa** (véase el anexo No. 25), en el que se describieron las fases de acopio, análisis y evaluación de la información.
+
+#### PERT - CMP
+
+Posteriormente, se llevó a cabo la **auditoría operativa**, enfocada en la evaluación de los procesos inter e intra departamentales de la organización. Para ello, se aplicó la metodología *La innovación de procesos en las organizaciones* (Suárez Barraza, 2013) y el *Manual de trabajo de Reingeniería de Procesos* (Harbour, 2001). Los resultados se organizaron en una **tabla de eficiencia de procesos operativos** (véase el anexo No. 26), que permitió identificar áreas susceptibles de mejora o innovación. Este análisis se representó gráficamente en una **figura de relaciones interdepartamentales** (véase la figura No. 14).
+
+Finalmente, se efectuó la **auditoría financiera**, cuyo objetivo fue analizar la situación económica de la empresa. Ante la dificultad de establecer un indicador general de desempeño, se recurrió al uso de **razones financieras** como medida objetiva, complementadas con una encuesta de satisfacción de clientes. Los resultados se sistematizaron en un **cuadro de razones financieras aplicadas** (véase el anexo No. 27) y en una **tabla de resultados de la encuesta de satisfacción** (véase el anexo No. 28). Este proceso se ilustró en una **figura de integración financiera y percepción del cliente** (véase la figura No. 15).
+
+La información obtenida de las tres auditorías se integró en un **esquema de síntesis de resultados** (véase la figura No. 16), que permitió complementar los hallazgos alcanzados hasta el paso ocho y nueve, logrando así una **evaluación integral** que reflejó la situación actual de la organización-cliente.
 
 
 
