@@ -1,19 +1,83 @@
-# 📂 Carpeta /Assets – Recursos Visuales y Materiales de Presentación
+# 📂 Carpeta/Blueprint_Visual – Recursos Visuales y Materiales de Presentación
 
 ## 🎯 Propósito
-La carpeta `/Assets` concentra los **recursos gráficos, mapas conceptuales, slides visuales, íconos y materiales de presentación** que apoyan la comunicación visual y narrativa del proyecto **CCIEAB – El Agaveño Burgers**.
+La carpeta "Blueprint_Visual" concentra los **recursos gráficos, mapas conceptuales, slides visuales, íconos y materiales de presentación** que apoyan la comunicación visual y narrativa del proyecto **CCIEAB – El Agaveño Burgers**.
+
+## 📑 Contenido principal
+--
+### 🧾 Mapas conceptuales y diagramas  
+**Características:**  
+- Representaciones gráficas de procesos, relaciones y fases del modelo consultivo.  
+- Incluyen diagramas de flujo, mapas de entradas/salidas y esquemas MEO (Mapa Emotivo Organizacional).  
+- Se diseñan en formato visual modular para facilitar la comprensión rápida.  
+
+**Detalles:**  
+- Cada mapa se guarda en `/maps/` con versiones editables y finales.  
+- Se utilizan colores y símbolos consistentes para identificar fases (Inicio, Diagnóstico, Planeación, Implementación, Cierre).  
+- Se integran métricas y brechas detectadas en el diagnóstico.  
+
+**Ejemplo:**  
+- *Mapa de flujo del proceso de atención al cliente* mostrando pasos: **Recepción → Diagnóstico → Propuesta → Implementación → Evaluación**.  
+- *Diagrama Ishikawa* para causas raíz de baja productividad.  
 
 ---
 
-## 📑 Contenido principal
-### 🧾 Mapas conceptuales y diagramas - Presentacion del Guion_Mapa_Emotivo 
-- Representaciones visuales del modelo consultivo, flujos de trabajo y relaciones entre fases. 
-### 🎬 Slides visuales - Presentacion Blueprint 
-- Presentaciones ejecutivas por fase del proyecto (Inicio, Diagnóstico, Planeación, Implementación, Cierre). - 
-### 🎭🖌️Íconos y recursos gráficos - Material visual propio 
-- Elementos visuales para reforzar identidad y claridad en materiales de comunicación.
-### 🎙️ Historias y Notas de orador
-- Relatos breves y guiones de apoyo que acompañan las presentaciones visuales, diseñados para conectar con la audiencia, dar continuidad entre fases del proyecto y reforzar la claridad narrativa del modelo consultivo.
+### 🎬 Slides visuales – Presentación Blueprint  
+**Características:**  
+- Presentaciones ejecutivas por fase del proyecto.  
+- Incluyen notas de orador y transiciones visuales tipo Prezi (zoom entre capas).  
+- Diseñadas para comunicación formal con el cliente.  
+
+**Detalles:**  
+- Se guardan en `/slides/` organizadas por fase.  
+- Cada slide contiene narrativa clara, datos duros y elementos visuales congruentes con los mapas conceptuales.  
+- Se acompañan de versiones exportadas en PDF para entrega oficial.  
+
+**Ejemplo:**  
+- *Slide de Diagnóstico* con hallazgos clave: “Tiempo promedio de servicio: 12 min (meta: 8 min)”.  
+- *Slide de Implementación* mostrando KPIs: “Reducción de desperdicio en cocina: -15%”.  
+
+---
+
+### 🎭🖌️ Íconos y recursos gráficos  
+**Características:**  
+- Biblioteca de símbolos, pictogramas y elementos gráficos reutilizables.  
+- Diseñados para reforzar identidad visual y coherencia en todos los materiales.  
+- Incluyen íconos propios y adaptados a estilo corporativo.  
+
+**Detalles:**  
+- Se guardan en `/icons/` con categorías (personas, procesos, métricas, emociones).  
+- Se usan en mapas, slides y dashboards para mantener consistencia visual.  
+- Incluyen guías de uso en `visual-style.md`.  
+
+**Ejemplo:**  
+- Ícono de “cliente satisfecho” (rostro sonriente con check).  
+- Ícono de “proceso operativo” (engranajes interconectados).  
+- Ícono de “KPIs” (gráfico de barras ascendente).  
+
+---
+
+### 🎙️ Historias y Notas de orador  
+**Características:**  
+- Relatos breves y guiones de apoyo para acompañar las presentaciones visuales.  
+- Diseñados para conectar emocionalmente con la audiencia y dar continuidad narrativa.  
+- Incluyen frases exactas y transiciones sugeridas entre fases.  
+
+**Detalles:**  
+- Se guardan en `/slides/notes/` vinculadas a cada presentación.  
+- Se redactan en tono cálido y profesional, con ejemplos fáciles de entender.  
+- Refuerzan la claridad narrativa del modelo consultivo.  
+
+**Ejemplo:**  
+- Nota de orador en fase de Inicio: *“Hoy comenzamos un viaje de transformación; cada paso que demos será trazable y defendible.”*  
+- Historia en fase de Cierre: *“El cambio no termina aquí, se convierte en cultura que vive en cada proceso.”*  
+
+---
+
+📌 **En resumen:**  
+Este bloque del README explica cómo los **mapas, slides, íconos y notas de orador** se integran como soporte visual y narrativo del proyecto. Cada subcarpeta aporta un tipo de recurso específico: **mapas para visualizar, slides para comunicar, íconos para unificar y notas para conectar con la audiencia**.  
+
+¿Quieres que te arme también un **esquema visual tipo tabla modular** que muestre cómo estos cuatro elementos se relacionan entre sí dentro de *Assets*?
 ---
 
 ## 🧭 Propósito estratégico
