@@ -1,4 +1,4 @@
-# 📂 Carpeta – Estándares y Metodologías
+# 📂 Carpeta – Estándares y Metodologías paso por paso; algunos extraidos de zenkai
 
 ## 🎯 Propósito
 La carpeta `/Standards` reúne las **plantillas, formatos y guías metodológicas** que sustentan la aplicación de enfoques Lean–Kaizen y marcos consultivos en el proyecto CCIEAB – El Agaveño Burgers.
