@@ -1226,7 +1226,7 @@ El séptimo paso del proceso de consultoría se llevó a cabo con el propósito 
 
 En primer lugar, se aplicó el Modelo de Elementos Organizacionales, utilizando la matriz denominada *“Lo que es”*. Esta herramienta permitió evaluar cinco aspectos fundamentales: entradas, procesos, productos, salidas y resultados finales. La información obtenida se organizó en una **matriz analítica de elementos organizacionales** (véase el anexo No. 17), que facilitó la identificación de relaciones entre dichos componentes y su impacto en el desempeño global.
 
-#### **Anexo Nº 17 – Matriz analítica de elementos organizacionales**
+### Modelo de elementos organizacionales - **Matriz "Lo que es"**
 
 | **Entradas** | **Procesos** | **Productos** | **Salidas** | **Resultados finales** |
 | --- | --- | --- | --- | --- |
