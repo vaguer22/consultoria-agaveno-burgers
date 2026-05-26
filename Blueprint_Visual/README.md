@@ -1,7 +1,7 @@
 # 📂 Carpeta/Blueprint_Visual – Recursos Visuales y Materiales de Presentación
 
 ## 🎯 Propósito
-La carpeta "Blueprint_Visual" concentra los **recursos gráficos, mapas conceptuales, slides visuales, íconos y materiales de presentación** que apoyan la comunicación visual y narrativa del proyecto **CCIEAB – El Agaveño Burgers**.
+La carpeta "Blueprint_Visual" concentra los **recursos gráficos, mapas conceptuales y diagramas, slides visuales, Historias y Notas de orador** que apoyan la comunicación visual y narrativa del proyecto **CCIEAB – El Agaveño Burgers**.
 
 ## 📑 Contenido principal
 --
@@ -28,19 +28,6 @@ La carpeta "Blueprint_Visual" concentra los **recursos gráficos, mapas conceptu
 - Se guardan en `/slides/` organizadas por fase.  
 - Cada slide contiene narrativa clara, datos duros y elementos visuales congruentes con los mapas conceptuales.  
 - Se acompañan de versiones exportadas en PDF para entrega oficial.  
-
----
-
-### 🎭🖌️ Íconos y recursos gráficos  
-**Características:**  
-- Biblioteca de símbolos, pictogramas y elementos gráficos reutilizables.  
-- Diseñados para reforzar identidad visual y coherencia en todos los materiales.  
-- Incluyen íconos propios y adaptados a estilo corporativo.  
-
-**Detalles:**  
-- Se guardan en `/icons/` con categorías (personas, procesos, métricas, emociones).  
-- Se usan en mapas, slides y dashboards para mantener consistencia visual.  
-- Incluyen guías de uso en `visual-style.md`.  
 
 ---
 
