@@ -1078,7 +1078,7 @@ El sexto paso del proceso de consultoría se llevó a cabo con el propósito de 
 
 El equipo consultor elaboró un **primer análisis de resultados**, en el cual se valoraron los indicadores de efectividad, eficiencia y eficacia. Dicho análisis fue presentado a la organización-cliente, otorgándole el **derecho de réplica** para asegurar transparencia y participación activa. En caso de discrepancias, se identificaron las razones de las diferencias y se acordaron medidas que garantizaran la coincidencia en los puntos de vista. Este proceso se documentó en un **cuadro de réplica y consenso** (véase el anexo No. 16), que permitió registrar las observaciones de la empresa y las respuestas del equipo consultor.
 
-#### **Anexo Nº 16 – Cuadro de réplica y consenso**
+### Cuadro de réplica y consenso
 
 | **Función básica** | **Hallazgo inicial (equipo consultor)** | **Observación / réplica (organización-cliente)** | **Respuesta del equipo consultor** | **Medida de consenso acordada** |
 | --- | --- | --- | --- | --- |
