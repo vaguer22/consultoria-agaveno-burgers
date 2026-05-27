@@ -1276,7 +1276,7 @@ Finalmente, se desarrolló la evaluación vinculada a la **Competitividad de la 
 <img width="1360" height="1592" alt="image" src="https://github.com/user-attachments/assets/4b141f77-f16d-405c-827d-1fcca274c952" />
 
 
-### 👉 Modelo de Campo de Fuerzas de Lewin 
+## 👉 Modelo de Campo de Fuerzas de Lewin 
 
 Se aplicó el Modelo de Campo de Fuerzas de Lewin, que identificó las fuerzas impulsoras y restrictivas del cambio organizacional. Este análisis se representó en una **figura esquemática de fuerzas en equilibrio** (véase la figura No. 9), mostrando cómo las dinámicas internas y externas condicionaban la posibilidad de transformación.
 
@@ -1285,14 +1285,53 @@ Lewin plantea que todo sistema social se encuentra en un **estado de equilibrio 
 - **Impulsoras (Driving Forces)** → favorecen el cambio.
 - **Restrictivas (Restraining Forces)** → se oponen al cambio.
 
-Se aplicó el modelo de cambio Kurt Lewin Articulado con los 5 pasos operativos de Guizar (2013, pp. 28-29); Para una interpretación más profunda Se integraron Los aportes de los cursos cabala y gestión empresarial y Daat los 22 canales de conciencia, Ambos de la escuela de Cabala de Mario Saban.
+El modelo de campo de Fuerzas de Kurt Lewin muestra que todo Cambio organizacional se encuentra condicionado Por fuerzas impulsoras y restrictivas que interactúan en equilibrio dinámico. Sin embargo este marco no se limita a un análisis técnico Al trasladarlo Al ámbito práctico revela que las organizaciones viven Inmersas en tensiones paradójicas que atraviesan tanto la dimensión operativa como la identidad colectiva. Reconocer estas tensiones es clave para comprender que el cambio no es lineal, Sino un proceso de integración de polaridades. En este diagnóstico se Mencionaron cuatro tensiones típicas: La tensión de aprendizaje La Tensión de pertenencia La tension De organización y la tensión de desempeño. Entre ellas la atención de identidad ocupa una lugar central Pues cuando se fragmentan las demás tensiones se intensifican y el equilibrio organizacional se debilita.
+
+En el diagnóstico realizado para El Agaveño Burgers La Tención de Aprendizaje emergio como Una de las más determinantes para comprender la dinámica operativa del negocio. Para analizarla si aplicó el modelo de cambio de Kurt Lewin articulado con los 5 pasos operativos de Guizar (2013, pp. 28-29);
+
+### 1. **Descongelamiento:** esta fase implica reducir las fuerzas que mantienen a la organización en su actual nivel de comportamiento
+ 
+### 2. **Cambio o movimiento:** esta fase consiste en desplazarse hacia un nuevo es- tado o nuevo nivel dentro de la organización con respecto a patrones de com- portamiento y hábitos, lo cual signiﬁca desarrollar nuevos valores, hábitos, conductas y actitudes. 
+
+### 3. **Recongelamiento:** en esta fase se estabiliza a la organización en un nuevo es- tado de equilibrio, en el cual con frecuencia necesita el apoyo de mecanismos como la cultura, las normas, las políticas y la estructura organizacionales. Además, Lewin sostiene que estas tres fases se pueden lograr si:
+
+1. Se determina el problema. 
+2. Se identiﬁca su situación actual.
+3. Se identiﬁca la meta por alcanzar. 
+4. Se identiﬁcan las fuerzas positivas y negativas que inciden sobre él. 
+5. Se desarrolla una estrategia para lograr el cambio a partir de la situación actual dirigiéndolo hacia la meta.
+
+Para una interpretación más profunda Se integraron Los aportes de los cursos cabala y gestión empresarial y Daat los 22 canales de conciencia, Ambos de la escuela de Cabala de Mario Saban.
 El curso planteó que las tensiones organizacionales surgen cuando las lógicas empresariales Fragmenten el alma humana Especialmente cuando existe una brecha entre los intereses individuales Y los objetivos de la empresa. Esta perspectiva permitió comprender que el aprendizaje como un proceso Tecnicum Emocionales espiritual Atravesado por polaridades que debían integrarse Para generar Bienestar y desempeño (Revísese el anexo Anexo N°22)
 
-| **Tensión** | **Descripción** | **Conflictos / Dilemas** | **Referencias** |
+| **Tensión** | **Descripción** | **Referencias** |
 | --- | --- | --- | --- |
-| **Aprendizaje – Pertenencia** | Conflictos entre la necesidad deadaptación y cambio y eldeseo de mantener un sentido ordenado deYo y propósito. | (e.g., Fiol, 2002; Ibarra, 1999; O'Mahony & Bechky, 2006) |
+| **Aprendizaje – Pertenencia** | Conflictos entre la necesidad deadaptación y cambio y el deseo de mantener un sentido ordenado de Yo y propósito. | (e.g., Fiol, 2002; Ibarra, 1999; O'Mahony & Bechky, 2006) |
 | **Aprendzaje** | Esfuerzos para ajustar, renovar, cambiar e innovar fomentar tensiones entre construir sobre y destruyendo el pasado para crear el futuro. |(e.g., March, 1991; Senge, 1990; Weick & Quinn, 1999) |
-| **Aprendizaje – Organización** | Rutinas organizativas ylas capacidades buscan estabilidad, claridad,Enfoque y eficiencia a la vezFacilitando la dinámica, la flexibilidad y la agilidadResultados. | (e.g., Eisenhardt & Martin, 2000; Teece & Pisano 1994) |
+| **Aprendizaje – Organización** | Rutinas organizativas y las capacidades buscan estabilidad, claridad,Enfoque y eficiencia a la vez Facilitando la dinámica, la flexibilidad y la agilidadResultados. | (e.g., Eisenhardt & Martin, 2000; Teece & Pisano 1994) |
+
+**Procedimiento**
+
+#### **Descongelamiento:** Determinación del problema y reconocimiento de la situación actual
+Siguiendo a Guizar, El proceso Inició con la determinación del problema: El aprendizaje dependía casi exclusivamente Del conocimiento tácito del encargado de cocina, lo que Generaba variabilidad errores y dificultades Para integrar a nuevos colaboradores. La situación actual mostro Que los colaboradores aprendían por imitación sin manuales Sin protocolos y con una comunicación ambigua entre cocina y caja.
+
+Desde la cavala lurianica Esta fase correspondió al tzin tzum La contracción que delimita el espacio donde surge la tensión. Los límites culturales - " Así se ha hecho siempre" Funcionaban Con contenedores que daban seguridad, Pero también restringían la expansión del aprendizaje.
+
+La Cabalá como un lente teórico para la investigación de la paradoja en la gerencia Explicó que modelos ¿Cómo la burocracia Meritocracia Y la docración Pueden desgarrar el alma humano cuando no se equilibra adecuadamente, Generando Polarización interna y desgaste emocional Punto esto coincidió con lo observado En El Agaveño Burgers Colaboradores antiguos defendían la tradición mientras los nuevos buscaban modernizar procesos creando tensiones de identidad Y aprendizaje simultáneamente.
+
+El concepto Daat Y su función aportó la comprensión De que el problema del aprendizaje estaba profundamente ligado al problema del lenguaje (HOD): Instrucciones ambiguas, Operativos Y falta de precisión verbal Que generaban "primeras transgresiones" involuntarias.
+
+#### **Identificación De la meta:** Aprendizaje estructurado y coherente
+La meta se definió como:
+"Construir un sistema de aprendizaje operativo estandarizado Replicable y accesible para todos los colaboradores Reduciendo la variabilidad y fortaleciendo la autonomía del equipo"
+
+Este objetivo se alineo con la enseñanza de la Cabalá como un lente teórico para la investigación de la paradoja en la gerencia Que propone que las empresas deben organizarse en función de las personas Mientras las personas hacen viable a la Empresa.La meta buscó precisamente eso Integrar tradición y modernidad Mediante un aprendizaje consciente y compartido.
+
+Desde el concepto de da Esta meta representó la activación Del DAT ¿Cómo funciona integradora capaz de conectar elementos dispersos - Técnica, Tradición, Comunicación ,Identidad - En un sistema coherente
+
+
+
+
 
 
 
