@@ -1285,6 +1285,17 @@ Lewin plantea que todo sistema social se encuentra en un **estado de equilibrio 
 - **Impulsoras (Driving Forces)** → favorecen el cambio.
 - **Restrictivas (Restraining Forces)** → se oponen al cambio.
 
+Se aplicó el modelo de cambio Kurt Lewin Articulado con los 5 pasos operativos de Guizar (2013, pp. 28-29); Para una interpretación más profunda Se integraron Los aportes de los cursos cabala y gestión empresarial y Daat los 22 canales de conciencia, Ambos de la escuela de Cabala de Mario Saban.
+El curso planteó que las tensiones organizacionales surgen cuando las lógicas empresariales Fragmenten el alma humana Especialmente cuando existe una brecha entre los intereses individuales Y los objetivos de la empresa. Esta perspectiva permitió comprender que el aprendizaje como un proceso Tecnicum Emocionales espiritual Atravesado por polaridades que debían integrarse Para generar Bienestar y desempeño (Revísese el anexo Anexo N°22)
+
+| **Tensión** | **Descripción** | **Conflictos / Dilemas** | **Referencias** |
+| --- | --- | --- | --- |
+| **Aprendizaje – Pertenencia** | Conflictos entre la necesidad deadaptación y cambio y eldeseo de mantener un sentido ordenado deYo y propósito. | (e.g., Fiol, 2002; Ibarra, 1999; O'Mahony & Bechky, 2006) |
+| **Aprendzaje** | Esfuerzos para ajustar, renovar, cambiar e innovar fomentar tensiones entre construir sobre y destruyendo el pasado para crear el futuro. |(e.g., March, 1991; Senge, 1990; Weick & Quinn, 1999) |
+| **Aprendizaje – Organización** | Rutinas organizativas ylas capacidades buscan estabilidad, claridad,Enfoque y eficiencia a la vezFacilitando la dinámica, la flexibilidad y la agilidadResultados. | (e.g., Eisenhardt & Martin, 2000; Teece & Pisano 1994) |
+
+
+
 **Procedimiento** 
 
 **Identificación del problema o cambio deseado**
