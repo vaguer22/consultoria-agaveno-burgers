@@ -1285,49 +1285,268 @@ Lewin plantea que todo sistema social se encuentra en un **estado de equilibrio 
 - **Impulsoras (Driving Forces)** → favorecen el cambio.
 - **Restrictivas (Restraining Forces)** → se oponen al cambio.
 
-El modelo de campo de Fuerzas de Kurt Lewin muestra que todo Cambio organizacional se encuentra condicionado Por fuerzas impulsoras y restrictivas que interactúan en equilibrio dinámico. Sin embargo este marco no se limita a un análisis técnico Al trasladarlo Al ámbito práctico revela que las organizaciones viven Inmersas en tensiones paradójicas que atraviesan tanto la dimensión operativa como la identidad colectiva. Reconocer estas tensiones es clave para comprender que el cambio no es lineal, Sino un proceso de integración de polaridades. En este diagnóstico se Mencionaron cuatro tensiones típicas: La tensión de aprendizaje La Tensión de pertenencia La tension De organización y la tensión de desempeño. Entre ellas la atención de identidad ocupa una lugar central Pues cuando se fragmentan las demás tensiones se intensifican y el equilibrio organizacional se debilita.
+El modelo de campo de Fuerzas de Kurt Lewin muestra que todo Cambio organizacional se encuentra condicionado Por fuerzas impulsoras y restrictivas que interactúan en equilibrio dinámico. Sin embargo este marco no se limita a un análisis técnico Al trasladarlo Al ámbito práctico revela que las organizaciones viven Inmersas en tensiones paradójicas que atraviesan tanto la dimensión operativa como la identidad colectiva. Reconocer estas tensiones es clave para comprender que el cambio no es lineal, Sino un proceso de integración de polaridades. En este diagnóstico se Mencionaron cuatro tensiones típicas: La tensión de aprendizaje, La Tensión de pertenencia, La tension De organización y la tensión de desempeño. Entre ellas la atención de identidad ocupa una lugar central Pues cuando se fragmentan las demás tensiones se intensifican y el equilibrio organizacional se debilita.
+Lewin propone un plan de tres fases para llevar a cabo el cambio planeado:
 
-En el diagnóstico realizado para El Agaveño Burgers La Tención de Aprendizaje emergio como Una de las más determinantes para comprender la dinámica operativa del negocio. Para analizarla si aplicó el modelo de cambio de Kurt Lewin articulado con los 5 pasos operativos de Guizar (2013, pp. 28-29);
-
-### 1. **Descongelamiento:** esta fase implica reducir las fuerzas que mantienen a la organización en su actual nivel de comportamiento
+1. **Descongelamiento:** esta fase implica reducir las fuerzas que mantienen a la organización en su actual nivel de comportamiento
  
-### 2. **Cambio o movimiento:** esta fase consiste en desplazarse hacia un nuevo es- tado o nuevo nivel dentro de la organización con respecto a patrones de com- portamiento y hábitos, lo cual signiﬁca desarrollar nuevos valores, hábitos, conductas y actitudes. 
+2. **Cambio o movimiento:** esta fase consiste en desplazarse hacia un nuevo es- tado o nuevo nivel dentro de la organización con respecto a patrones de com- portamiento y hábitos, lo cual signiﬁca desarrollar nuevos valores, hábitos, conductas y actitudes. 
 
-### 3. **Recongelamiento:** en esta fase se estabiliza a la organización en un nuevo es- tado de equilibrio, en el cual con frecuencia necesita el apoyo de mecanismos como la cultura, las normas, las políticas y la estructura organizacionales. Además, Lewin sostiene que estas tres fases se pueden lograr si:
+3. **Recongelamiento:** en esta fase se estabiliza a la organización en un nuevo es- tado de equilibrio, en el cual con frecuencia necesita el apoyo de mecanismos como la cultura, las normas, las políticas y la estructura organizacionales.
 
-1. Se determina el problema. 
-2. Se identiﬁca su situación actual.
-3. Se identiﬁca la meta por alcanzar. 
-4. Se identiﬁcan las fuerzas positivas y negativas que inciden sobre él. 
-5. Se desarrolla una estrategia para lograr el cambio a partir de la situación actual dirigiéndolo hacia la meta.
+Además, Lewin sostiene que estas tres fases se pueden lograr si:
+- 1. Se determina el problema. 
+- 2. Se identiﬁca su situación actual.
+- 3. Se identiﬁca la meta por alcanzar. 
+- 4. Se identiﬁcan las fuerzas positivas y negativas que inciden sobre él. 
+- 5. Se desarrolla una estrategia para lograr el cambio a partir de la situación actual dirigiéndolo hacia la meta.
 
-Para una interpretación más profunda Se integraron Los aportes de los cursos cabala y gestión empresarial y Daat los 22 canales de conciencia, Ambos de la escuela de Cabala de Mario Saban.
-El curso planteó que las tensiones organizacionales surgen cuando las lógicas empresariales Fragmenten el alma humana Especialmente cuando existe una brecha entre los intereses individuales Y los objetivos de la empresa. Esta perspectiva permitió comprender que el aprendizaje como un proceso Tecnicum Emocionales espiritual Atravesado por polaridades que debían integrarse Para generar Bienestar y desempeño (Revísese el anexo Anexo N°22)
+Para una interpretación más profunda Se integraron Los aportes de los cursos cabala y gestión empresarial y Daat: los 22 canales de conciencia, Ambos de la escuela de Cabala de Mario Saban.
+La Cabalá como un lente teórico para la investigación de la paradoja en la gerencia de Aramis Rodríguez-Orosz planteó que las tensiones organizacionales surgen cuando las lógicas empresariales Fragmentan el alma humana Especialmente cuando existe una brecha entre los intereses individuales Y los objetivos de la empresa. 
 
-| **Tensión** | **Descripción** | **Referencias** |
-| --- | --- | --- | --- |
-| **Aprendizaje – Pertenencia** | Conflictos entre la necesidad deadaptación y cambio y el deseo de mantener un sentido ordenado de Yo y propósito. | (e.g., Fiol, 2002; Ibarra, 1999; O'Mahony & Bechky, 2006) |
-| **Aprendzaje** | Esfuerzos para ajustar, renovar, cambiar e innovar fomentar tensiones entre construir sobre y destruyendo el pasado para crear el futuro. |(e.g., March, 1991; Senge, 1990; Weick & Quinn, 1999) |
-| **Aprendizaje – Organización** | Rutinas organizativas y las capacidades buscan estabilidad, claridad,Enfoque y eficiencia a la vez Facilitando la dinámica, la flexibilidad y la agilidadResultados. | (e.g., Eisenhardt & Martin, 2000; Teece & Pisano 1994) |
+---
+
+### ☯️ TENSIÓN ORGANIZACIONAL → APRENDIZAJE  
+
+La perspectiva de la Cabalá permitió comprender el aprendizaje como un proceso Tecnic Emocionales espiritual Atravesado por polaridades que debían integrarse Para generar Bienestar y desempeño (Revísese el Anexo N°22) Categorización de tensiones De Organizativas (Aprendizaje)
+
+##### 📋 Anexo N°22 Categorización de tensiones Organizativas (Aprendizaje) 
+
+| **Tensión**                | **Descripción**                                                                                                                                     | **Referencias**                                      |
+|-----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------|
+| **Aprendizaje – Pertenencia** | Conflictos entre la necesidad de adaptación y cambio y el deseo de mantener un sentido ordenado de Yo y propósito.                                   | (e.g., Fiol, 2002; Ibarra, 1999; O'Mahony & Bechky, 2006) |
+| **Aprendizaje**             | Esfuerzos para ajustar, renovar, cambiar e innovar, fomentando tensiones entre construir sobre y destruir el pasado para crear el futuro.             | (e.g., March, 1991; Senge, 1990; Weick & Quinn, 1999) |
+| **Aprendizaje – Organización** | Rutinas organizativas y capacidades buscan estabilidad, claridad, enfoque y eficiencia, a la vez que facilitan la dinámica, la flexibilidad y la agilidad en los resultados. | (e.g., Eisenhardt & Martin, 2000; Teece & Pisano, 1994) |
+| **Aprendizaje –Desempeño** | Construyendo capacidades para el futuro Asegurando el éxito en el presente. | (e.g., Andriopoulos & Lewis, 2009; Dweck, 2006; Tushman & O'Reilly, 1996) |
 
 **Procedimiento**
 
-#### **Descongelamiento:** Determinación del problema y reconocimiento de la situación actual
+#### 🫠 Descongelamiento: Determinación del problema y reconocimiento de la situación actual
+
 Siguiendo a Guizar, El proceso Inició con la determinación del problema: El aprendizaje dependía casi exclusivamente Del conocimiento tácito del encargado de cocina, lo que Generaba variabilidad errores y dificultades Para integrar a nuevos colaboradores. La situación actual mostro Que los colaboradores aprendían por imitación sin manuales Sin protocolos y con una comunicación ambigua entre cocina y caja.
 
 Desde la cavala lurianica Esta fase correspondió al tzin tzum La contracción que delimita el espacio donde surge la tensión. Los límites culturales - " Así se ha hecho siempre" Funcionaban Con contenedores que daban seguridad, Pero también restringían la expansión del aprendizaje.
 
 La Cabalá como un lente teórico para la investigación de la paradoja en la gerencia Explicó que modelos ¿Cómo la burocracia Meritocracia Y la docración Pueden desgarrar el alma humano cuando no se equilibra adecuadamente, Generando Polarización interna y desgaste emocional Punto esto coincidió con lo observado En El Agaveño Burgers Colaboradores antiguos defendían la tradición mientras los nuevos buscaban modernizar procesos creando tensiones de identidad Y aprendizaje simultáneamente.
 
-El concepto Daat Y su función aportó la comprensión De que el problema del aprendizaje estaba profundamente ligado al problema del lenguaje (HOD): Instrucciones ambiguas, Operativos Y falta de precisión verbal Que generaban "primeras transgresiones" involuntarias.
+El concepto de Daat Y su función aportó la comprensión De que el problema del aprendizaje estaba profundamente ligado al problema del lenguaje (Hod): Instrucciones ambiguas, silencios operativosY falta de precisión verbal Que generaban "primeras transgresiones" involuntarias.
 
-#### **Identificación De la meta:** Aprendizaje estructurado y coherente
+- Contenido ligado: Clase 01 (El problema del lenguaje – Hod) y Clase 02 (El discurso abierto y el sistema dogmático).
+
+- Aplicación práctica: abrir espacios de diálogo donde el lenguaje sea consciente, evitando ambigüedades y transformando la comunicación en aprendizaje colectivo.
+
+#### 🏁 Identificación De la meta: Aprendizaje estructurado y coherente 
+
 La meta se definió como:
 "Construir un sistema de aprendizaje operativo estandarizado Replicable y accesible para todos los colaboradores Reduciendo la variabilidad y fortaleciendo la autonomía del equipo"
 
 Este objetivo se alineo con la enseñanza de la Cabalá como un lente teórico para la investigación de la paradoja en la gerencia Que propone que las empresas deben organizarse en función de las personas Mientras las personas hacen viable a la Empresa.La meta buscó precisamente eso Integrar tradición y modernidad Mediante un aprendizaje consciente y compartido.
 
-Desde el concepto de da Esta meta representó la activación Del DAT ¿Cómo funciona integradora capaz de conectar elementos dispersos - Técnica, Tradición, Comunicación ,Identidad - En un sistema coherente
+Desde el concepto de da Esta meta representó la activación Del DAT ¿Cómo funciona integradora capaz de conectar elementos dispersos - Técnica, Tradición, Comunicación, Identidad - En un sistema coherente.
+
+#### 💪 Identificación de fuerzas impulsoras y restrictivas 
+
+Se elaboró un campo de fuerzas para identificar los elementos que impulsaban o restringían el aprendizaje (consúltese en la tabla No. 2)
+
+##### Tabla No. 2 Campo de fuerzas: tension de aprendizaje
+
+| **Fuerzas impulsoras (Driving Forces)** | **Descripción** | **Ejemplos prácticos** |
+|-----------------------------------------|-----------------|-------------------------|
+| Presión competitiva                     | La necesidad de innovar frente a rivales obliga a aprender más rápido. | Benchmarking sectorial, adopción de nuevas tecnologías. |
+| Cambio tecnológico                      | La digitalización y la IA generan urgencia de actualización constante. | Implementación de sistemas ERP, uso de Copilot para análisis. |
+| Expectativas de clientes                | Los clientes demandan soluciones más ágiles y personalizadas. | Feedback continuo, co-creación de productos. |
+| Cultura de mejora continua              | Filosofías como Lean–Kaizen impulsan el aprendizaje como hábito. | Kaizen Blitz, círculos de calidad. |
+| Liderazgo visionario                    | Directivos que promueven aprendizaje como ventaja estratégica. | Programas de mentoring, storytelling de líderes. |
+
+| **Fuerzas restrictivas (Restraining Forces)** | **Descripción** | **Ejemplos prácticos** |
+|-----------------------------------------------|-----------------|-------------------------|
+| Resistencia al cambio                         | Temor a perder estabilidad o status quo. | “Siempre lo hemos hecho así”, rechazo a nuevas prácticas. |
+| Sobrecarga de trabajo                         | Falta de tiempo para reflexionar y aprender. | Operaciones saturadas en QSR, burnout en equipos. |
+| Rigidez organizativa                          | Procesos demasiado estructurados que limitan la flexibilidad. | Jerarquías rígidas, exceso de burocracia. |
+| Falta de incentivos                           | Aprender no se traduce en reconocimiento o recompensa. | Evaluaciones centradas solo en resultados inmediatos. |
+| Déficit de capacidades                        | Carencia de habilidades básicas para absorber nuevos conocimientos. | Brechas digitales, falta de formación en soft skills. |
+
+Desde la cábala loreánica estas fuerzas restrictivas representaron Shevirat HaKelim, La ruptura de los recipientes: La estructura actual ya no podía sostener la complejidad del negocio.
+
+#### 🏃‍➡️ Cambio o movimiento: Estrategias para transitar hacia la meta
+
+Con base en guisar, Se diseño una estrategia para mover la situación actual hacia la meta. Esta fase implicó experimentación retroalimentación y acompañamiento, Lo que generó tensiones iniciales, Tal como describe Lewin.
+
+Las principales acciones fueron:
+- Pilotos protegidos que funcionaron como espacios en Ticún (Reparación)
+- Micro capacitaciones De 10 minutos alineadas con la lógica cabalística del Pues es pequeñas que iluminan procesos complejo
+- Mentor operativo por turno Equivalente a activar los canales verticales de curso daat (bet, Guimel, dalet)
+- Tableros visuales que redujeron la ambigüedad lingüística (hod)
+- Reuniones breves de retroalimentación ¿Qué fortalecieron el DAT como conexión entre niveles de árbol de la vida
+
+La Cabalá como un lente teórico para la investigación de la paradoja en la gerencia Enseñó que el pensamiento paradójico permite equilibrar polaridades Y que los partzufim funcionan como modelos de gestión gradual. Estas ideas guiaron la implementación de cambios progresivos, Respetuosos y sostenibles.
+
+#### 🥶 Recongelamiento: integración del nuevo aprendizaje
+
+El aprendizaje se estabilizó cuando:
+- Los manuales operativos se integrarán como referencia cotidiana
+- Los tableros visuales se convirtieron en parte del entorno de trabajo
+- El rol del mentor se institucionalizó
+- Las microcapacitaciones se incorporaron a la rutina diaria
+
+#### Conclusion
+
+La atención de aprendizaje en el Agaveño Burgers Mostró que el cambio no sólo implica técnicas , Sino la capacidad De las personas para reinterpretar Sus prácticas Integrar polaridades y reconstruir significados compartidos. La integración de los modelo anteriores Permitieron comprender el aprendizaje como un proceso técnico emocional y simbólico. El resultado fue un sistema de aprendizaje más sólido, coherenre y preparado para el crecimiento del restaurante.
+
+---
+
+### ☯️ TENSIÓN ORGANIZACIONAL → IDENTIDAD (pertenencia)
+
+En el diagnóstico realizado para el agaveño Burgers, La tensión de identidad emergió como una de las más profundas y sensibles pues involucró la manera en que los colabores se percibieron a sí mismos Dentro del negocio, Cómo interpretaron su rol y cómo construyeron sentido de pertenencia. Se continuará Usando El modelo de cambio de Kurt Lewin Articulado con los 5 pasos operativos de Guizar Para analizar la tensión.
+
+Sin embargo la identidad organizacional No pudo comprenderse únicamente Desde una perspectiva técnica. Los aportes de la Cabalá como un lente teórico para la 
+investigación de la paradoja en la gerencia Propone que Las lógicas de gestión empresarial impactan directamente en el alma, Y que la identidad se construye en la interacción entre tradición, Estructura, Autonomía, y reconocimiento (Revísese el Anexo N°23) Categorización de tensiones Organizativas (Identidad)
+
+##### 📋 Anexo N°23 Categorización de tensiones Organizativas (Identidad)
+
+| **Tensión**                  | **Descripción**                                                                                                                                   | **Referencias**                                                                 |
+|-------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+| **Aprendizaje – Pertenencia** | Conflictos entre la necesidad de adaptación y cambio y el deseo de mantener un sentido ordenado de Yo y propósito.                                | (e.g., Fiol, 2002; Ibarra, 1999; O'Mahony & Bechky, 2006)                       |
+| **Pertenencia**               | La identidad fomenta tensiones entre lo individual y colectivo y entre valores en competencia. Roles y membresía.                                | (e.g., Bodarocco, 1998; Brower, 1991; Huy, 2002; Markus & Kitayama, 1991; Pratt & Foreman, 2000) |
+| **Desempeño – Pertenencia**   | Conflicto entre la identificación y los objetivos mientras los actores negocian identidades individuales con demandas sociales y ocupacionales.   | (e.g., Dukerich, Golden, & Shortell, 2002; Kreiner, Hollensbe, & Sheep, 2006)   |
+| **Pertenencia – Organización**| Tensiones entre el Individuo y el agregado, la individualidad VS Acción colectiva.                                                               | (e.g., Mumighan & Conlon, 1991; Smith & Berg, 1987)                             |
+
+**Procedimiento**
+
+#### 🫠 Descongelamiento: Determinación del problema y reconocimiento de la situación actual
+
+Siguiendo a Guizar, el proceso inicio con la determinación del problema: Existía una fragmentación identitaria Entre colaboradores antiguos y nuevos. Los primeros dependían prácticas tradicionales como parte del su sentido de pertenencia, Mientras los segundos buscaban modernizar procesos y aportar ideas frescas.
+
+La situación actual reveló que la identidad Del negocio se sostenían rituales informales-Formas particulares de separar productos , bromas internas , dinámicas de convivencia entre turnos- Que no siempre a los recién llegaron. Esta excripción involuntaria generó tensiónes, Diferencias de la interpretación de "lo que significa trabajar aquí".
+
+La Cabalá como un lente teórico para la investigación de la paradoja en la gerencia Explicó que cuando normalmente no espera de remodelos rígidos una mujer O excesionamente flexibles la identidad de los colaboradores puede fragmentarse. Esto coincidió con lo observado en el Agaveño Burgers: la tradición Generaba orgullo coma pero también resisten; la innovación generaba entusiasmo, pero también incertidumbre.
+
+El concepto de Daat y su función aportó la comprensión de que el problema de la pertenencia estaba ligado a la rigidez de símbolos y narrativas identitarias: cuando los canales de relación (senderos diagonales) se bloquean, la diversidad se percibe como amenaza y no como resonancia.
+
+- Contenido ligado: Clase 05 **(Álef, Shin y Mem – letras madres)** y Clases 08–11 **(Los 12 senderos diagonales)**.
+
+- Aplicación práctica: diseñar rituales organizativos que integren pluralidad de voces y valores, reforzando la identidad colectiva sin anular la individualidad.
+
+#### 🏁 Identificación de la meta: identidad inclusiva y compartida
+
+La meta se definio como:
+"Construir una identidad organizacional que preserven la tradición de El Agaveño Burgers Pero que al mismo integraciones que fortalezcan la pretendencia de todos los colaboradores".
+
+Este objetivo se alineo con la enseñanza de la Cabalá como un lente teórico para la investigación de la paradoja en la gerencia, Que propone que las empresas deben integrar polaridades mediante el pensamiento paradojico y el Daat, reconociendo que la identidad se construye en la tension entre continuidad y cambio.
+
+Desde el concepto de Daat, esta meta represento la activacion de los canales verticales y diagonales, que permitan conectar niveles jerarquicos, Roles y perspectivas diversas.
+
+55553333
+
+Se elaboró un campo de fuerzas para identificar los elementos que impulsaban o restringían la identidad (Revisese la tabla No. 3)
+
+| **Fuerzas impulsoras (Driving Forces)** | **Descripción** | **Ejemplos prácticos** |
+|-----------------------------------------|-----------------|-------------------------|
+| Cultura de pertenencia                  | Refuerza el sentido de “quiénes somos” y la cohesión interna. | Ritos corporativos, símbolos compartidos, narrativas comunes. |
+| Liderazgo inspirador                    | Promueve identidades colectivas alineadas con propósito. | Storytelling de líderes, visión compartida. |
+| Diversidad y autenticidad               | Reconoce y valora las identidades individuales dentro del colectivo. | Políticas de inclusión, equipos multiculturales. |
+| Propósito organizacional                | Da coherencia y dirección a la identidad compartida. | Declaraciones de misión, proyectos con impacto social. |
+| Reconocimiento y legitimidad externa    | Refuerza la identidad al ser validada por clientes y sociedad. | Premios, certificaciones, reputación de marca. |
+
+| **Fuerzas restrictivas (Restraining Forces)** | **Descripción** | **Ejemplos prácticos** |
+|-----------------------------------------------|-----------------|-------------------------|
+| Fragmentación identitaria                     | Choque entre identidad personal y rol funcional. | “No me reconozco en lo que hago”, alienación laboral. |
+| Presión de conformidad                        | Obliga a los individuos a ocultar su autenticidad. | Uniformidad excesiva, miedo a la diferencia. |
+| Conflictos de valores                         | Tensiones entre principios individuales y normas organizativas. | Ética personal vs. prácticas corporativas. |
+| Ambigüedad organizacional                     | Falta de claridad sobre “quiénes somos” como colectivo. | Cambios constantes de estrategia, mensajes contradictorios. |
+| Estigmatización o exclusión                   | Identidades marginadas dentro del sistema. | Discriminación, falta de representación en liderazgo. |
+
+#### 🏃‍➡️ Cambio o movimiento: Estrategias para transitar hacia la meta 
+
+Con base en ingresar se diseñó una estrategia Para mover la situación actual hacia la meta Esta fase Implicó experimentación cultural, ajustes relacionales Y creación de espacios de dialogo.
+
+-  Taller de identidad organizacional
+-  Simbolos compartidos inspirados en los partzufim, que funcionaron como contenedores identitarios
+-  Espacios de expresión individual que activaron canales de Daat y permitieron que cada colaborador aportara su perspectiva
+
+Estas acciones permitieron construir un puente entre los polos y notables siguiendo la técnica de Daat y nombrar la polaridad, reconocer la tención, construir un puente y diseñar un mecanismo graduado de integración.
+
+#### 🥶 Recongelamiento: integración de la nueva identidad
+
+La identidad se estabilizó cuando: 
+**(ejemplos)**
+- Las sesiones inclusivas se convirtieron en práctica habitual
+- El taller de Identidad generó un documento interno con valores compartidos
+- Los simbolos se integraron En la cultura visual del restaurante
+- El combo del mes se institucionalizó Como espacio de innovación colectiva
+
+ **Los simbolos se integraron En la cultura visual del restaurante**
+
+El modelo de los *partzufim* de "La Cabalá como un lente teórico para la investigación de la paradoja en la gerencia" describe cómo las fuerzas contrarias se organizan en niveles y se procesan gradualmente para alcanzar equilibrio. Al cruzarlo con la "Pirámide de los 5 Niveles de Liderazgo de John Maxwell", se obtendra un marco doble: uno espiritual–estructural (*partzufim*) y otro práctico–humano (Maxwell).
+
+**Integración conceptual**
+- **Partzufim (Cábala)** → muestran cómo las tensiones se gestionan en capas, cada nivel absorbiendo y transformando la energía de los opuestos.  
+- **Maxwell (Liderazgo)** → describe cómo los líderes evolucionan desde la autoridad jerárquica hasta la influencia inspiradora, también en niveles.  
+
+Ambos modelos coinciden en que **no se eliminan las polaridades**, sino que se **canalizan** en un proceso gradual.
+
+**Mapa comparativo**
+| Dimensión | Partzufim (gestión de polaridades) | Maxwell (liderazgo por niveles) |
+|-----------|------------------------------------|---------------------------------|
+| Nivel 1   | Configuración inicial: absorbe tensiones básicas | Posición: liderazgo por jerarquía |
+| Nivel 2   | Ajuste relacional: armoniza fuerzas opuestas | Permiso: liderazgo por relación y confianza |
+| Nivel 3   | Producción: canaliza energía hacia resultados | Producción: liderazgo por logros |
+| Nivel 4   | Desarrollo: integra polaridades en estructuras más complejas | Desarrollo de personas: mentoría y coaching |
+| Nivel 5   | Síntesis: unidad superior (*conciencia Alef*) | Cima: liderazgo por propósito e inspiración |
+
+**Aplicación empresarial**
+- **Diseño estructural**: usar el modelo de *partzufim* para crear mecanismos que absorban tensiones (ej. innovación vs. control).  
+- **Desarrollo humano**: aplicar Maxwell para guiar a los líderes en cómo transformar esas tensiones en crecimiento del equipo.  
+- **Resultado**: una organización capaz de **gestionar fuerzas contrarias** tanto en su estructura como en su cultura de liderazgo.
+
+Esto  permite presentar un **doble marco defendible**: el cabalístico como metáfora estructural y el de Maxwell como guía práctica de liderazgo.  
+
+#### Conclusión
+
+La tensión de identidad en el Agaveño Burgers mostro que la pertenencia no es un Estado fijo sino un proceso dinámico que requiere límites claros apertura a la diversidad y mecanismos De integración. La integración de los modelos anteriores Permitieron comprender la identidad como un fenómeno técnico en
+El resultado fue una identidad más sólida, inclusiva Y capaz de sostener el crecimiento del restaurante.
+
+---
+
+### ☯️ TENSIÓN ORGANIZACIONAL → DESEMPEÑO
+
+En el diagnóstico realizado para El Agaveño Burgers, La tensión de desempeño Emergió como un punto crítico para Comprender La dinámica Operativa del negocio. Esta tensión se manifestó la variabilidad De los tiempos de entrega, la inconsistencia en la calidad de los productos Y la falta de claridad En los criterios de evaluación del trabajo. Se continuará Usando El modelo de cambio de Kurt Lewin Articulado con los 5 pasos operativos de Guizar Para analizar la tensión.
+
+Sin embargo el desempeño No pudo comprenderse únicamente Desde una perspectiva técnica. Los aportes de la Cabalá como un lente teórico para la 
+investigación de la paradoja en la gerencia Plantear que el desempeño está profundamente y influido Por las lógicas de gestión Que impactan en el álbum humano Así como Por la paradoja Satisfacción-insatisfacción (Revísese el Anexo N°23) Categorización de tensiones Organizativas (Desempeño)
+
+| **Tensión**                  | **Descripción**                                                                                                                                   | **Referencias**                                                                 |
+|-------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+| **Desempeño – Pertenencia**   | Conflicto entre la identificación y los objetivos mientras los actores negocian identidades individuales con demandas sociales y ocupacionales.   | (e.g., Dukerich, Golden, & Shortell, 2002; Kreiner, Hollensbe, & Sheep, 2006)   |
+| **Aprendizaje – Desempeño**   | Construyendo capacidades para el futuro asegurando el éxito en el presente.                                                                      | (e.g., Andriopoulos & Lewis, 2009; Dweck, 2006; Tushman & O'Reilly, 1996)       |
+| **Desempeño**                 | La pluralidad fomenta la multiplicación y la competencia de objetivos, mientras las partes interesadas buscan divergencia y éxito organizativo.   | (e.g., Denis, Langley, & Rouleau, 2007; Donaldson & Preston, 1995; Jarzabkowski & Sillince, 2007; Margolis & Walsh, 2003) |
+| **Desempeño – Organización**  | Interacción entre medios y fines, demandas entre empleados y clientes, alto compromiso vs. alto rendimiento.                                     | (e.g., Eisenstat, Beer, Foote, Fredberg, & Norrgren, 2008; Gittell, 2004; Kaplan & Norton, 1996) |
+
+**Procedimiento**
+
+#### 🫠 Descongelamiento: Determinación del problema y reconocimiento de la situación actual
+
+Siguiendo a Guizar, el proceso inicio con la determinación del problema: Existía una alta variabilidad Significativa en el desempeño preparación del logrismo en la preparación Conexiones total de productos y coordinaciones precociones La situación actual reveló que los colaboradores no compartian un mismo estandar de calidad, y que la evaluación del desempeño  Dependía de criterios Implícitos, subjetivos y  Cambiantes.
+
+La Cabalá como un lente teórico para la investigación de la paradoja en la gerencia explico  Que cuando Una organización Ópera desde modelos contradictorios,  El desarrollo seguramente explicó que cuando una organización opera desde modelos contradictorios el desempeño se vuelve inconsistente porque los colaboradores no saben qué se espera de ellos. Esto coincidió con lo observado en El Agaveño Burgers: algunos colaboradores priorizaban la velocidad, otros la presentación, otros la tradición, y otros la innovación.
+
+El concepto de Daat y su función aportó la comprensión de que el problema del desempeño estaba ligado a la desconexión entre resultados y sentido: cuando la tensión entre esfuerzo personal y predestinación no se integra, los indicadores se vacían de propósito.
+
+- Contenido ligado: Clase 03 **(Libre albedrío/predestinación)** y Clase 12 **(Conclusiones sobre la naturaleza del Daat)**.
+
+- Aplicación práctica: redefinir métricas que incluyan bienestar, aprendizaje y propósito, equilibrando rigor y compasión.
+
+#### 🏁 Identificación de la meta: Desempeño coherente, medible y compartido
+
+La meta se definió como:
+"Construir un sistema Operativo claro medible y compartir que permita reducir la variabilidad y fortalecer la coordinación entre los colaboradores".
+
+Este objetivo se alineo con la enseñanza de la Cabalá como un lente teórico para la investigación de la paradoja en la gerencia, Que propone que el desempeño debe gestionarse desde una lógica que interestura y flexibilidad Evitando que la exigencia se convierta en rigidez o que la autonomía derive En caos.
+
+Desde el concepto de Daat, Esta meta represento la activación del dat como función integradora Capaz de conectar expectativas, Roles Y Criterios de evaluación en un sistema Coherente
+
+
+
 
 
 
