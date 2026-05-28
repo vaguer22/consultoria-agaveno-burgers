@@ -1152,7 +1152,7 @@ El desarrollo de este sexto paso permitió consolidar un diagnóstico confiable 
 ## 🧩 7º Paso **Estimacion de Modelos y Herramientas de Diagnóstico**
 En esta etapa se procedió a validar y profundizar el primer panorama obtenido del análisis objetivo. El propósito fue someter los hallazgos preliminares a una batería de modelos diagnósticos, con el fin de verificar, matizar y consolidar la situación real de la organización‑cliente. Se buscó además documentar las discrepancias surgidas en la réplica del cliente y transformarlas en evidencia técnica que alimentara la Matriz FODA
 
-## ⚡ **Metodología**
+### ⚡ **Metodología**
 
 1. Revisión del informe preliminar (resultado del Paso 6). Se registraron consensos y desacuerdos, y se definieron las preguntas de verificación.
 2. Selección de modelos y herramientas. Se priorizó el MEO (Matriz “Lo que es”) como modelo base y se complementó con: autoevaluación por modelos de excelencia, campo de fuerzas (Lewin) enriquecido con lectura de polaridades, Sensing/redarquía, diagrama causa‑efecto y Pareto.
@@ -1160,15 +1160,16 @@ En esta etapa se procedió a validar y profundizar el primer panorama obtenido d
 4. Análisis individual de resultados. Se elaboró un informe por modelo que incluyó hallazgos, evidencias y grado de concordancia con el informe preliminar.
 5. Integración y consolidación. Se cruzaron los resultados para producir un diagnóstico consolidado que alimentó la Matriz FODA del Paso 8.
 
-#### Regla práctica
+**Regla práctica**
+
 Todo hallazgo del Paso 7 debe mapearse a una **evidencia** en el Paso 10: la Auditoría administrativa (registro POS, foto, acta de entrevista) y a un **indicador** en el Paso 9 para seguimiento.
 **Ejemplo:** si Paso 7 detecta alta variabilidad en tiempos de preparación (insumo: observación MEO), auditoría medirá tiempos por estación y propondrá estandarización de recetas y formación (Paso 10).
 
-#### Revisión del informe preliminar
+**Revisión del informe preliminar**
 Se presentó el informe preliminar en sesión con la dirección y mandos medios; se registraron observaciones y se acordó el alcance del Paso 7.
 **Anexo No. 20:** *Acta de réplica y acuerdos* (tabla simple con columnas: **Fecha; Participantes; Punto observado; Réplica del cliente; Acción acordada**).
 
-### Integración de resultados y preparación para el Paso 8
+**Integración de resultados y preparación para el Paso 8**
 Se consolidaron los informes individuales en una matriz de convergencia que mostró coincidencias, contradicciones y vacíos de evidencia. A partir de esa matriz se generó el insumo para la **Matriz FODA**: fortalezas (p. ej., procesos documentados), debilidades (p. ej., control estadístico), oportunidades (p. ej., demanda creciente en segmento Y) y amenazas (p. ej., variabilidad de proveedores).
 
 **Anexo ejemplo (Matriz de convergencia — extracto):**
@@ -1177,8 +1178,7 @@ Se consolidaron los informes individuales en una matriz de convergencia que most
 | --- | --- | --- | --- | --- | --- |
 | Calidad producto X | Conformidad 88% | Procesos medianos | Resistencia a cambio | Quejas clientes | Prioridad alta: estandarizar y controlar materia prima |
 
-
-### Resultados alcanzados (redacción en pasado)
+**Resultados alcanzados (redacción en pasado)**
 
 - Se **validaron** y **corroboraron** los hallazgos preliminares mediante la Matriz “Lo que es”, lo que permitió identificar rupturas entre procesos y resultados.
 - La autoevaluación **evidenció** brechas de liderazgo y gestión por procesos que explicaron parte de la variabilidad operativa.
@@ -1187,13 +1187,11 @@ Se consolidaron los informes individuales en una matriz de convergencia que most
 - Los diagramas causa‑efecto y Pareto **priorizaron** las causas raíz, concentrando las acciones en las que generaban mayor impacto.
 - Se **entregó** un diagnóstico consolidado que alimentó la Matriz FODA y sirvió como base para las fases de estandarización y validación comercial.
 
-
-### Conclusiones (redacción en pasado, tono interpersonal)
+**Conclusiones (redacción en pasado, tono interpersonal)**
 
 Con la aplicación ordenada de los modelos, se **logró** transformar la réplica inicial del cliente en evidencia técnica y consensuada. El enfoque sistémico del MEO, combinado con herramientas normativas (modelos de excelencia), analíticas (Pareto, Ishikawa) y culturales (Lewin + lectura de polaridades, Sensing), **permitió** construir un diagnóstico robusto y accionable. Las conclusiones principales fueron que la organización **tenía** procesos documentados pero **carecía** de controles estadísticos y de una gobernanza de redes informales; por ello, las intervenciones posteriores se **orientaron** a estandarizar procesos críticos, fortalecer la gestión de proveedores y activar embajadores internos para el cambio. En conjunto, el Paso 7 **cumplió** su propósito de producir un insumo técnico y consensuado para el Paso 8.
 
-
-### Anexos sugeridos (lista completa y ejemplos concretos)
+**Anexos sugeridos (lista completa y ejemplos concretos)**
 
 1. **Acta de réplica y acuerdos** (formato: fecha, participantes, punto, réplica, acción).
 2. **Matriz “Lo que es”** (tabla completa por proceso con evidencias y métricas).
@@ -1208,8 +1206,7 @@ Con la aplicación ordenada de los modelos, se **logró** transformar la réplic
 
 **Cada anexo se **presentó** con metadatos: autor del análisis, fecha, fuentes consultadas, método de recolección y nivel de evidencia (alta/ media/ baja).*
 
-
-### Entregables finales del Paso 7 (lo que se dejó al cliente)
+**Entregables finales del Paso 7 (lo que se dejó al cliente)**
 
 - Informe técnico por modelo (seis documentos).
 - Paquete de anexos (10 ítems) con evidencias y formatos editables.
@@ -1218,9 +1215,20 @@ Con la aplicación ordenada de los modelos, se **logró** transformar la réplic
 
 ---
 
-## ⚡ Redacción en formato académico requerido para tesis: cada sección se desarrolla en tiempo pasado, con tono impersonal y lenguaje atemporal; se añaden ejemplos concretos de anexos que se deben incorporar.
+**⚡ Redacción en formato académico requerido para tesis: cada sección se desarrolla en tiempo pasado, con tono impersonal y lenguaje atemporal; se añaden ejemplos concretos de anexos que se deben incorporar.**
 ---
 El séptimo paso del proceso de consultoría se llevó a cabo con el propósito de integrar modelos y herramientas de diagnóstico organizacional, cuya pertinencia y consistencia han sido comprobadas en la práctica. Esta fase permitió enriquecer el análisis de la situación actual mediante metodologías estructuradas que aportaron evidencias sobre los distintos componentes de la organización- cliente.
+
+### Revisión del informe preliminar (resultado del Paso 6). 
+
+| **Función básica** | **Hallazgo inicial (equipo consultor)** | **Medida de consenso acordada** |
+| --- | --- | --- |
+| **Operación** | Se identificó cumplimiento parcial de estándares de calidad en procesos clave. | Adaptar indicadores de calidad a estándares propios del giro empresarial. |
+| **Mercado** | Estrategia comercial con baja diversificación de canales de venta. | Incorporar cronograma de implementación de canales digitales en el análisis. |
+| **Humana** | Capacitación insuficiente en competencias digitales para el personal operativo. | Documentar y registrar los programas internos de capacitación en el informe final. |
+| **Finanzas** | Alta dependencia de un solo flujo de ingresos. | Registrar proyectos de diversificación financiera en el diagnóstico integral. |
+| **Dirección** | Falta de mecanismos formales de seguimiento estratégico. | Diseñar protocolo documentado de seguimiento estratégico con responsables definidos. |
+
 
 ### 👉 Modelo de Elementos Organizacionales
 
@@ -1308,7 +1316,7 @@ La Cabalá como un lente teórico para la investigación de la paradoja en la ge
 
 ### ☯️ TENSIÓN ORGANIZACIONAL → APRENDIZAJE  
 
-La perspectiva de la Cabalá permitió comprender el aprendizaje como un proceso Tecnic Emocionales espiritual Atravesado por polaridades que debían integrarse Para generar Bienestar y desempeño (Revísese el Anexo N°22) Categorización de tensiones De Organizativas (Aprendizaje)
+La perspectiva de la Cabalá permitió comprender el aprendizaje como un proceso Tecnic Emocionales espiritual Atravesado por polaridades que debían integrarse Para generar Bienestar y desempeño (Revísese el Anexo N°22) Categorización de tensiones Organizativas (Aprendizaje)
 
 ##### 📋 Anexo N°22 Categorización de tensiones Organizativas (Aprendizaje) 
 
@@ -1323,9 +1331,8 @@ La perspectiva de la Cabalá permitió comprender el aprendizaje como un proceso
 
 #### 🫠 Descongelamiento: Determinación del problema y reconocimiento de la situación actual
 
-Siguiendo a Guizar, El proceso Inició con la determinación del problema: El aprendizaje dependía casi exclusivamente Del conocimiento tácito del encargado de cocina, lo que Generaba variabilidad errores y dificultades Para integrar a nuevos colaboradores. La situación actual mostro Que los colaboradores aprendían por imitación sin manuales Sin protocolos y con una comunicación ambigua entre cocina y caja.
-
-Desde la cavala lurianica Esta fase correspondió al tzin tzum La contracción que delimita el espacio donde surge la tensión. Los límites culturales - " Así se ha hecho siempre" Funcionaban Con contenedores que daban seguridad, Pero también restringían la expansión del aprendizaje.
+Siguiendo a Guizar, El proceso Inició con la determinación del problema: El aprendizaje dependía casi exclusivamente Del conocimiento tácito del encargado de cocina, lo que Generaba variabilidad errores y dificultades Para integrar a nuevos colaboradores. La situación actual mostro Que los colaboradores aprendían por imitación sin manuales Sin protocolos y con una comunicación ambigua entre cocina y caja.  El conocimiento se transmitía de manera oral y fragmentada, dependiendo de la memoria o la buena voluntad de quienes llevaban más tiempo. Esto generaba errores recurrentes, silencios operativos y una curva de aprendizaje desigual: algunos lograban adaptarse rápido, mientras que otros quedaban rezagados sin comprender del todo las reglas no escritas.
+En palabras de los propios trabajadores: “Así se ha hecho siempre”, lo que evidenció la resistencia a cuestionar las rutinas heredadas y la necesidad de abrir un espacio para redefinir cómo se aprende dentro del negocio.
 
 La Cabalá como un lente teórico para la investigación de la paradoja en la gerencia Explicó que modelos ¿Cómo la burocracia Meritocracia Y la docración Pueden desgarrar el alma humano cuando no se equilibra adecuadamente, Generando Polarización interna y desgaste emocional Punto esto coincidió con lo observado En El Agaveño Burgers Colaboradores antiguos defendían la tradición mientras los nuevos buscaban modernizar procesos creando tensiones de identidad Y aprendizaje simultáneamente.
 
@@ -1436,9 +1443,11 @@ Este objetivo se alineo con la enseñanza de la Cabalá como un lente teórico p
 
 Desde el concepto de Daat, esta meta represento la activacion de los canales verticales y diagonales, que permitan conectar niveles jerarquicos, Roles y perspectivas diversas.
 
-55553333
+#### 💪 Identificación de fuerzas impulsoras y restrictivas
 
 Se elaboró un campo de fuerzas para identificar los elementos que impulsaban o restringían la identidad (Revisese la tabla No. 3)
+
+##### Tabla No. 3 Campo de fuerzas: tension de identidad 
 
 | **Fuerzas impulsoras (Driving Forces)** | **Descripción** | **Ejemplos prácticos** |
 |-----------------------------------------|-----------------|-------------------------|
@@ -1503,8 +1512,7 @@ Esto  permite presentar un **doble marco defendible**: el cabalístico como met�
 
 #### Conclusión
 
-La tensión de identidad en el Agaveño Burgers mostro que la pertenencia no es un Estado fijo sino un proceso dinámico que requiere límites claros apertura a la diversidad y mecanismos De integración. La integración de los modelos anteriores Permitieron comprender la identidad como un fenómeno técnico en
-El resultado fue una identidad más sólida, inclusiva Y capaz de sostener el crecimiento del restaurante.
+La tensión de identidad en el Agaveño Burgers mostro que la pertenencia no es un Estado fijo sino un proceso dinámico que requiere límites claros apertura a la diversidad y mecanismos De integración. El resultado fue una identidad más sólida, inclusiva Y capaz de sostener el crecimiento del restaurante.
 
 ---
 
@@ -1513,7 +1521,9 @@ El resultado fue una identidad más sólida, inclusiva Y capaz de sostener el cr
 En el diagnóstico realizado para El Agaveño Burgers, La tensión de desempeño Emergió como un punto crítico para Comprender La dinámica Operativa del negocio. Esta tensión se manifestó la variabilidad De los tiempos de entrega, la inconsistencia en la calidad de los productos Y la falta de claridad En los criterios de evaluación del trabajo. Se continuará Usando El modelo de cambio de Kurt Lewin Articulado con los 5 pasos operativos de Guizar Para analizar la tensión.
 
 Sin embargo el desempeño No pudo comprenderse únicamente Desde una perspectiva técnica. Los aportes de la Cabalá como un lente teórico para la 
-investigación de la paradoja en la gerencia Plantear que el desempeño está profundamente y influido Por las lógicas de gestión Que impactan en el álbum humano Así como Por la paradoja Satisfacción-insatisfacción (Revísese el Anexo N°23) Categorización de tensiones Organizativas (Desempeño)
+investigación de la paradoja en la gerencia Plantea que el desempeño está profundamente y influido Por las lógicas de gestión Que impactan en el álbum humano Así como Por la paradoja Satisfacción-insatisfacción (Revísese el Anexo N°23) Categorización de tensiones Organizativas (Desempeño)
+
+##### 📋 Anexo N°23 Categorización de tensiones Organizativas (Desempeño)
 
 | **Tensión**                  | **Descripción**                                                                                                                                   | **Referencias**                                                                 |
 |-------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
@@ -1526,9 +1536,10 @@ investigación de la paradoja en la gerencia Plantear que el desempeño está pr
 
 #### 🫠 Descongelamiento: Determinación del problema y reconocimiento de la situación actual
 
-Siguiendo a Guizar, el proceso inicio con la determinación del problema: Existía una alta variabilidad Significativa en el desempeño preparación del logrismo en la preparación Conexiones total de productos y coordinaciones precociones La situación actual reveló que los colaboradores no compartian un mismo estandar de calidad, y que la evaluación del desempeño  Dependía de criterios Implícitos, subjetivos y  Cambiantes.
+Siguiendo a Guizar, el proceso inicio con la determinación del problema: Existía una alta variabilidad Significativa en el desempeño preparación del logrismo en la preparación Conexiones total de productos y coordinaciones precociones La situación actual reveló que los colaboradores no compartian un mismo estandar de calidad, y que la evaluación del desempeño  Dependía de criterios Implícitos, subjetivos y  Cambiantes. En la práctica, cada área o turno desarrolló sus propios modos de medir lo “bien hecho”: algunos privilegiaban la rapidez, otros la presentación del producto, otros la cordialidad con el cliente. Esta diversidad de criterios generó confusión y comparaciones injustas, pues lo que para un equipo era considerado excelente, para otro apenas cumplía lo mínimo.
+En palabras de los propios trabajadores: “cada quien trabaja a su manera”, lo que evidenció la ausencia de un marco común y la necesidad de abrir la conversación sobre qué significa realmente “desempeño” en la organización.
 
-La Cabalá como un lente teórico para la investigación de la paradoja en la gerencia explico  Que cuando Una organización Ópera desde modelos contradictorios,  El desarrollo seguramente explicó que cuando una organización opera desde modelos contradictorios el desempeño se vuelve inconsistente porque los colaboradores no saben qué se espera de ellos. Esto coincidió con lo observado en El Agaveño Burgers: algunos colaboradores priorizaban la velocidad, otros la presentación, otros la tradición, y otros la innovación.
+La Cabalá como un lente teórico para la investigación de la paradoja en la gerencia explico Que cuando Una organización Ópera desde modelos contradictorios,  El desarrollo seguramente explicó que cuando una organización opera desde modelos contradictorios el desempeño se vuelve inconsistente porque los colaboradores no saben qué se espera de ellos. Esto coincidió con lo observado en El Agaveño Burgers: algunos colaboradores priorizaban la velocidad, otros la presentación, otros la tradición, y otros la innovación.
 
 El concepto de Daat y su función aportó la comprensión de que el problema del desempeño estaba ligado a la desconexión entre resultados y sentido: cuando la tensión entre esfuerzo personal y predestinación no se integra, los indicadores se vacían de propósito.
 
@@ -1539,20 +1550,157 @@ El concepto de Daat y su función aportó la comprensión de que el problema del
 #### 🏁 Identificación de la meta: Desempeño coherente, medible y compartido
 
 La meta se definió como:
-"Construir un sistema Operativo claro medible y compartir que permita reducir la variabilidad y fortalecer la coordinación entre los colaboradores".
+"Construir un sistema De desempeño Operativo claro medible y compartido que permita reducir la variabilidad y fortalecer la coordinación entre los colaboradores".
 
 Este objetivo se alineo con la enseñanza de la Cabalá como un lente teórico para la investigación de la paradoja en la gerencia, Que propone que el desempeño debe gestionarse desde una lógica que interestura y flexibilidad Evitando que la exigencia se convierta en rigidez o que la autonomía derive En caos.
 
-Desde el concepto de Daat, Esta meta represento la activación del dat como función integradora Capaz de conectar expectativas, Roles Y Criterios de evaluación en un sistema Coherente
+Esta meta represento la activación del Daat como función integradora Capaz de conectar expectativas, Roles Y Criterios de evaluación en un sistema Coherente
 
+#### 💪 Identificación de fuerzas impulsoras y restrictivas
 
+Se elaboró un campo de fuerzas para identificar los elementos que impulsaban o restringían el desempeño (Revisese la tabla No. 4)
 
+##### Tabla No. 4 Campo de fuerzas: tension de desempeño
 
+| **Fuerzas impulsoras (Driving Forces)** | **Descripción** | **Ejemplos prácticos** |
+|-----------------------------------------|-----------------|-------------------------|
+| Motivación y compromiso del equipo       | Incrementa la energía y disposición para alcanzar metas. | Reconocimiento interno, programas de incentivos, espíritu colaborativo. |
+| Capacitación y desarrollo de habilidades | Mejora la competencia técnica y la confianza en la ejecución. | Cursos de formación, talleres de actualización, mentoring. |
+| Recursos disponibles                     | Facilitan la implementación de tareas con calidad y rapidez. | Presupuesto adecuado, herramientas tecnológicas, infraestructura. |
+| Apoyo de la dirección y liderazgo        | Genera respaldo institucional y claridad en la toma de decisiones. | Comunicación transparente, acompañamiento de líderes, soporte estratégico. |
+| Cultura de innovación y mejora continua  | Promueve la adaptación y la búsqueda constante de eficiencia. | Implementación de nuevas metodologías, proyectos piloto, feedback continuo. |
+| Claridad en objetivos y metas            | Orienta los esfuerzos hacia resultados concretos y medibles. | KPIs definidos, planes estratégicos claros, metas compartidas. |
+| Colaboración interdepartamental          | Favorece la sinergia y evita duplicidad de esfuerzos. | Proyectos transversales, reuniones interáreas, plataformas colaborativas. |
 
+---
 
+| **Fuerzas restrictivas (Restraining Forces)** | **Descripción** | **Ejemplos prácticos** |
+|-----------------------------------------------|-----------------|-------------------------|
+| Resistencia al cambio                         | Limita la adopción de nuevas prácticas y procesos. | Negativa a usar nuevas herramientas, apego a rutinas obsoletas. |
+| Falta de comunicación efectiva                | Genera malentendidos y retrasa la ejecución. | Información incompleta, mensajes contradictorios, ausencia de retroalimentación. |
+| Escasez de recursos                           | Reduce la capacidad de cumplir con estándares de calidad. | Presupuesto insuficiente, falta de personal, carencia de insumos. |
+| Procesos burocráticos                         | Ralentizan la toma de decisiones y la implementación. | Exceso de trámites, autorizaciones múltiples, tiempos de espera prolongados. |
+| Conflictos internos                           | Dificultan la cohesión y afectan la moral del equipo. | Rivalidades, falta de cooperación, tensiones personales. |
+| Ambigüedad en roles y responsabilidades       | Provoca confusión y disminuye la eficiencia. | Funciones poco claras, duplicidad de tareas, ausencia de lineamientos. |
+| Sobrecarga de trabajo y estrés laboral        | Disminuye la productividad y aumenta el riesgo de errores. | Jornadas extensas, plazos poco realistas, falta de balance vida-trabajo. |
 
+#### 🏃‍➡️ Cambio o movimiento: Estrategias para transitar hacia la meta 
 
+Con base en Guizar se diseñó una estrategia Para mover la situación actual hacia la meta Esta fase implicó experimentación Retroalimentación Y acompañamiento Lo que generó tensiones iniciales Tal como describe Lewin
 
+Las principales acciones fueron:
+
+- Definición de estándares operativos
+- Tableros visuales de desempeño
+- Ruiz y apoyo oportuno Inspirantes en los part of Que permitieron mudular la exigencia y acompañar a los colaboradores
+- Reuniones breves de retroalimentacion Se activaron el dato como canal de conexión entre expectativas y resultados
+- Prácticas de reconocimiento Alineadas con la paradoja satisfacción insatisfacción Que equilibraron exigencia y motivación
+
+La Cabalá como un lente teórico para la investigación de la paradoja en la gerencia Enseñó que el desempeño debe gestionarse desde el pensamiento paradójico integrando exigencia y contención estructura y flexibilidad Velocidad y calidad.
+
+#### 🥶 Recongelamiento: integración del nuevo desempeño
+
+El desempeño se estabilizó cuando:
+
+- Los estándares operativos integraron referencia cotidiana
+- Los tableros visuales devolvieron parte del entorno de trabajo
+- Los roles de apoyo e institucionalizaron
+- Las reuniones de retroalimentación se incorporaron a las rutina semanal
+- Las prácticas de reconocimiento se volvieron parte de la cultura
+
+#### Conclusión
+
+La tensión de desempeño en El Agaveño Burgers Mostró Que la ejecución en el trabajo no depende únicamente de técnicas Signo de la capacidad de las personas para integrar expectativas emociones y significados. El resultado fue un sistema de desempeño más claro, coherente y capaz de sostener el crecimiento del restaurante.
+
+---
+
+### ☯️ TENSIÓN ORGANIZACIONAL → ORGANIZACION
+
+En el diagnóstico realizado para El Agaveño Burgers, La tensión de Organizacion emergió como un fenómeno estructural que condicionó la coordinación de roles La distribución de responsabilidades y la capacidad de sostener el crecimiento del negocio. Se continua Usando El modelo de cambio de Kurt Lewin Articulado con los 5 pasos operativos de Guizar Para analizar la tensión.
+
+No obstante la organización No pudo comprenderse únicamente Desde un esquema técnico, Los aportes de la Cabalá como un lente teórico para la investigación de la paradoja en la gerencia Plantea que las estructuras empresariales impactan directamente en el alma humano. Los modelos permitieron analizar cómo los flujos de comunicación y los canales de conexión Sostuvieron o fragmentaron en la organización (vease el Anexo N°24) Categorización de tensiones Organizativas (Organización)
+
+##### 📋 Anexo N°23 Categorización de tensiones Organizativas (Organización)
+
+| **Tensión**                  | **Descripción**                                                                                                                                   | **Referencias**                                                                 |
+|-------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+| **Aprendizaje – Organización**| Rutinas organizativas y capacidades buscan estabilidad, claridad, enfoque y eficiencia, a la vez que facilitan la dinámica, la flexibilidad y la agilidad en los resultados. | (e.g., Eisenhardt & Martin, 2000; Teece & Pisano, 1994) |
+| **Pertenencia – Organización**| Tensiones entre el individuo y el agregado, la individualidad vs. acción colectiva.                                                               | (e.g., Mumighan & Conlon, 1991; Smith & Berg, 1987) |
+| **Organización**              | Estructurar y liderar la colaboración y competencia, empoderamiento y dirección, control y flexibilidad.                                          | (e.g., Adler, Goldoftas, & Levine, 1999; Denison, Looijberg, & Quinn, 1995; Flynn & Chatman, 2001; Ghemawat & Costa, 1993; Luscher & Lewis, 2008; Siggelkow & Levinthal, 2003) |
+| **Desempeño – Organización**  | Interacción entre medios y fines, demandas entre empleados y clientes, alto compromiso vs. alto rendimiento.                                     | (e.g., Eisenstat, Beer, Foote, Fredberg, & Norrgren, 2008; Gittell, 2004; Kaplan & Norton, 1996) |
+
+#### 🫠 Descongelamiento: Determinación del problema y reconocimiento de la situación actual
+
+Siguiendo a Guizar, El proceso Inició con la determinación del problema: La organización del negocio Se encontraba fragmentada Con roles poco definidos responsabilidades concentradas en el encargado y ausencia de mecanismos formales de coordinación. La situación actual mostró que las decisiones se tomaban de manera reactiva Y que en la estructura dependía de la improvisación y de la memoria individual que de procesos definidos. La coordinación entre áreas se sostenía en acuerdos informales y recordatorios personales, lo que hacía que la operación funcionara mientras las personas clave estuvieran presentes, pero se volviera frágil ante ausencias o cambios inesperados. Esta forma de organizarse generaba duplicidades, vacíos de responsabilidad y una sensación de que la estructura era provisional, sostenida por la costumbre más que por un diseño consciente.
+En palabras de los propios trabajadores: “Cada quien sabe lo que le toca”, lo que evidenció la falta de un marco organizativo compartido y la necesidad de abrir la conversación sobre cómo distribuir y formalizar las responsabilidades.
+
+El concepto de Daat y su función aportó la comprensión de que el problema de la organización estaba ligado al exceso de control en los canales verticales: estructuras rígidas que sofocan la flexibilidad y convierten la rutina en dogma.
+
+- Contenido ligado: Clases 06–07 **(Los 7 canales verticales: Bet, Guímel, Dalet, Caf, Pei, Reish, Tav)."
+
+- Aplicación práctica: revisar procesos como canales vivos de conciencia, capaces de sostener tanto estabilidad como adaptación.
+
+#### 🏁 Identificación de la meta: Organización clara, flexible y sostenible
+
+La meta se definió como:
+"Construir una organización clara, flexible y sostenible Que distribuye responsabilidades de manera equitativa y fortalezca la coordinación entre los colaboradores"
+
+Este objetivo se alineo con la enseñanza de la Cabalá como un lente teórico para la investigación de la paradoja en la gerencia, Que propone que la organización debe gestionarse desde el Pensamiento paradójico Integrado estructura y flexibilidad jerarquía y Autonomía.
+
+Esta meta representó la activación del Daat como función integradora capaz de conectar roles, responsabilidades y niveles de decisión en un sistema Coherente.
+
+#### 💪 Identificación de fuerzas impulsoras y restrictivas
+
+Se elaboró un campo de fuerzas para identificar los elementos que impulsaban o restringían la organización (Revisese la tabla No. 5)
+
+##### Tabla No. 5 Campo de fuerzas: tension de organizacion
+
+| **Fuerzas impulsoras (Driving Forces)** | **Descripción** | **Ejemplos prácticos** |
+|-----------------------------------------|-----------------|-------------------------|
+| Rutinas organizativas                   | Generan estabilidad, claridad y eficiencia en la operación. | Procedimientos estandarizados, manuales de calidad, protocolos de servicio. |
+| Capacidades dinámicas                   | Permiten flexibilidad y adaptación frente a cambios del entorno. | Reconfiguración de procesos, equipos ágiles, innovación continua. |
+| Liderazgo estructurado                  | Orienta la colaboración y la competencia hacia objetivos comunes. | Definición clara de roles, dirección estratégica, empowerment. |
+| Colaboración interdepartamental          | Favorece la acción colectiva y evita duplicidad de esfuerzos. | Proyectos transversales, plataformas colaborativas, reuniones interáreas. |
+| Cultura de control y flexibilidad        | Equilibra disciplina con apertura a nuevas formas de trabajo. | Sistemas de evaluación, métricas de desempeño, espacios de autonomía. |
+
+---
+
+| **Fuerzas restrictivas (Restraining Forces)** | **Descripción** | **Ejemplos prácticos** |
+|-----------------------------------------------|-----------------|-------------------------|
+| Rigidez organizativa                          | Procesos demasiado estructurados que limitan la innovación. | Jerarquías rígidas, exceso de burocracia. |
+| Ambigüedad en roles                           | Genera confusión y disminuye la eficiencia. | Funciones poco claras, duplicidad de tareas. |
+| Conflictos entre colaboración y competencia   | Tensiones por intereses divergentes entre áreas o individuos. | Rivalidades internas, falta de cooperación. |
+| Sobrecarga de coordinación                    | El exceso de reuniones y controles ralentiza la acción. | Comités interminables, exceso de reportes. |
+| Desconexión entre medios y fines              | Falta de alineación entre recursos y objetivos estratégicos. | Recursos mal asignados, prioridades contradictorias. |
+
+#### 🏃‍➡️ Cambio o movimiento: Estrategias para transitar hacia la meta 
+
+Con base en guisar se diseñó una estrategia para mover las situaciones actual hacia la meta. Esta fase implico experimentación estructural, Ajustes en los roles y creación de mecanismos de Coordinación.
+
+Las principales acciones fueron:
+
+- Definición de roles y responsabilidades
+- Creación de un organigrama
+- Institucionalizacion De Reuniones de coordinación
+- Diseño de mecanismos de retroalimentación
+- Prácticas de reconocimiento
+
+La Cabalá como un lente teórico para la investigación de la paradoja en la gerencia enseñó que la organización debe gestionarse desde el pensamiento paradojico integrando jerarquía y autonomía, estructura y flexibilidad.
+
+#### 🥶 Recongelamiento: integración De la nueva organización
+
+La organización se estabilizo cuando:
+
+- El organigrama se volvió parte del entorno de trabajo
+- Las reuniones de coordinación se institucionalizaron
+- Los mecanismos de retroalimentación se incorporaron a la rutina semanal
+- Las prácticas de reconocimiento se volvieron parte de la cultura
+
+#### Conclusión
+
+La atención de organización en El Agaveño Burgers mostró que la ejecución en el trabajo no depende únicamente de Estructuras técnicas Sino de la capacidad de las personas para integrar expectativas emociones y significados. El resultado fue un organismo más clara, Coherente Y capaz de sostener el crecimiento del restaurante.
+
+---
 
 **Procedimiento** 
 
