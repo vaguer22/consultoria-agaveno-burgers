@@ -791,6 +791,157 @@ Entrega un **informe de gabinete** que valide y complemente la observación in s
 | Auditorías internas      | Comité de Control     | Falta de seguimiento en hallazgos previos    | Debilita cumplimiento normativo    |
 | Encuestas de satisfacción| Área de Calidad       | Quejas recurrentes por tiempos de entrega    | Relación con baja fidelización     |
 
+### Tabla 2. Fuentes primarias recabadas
+
+| Actor externo   | Método de obtención       | Hallazgos principales                          | Relevancia para diagnóstico            |
+|-----------------|---------------------------|------------------------------------------------|----------------------------------------|
+| Clientes        | Encuestas y entrevistas   | Quejas por tiempos de entrega y calidad        | Riesgo de pérdida de mercado            |
+| Proveedores     | Entrevistas y visitas     | Problemas de abastecimiento y plazos           | Impacto en continuidad operativa        |
+| Sociedad        | Observación y sondeos     | Percepción negativa de la marca en la comunidad| Riesgo reputacional                     |
+| Instituciones   | Revisión de convenios     | Falta de alianzas estratégicas                 | Oportunidad de mejora en posicionamiento|
+| Competencia     | Benchmarking sectorial    | Estrategias de precios más competitivas        | Necesidad de ajustar propuesta de valor |
+
+**Simulación:**
+
+📝 **1. Encuestas y entrevistas a clientes**
+
+- **Instrumento:** Cuestionario digital con 10 preguntas sobre tiempos de entrega, calidad y atención. - **Rol:** Equipo consultor aplica encuestas en línea y entrevistas telefónicas.  
+- **Resultado esperado:** 65% de clientes reportan retrasos en entregas; 40% perciben baja calidad en empaques.  
+- **Uso en diagnóstico:** Señala riesgo de pérdida de mercado y necesidad de rediseñar procesos logísticos.
+
+🤝 **2. Entrevistas y visitas a proveedores**
+
+- **Instrumento:** Guía de entrevista semiestructurada + checklist de visita a planta.  
+- **Rol:** Consultor de operaciones visita instalaciones de proveedor clave.  
+- **Resultado esperado:** Se detecta que el proveedor tiene problemas de abastecimiento por falta de inventario de insumos críticos.  
+- **Uso en diagnóstico:** Impacto directo en continuidad operativa y necesidad de diversificar proveedores.
+
+👥 **3. Observación y sondeos en sociedad**
+
+- **Instrumento:** Observación participante en puntos de venta + sondeo rápido en redes sociales.  
+- **Rol:** Equipo de campo registra percepciones de consumidores y comunidad.  
+- **Resultado esperado:** 55% de encuestados asocian la marca con “tiempos largos de espera” y “servicio irregular”.  
+- **Uso en diagnóstico:** Riesgo reputacional que afecta posicionamiento en el mercado local.
+
+🏛️ **4. Revisión de convenios con instituciones**
+
+- **Instrumento:** Análisis documental de convenios vigentes + entrevistas con representantes institucionales.  
+- **Rol:** Consultor jurídico revisa acuerdos de colaboración.  
+- **Resultado esperado:** Se identifica ausencia de alianzas estratégicas con cámaras empresariales y universidades.  
+- **Uso en diagnóstico:** Oportunidad de mejora en posicionamiento y networking.
+
+📊 **5. Benchmarking sectorial con competencia**
+
+- **Instrumento:** Matriz comparativa de precios, promociones y tiempos de servicio.  
+- **Rol:** Equipo consultor recopila datos de competidores mediante visitas misteriosas y análisis web.  
+- **Resultado esperado:** Competencia ofrece combos más económicos y tiempos de entrega 20% menores.  
+- **Uso en diagnóstico:** Necesidad de ajustar propuesta de valor y estrategia comercial.
+
+### Tabla 3. Relación hallazgos-documentos
+
+| Hallazgo identificado       | Fuente secundaria revisada        | Fuente primaria recabada             | Opinión consultor                          |
+|-----------------------------|-----------------------------------|--------------------------------------|--------------------------------------------|
+| Ineficiencia logística      | Reporte de operaciones            | Entrevista a proveedor                | Confirmado: retrasos por falta de insumos   |
+| Baja satisfacción cliente   | Informe de ventas                 | Encuesta aplicada a clientes          | Validado: percepción negativa recurrente    |
+| Alta rotación de personal   | Reporte de RRHH                   | Entrevista con empleados clave        | Confirmado: afecta clima laboral            |
+| Riesgo reputacional         | Encuestas de satisfacción         | Sondeo comunitario y observación      | Validado: percepción negativa de la marca   |
+| Falta de alianzas estratégicas | Convenios institucionales        | Revisión con Cámara de Comercio       | Confirmado: oportunidad de networking       |
+| Competencia más eficiente   | Benchmarking interno de precios   | Benchmarking sectorial con competidores| Validado: necesidad de ajustar propuesta de valor |
+
+### Anexo A. Portafolio digital — Documentos revisados
+
+**1. Estados financieros (2023–2024)**
+- Archivo: `/Documentos/diagnostico/Finanzas_Estados_2023-2024.pdf`
+- Responsable: Dirección de Finanzas
+- Observación: Variaciones en costos operativos (+12% en insumos)
+- Relación con resultados: Impacto directo en rentabilidad
+
+**2. Manual de procesos operativos**
+- Archivo: `/Documentos/implementacion/Manual_Operaciones_v2.docx`
+- Responsable: Jefe de Operaciones
+- Observación: Procedimientos desactualizados en área de cocina
+- Relación con resultados: Ineficiencia en tiempos de producción
+
+**3. Reporte de RRHH — Rotación de personal**
+- Archivo: `/Documentos/diagnostico/RRHH_Rotacion_2024.xlsx`
+- Responsable: Dirección de Talento Humano
+- Observación: Rotación anual del 35%
+- Relación con resultados: Afecta clima laboral y continuidad operativa
+
+**4. Informe de ventas trimestral**
+- Archivo: `/Documentos/diagnostico/Ventas_Q1_2024.pdf`
+- Responsable: Gerencia Comercial
+- Observación: Disminución del 8% en ventas respecto al mismo trimestre del año anterior
+- Relación con resultados: Riesgo de pérdida de mercado
+
+**5. Auditoría interna de calidad**
+- Archivo: `/Documentos/cierre/Auditoria_Calidad_2024.pdf`
+- Responsable: Comité de Control
+- Observación: Falta de seguimiento en hallazgos previos
+- Relación con resultados: Debilita cumplimiento normativo
+
+### 📑 Anexo B. Instrumentos de campo
+
+**1. Cuestionario aplicado a clientes (Encuesta de satisfacción en punto de venta)**  
+- **Archivo:** `/Instrumentos/Cuestionario_Clientes_Satisfaccion_2024.pdf`  
+- **Contenido:**  
+  - Pregunta 1: ¿Qué tan satisfecho está con los tiempos de entrega? (Escala 1–5)  
+  - Pregunta 2: ¿Cómo califica la calidad del producto recibido? (Escala 1–5)  
+  - Pregunta 3: ¿Recomendaría el restaurante a un amigo? (Sí/No)  
+- **Uso:** Recabar percepciones directas de clientes frecuentes y validar hallazgos de ventas.
+
+**2. Guía de entrevista a proveedores (Proveedores de carne y pan)**  
+- **Archivo:** `/Instrumentos/Guia_Entrevista_Proveedores_2024.docx`  
+- **Contenido:**  
+  - Pregunta 1: ¿Cuál es su capacidad de producción semanal?  
+  - Pregunta 2: ¿Qué problemas enfrenta en la cadena de suministro?  
+  - Pregunta 3: ¿Cómo evalúa la puntualidad de pagos de la empresa?  
+- **Uso:** Identificar riesgos de abastecimiento y evaluar la relación comercial con proveedores clave.
+
+**3. Formato de observación en sociedad (Percepción comunitaria y reputación)**  
+- **Archivo:** `/Instrumentos/Formato_Observacion_Comunidad_2024.xlsx`  
+- **Contenido:**  
+  - Variable 1: Tiempo promedio de espera observado (minutos).  
+  - Variable 2: Comentarios espontáneos de clientes (“Siempre tardan mucho”, “El sabor es bueno pero no vale la espera”).  
+  - Variable 3: Percepción general de la marca (positivo/negativo).  
+- **Uso:** Registrar evidencia directa de la interacción entre la comunidad y la organización.
+
+### Anexo C. Matriz de correspondencia entre hallazgos y resultados
+
+| Hallazgo identificado       | Evidencia documental (fuente secundaria) | Evidencia de campo (fuente primaria) | Resultado organizacional asociado           |
+|-----------------------------|-------------------------------------------|--------------------------------------|---------------------------------------------|
+| Ineficiencia logística      | Reporte de operaciones                    | Entrevista a proveedor                | Retrasos en entregas y aumento de costos     |
+| Baja satisfacción cliente   | Informe de ventas                        | Encuesta aplicada a clientes          | Disminución en ventas y pérdida de mercado   |
+| Alta rotación de personal   | Reporte de RRHH                          | Entrevista con empleados clave        | Clima laboral deteriorado y baja continuidad |
+| Riesgo reputacional         | Encuestas de satisfacción                | Sondeo comunitario y observación      | Imagen negativa en la comunidad              |
+| Falta de alianzas estratégicas | Convenios institucionales revisados     | Revisión con Cámara de Comercio       | Escasa presencia en redes empresariales      |
+| Competencia más eficiente   | Benchmarking interno de precios           | Benchmarking sectorial con competidores| Ventaja competitiva de rivales en costos y tiempos |
+
+### Anexo D. Opiniones calificadas del equipo consultor
+
+**1. Ineficiencia logística**
+- **Hallazgo:** Retrasos recurrentes en entregas y aumento de costos operativos.
+- **Opinión consultor:** La evidencia documental (reportes de operaciones) y las entrevistas con proveedores confirman un problema estructural en la cadena de suministro. Se considera un hallazgo **directo** que afecta la rentabilidad y la satisfacción del cliente.
+
+**2. Baja satisfacción del cliente**
+- **Hallazgo:** Quejas frecuentes por tiempos de entrega y calidad inconsistente.
+- **Opinión consultor:** Encuestas y reportes de ventas validan la percepción negativa. Se trata de un hallazgo **directo**, con impacto inmediato en la fidelización y en la cuota de mercado.
+
+**3. Alta rotación de personal**
+- **Hallazgo:** Rotación anual del 35% en áreas críticas.
+- **Opinión consultor:** La documentación de RRHH y entrevistas con empleados muestran un clima laboral deteriorado. Se considera un hallazgo **indirecto**, pues afecta la continuidad operativa y la calidad del servicio.
+
+**4. Riesgo reputacional**
+- **Hallazgo:** Imagen negativa en la comunidad y redes sociales.
+- **Opinión consultor:** La observación en campo y los sondeos comunitarios confirman la percepción desfavorable. Se clasifica como hallazgo **indirecto**, con implicaciones estratégicas en posicionamiento y marca.
+
+**5. Falta de alianzas estratégicas**
+- **Hallazgo:** Ausencia de convenios activos con instituciones clave.
+- **Opinión consultor:** La revisión documental y entrevistas institucionales evidencian una oportunidad desaprovechada. Se considera hallazgo **indirecto**, que limita el crecimiento y la capacidad de innovación.
+
+**6. Competencia más eficiente**
+- **Hallazgo:** Rivales con precios más bajos y tiempos de entrega menores.
+- **Opinión consultor:** El benchmarking confirma una desventaja competitiva. Se trata de un hallazgo **directo**, que exige ajustes inmediatos en la propuesta de valor.
 
 
 ## ⚡ Conclusión
@@ -799,7 +950,12 @@ El desarrollo de este cuarto paso permitió consolidar la revisión documental c
 ---
 
 ## 🧩 **5º Paso** Retroalimentación y validación
-Este paso busca transformar el reporte de observación subjetivo en un reporte objetivo, mediante el uso de técnicas y herramientas de acopio de información que permitan confirmar o complementar lo observado.
+Este paso busca transformar el reporte de observación subjetivo  en un reporte objetivo, mediante el uso de técnicas y herramientas de acopio de información que permitan confirmar o complementar lo observado.
+
+**TRIANGULACIÓN DE DATOS EN INVESTIGACIÓN CUALITATIVA** (OBSERVACION)
+
+<img width="1351" height="1149" alt="image" src="https://github.com/user-attachments/assets/8a6ff797-b29d-433f-b9c4-52874b8da979" />
+
 
 **Técnicas empleadas**
 - Cuestionarios: deben ser breves, claros y con predominio de preguntas cerradas para facilitar la sistematización de resultados.
