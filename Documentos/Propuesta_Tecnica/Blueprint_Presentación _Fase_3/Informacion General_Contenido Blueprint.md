@@ -780,6 +780,19 @@ Entrega un **informe de gabinete** que valide y complemente la observación in s
 - Se identificaron hallazgos relevantes que fortalecieron el diagnóstico inicial.
 - Se generó un primer panorama validado sobre la relación entre los documentos revisados y el desempeño de la organización-cliente.
 
+### Tabla 1. Fuentes secundarias revisadas
+
+| Tipo de documento        | Responsable interno   | Observaciones clave                          | Relación con resultados alcanzados |
+|--------------------------|-----------------------|----------------------------------------------|------------------------------------|
+| Estados financieros      | Director de Finanzas  | Variaciones en costos operativos             | Impacto directo en rentabilidad    |
+| Manuales de procesos     | Jefe de Operaciones   | Procedimientos desactualizados               | Afecta eficiencia y tiempos        |
+| Reportes de RRHH         | Director de Talento   | Alta rotación de personal                    | Incide en clima laboral            |
+| Informes de ventas       | Gerente Comercial     | Disminución en ventas trimestrales           | Riesgo de pérdida de mercado       |
+| Auditorías internas      | Comité de Control     | Falta de seguimiento en hallazgos previos    | Debilita cumplimiento normativo    |
+| Encuestas de satisfacción| Área de Calidad       | Quejas recurrentes por tiempos de entrega    | Relación con baja fidelización     |
+
+
+
 ## ⚡ Conclusión
 El desarrollo de este cuarto paso permitió consolidar la revisión documental como un insumo esencial del diagnóstico, integrando fuentes internas y externas en un marco de análisis riguroso y participativo. La combinación de trabajo de campo y gabinete aseguró que los hallazgos fueran confiables y pertinentes para la evaluación integral.
 
