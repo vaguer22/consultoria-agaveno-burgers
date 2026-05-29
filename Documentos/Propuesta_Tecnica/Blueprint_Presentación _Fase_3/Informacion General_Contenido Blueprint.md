@@ -1154,6 +1154,101 @@ En esta etapa se procedió a validar y profundizar el primer panorama obtenido d
 
 ### ⚡ **Metodología**
 
+🧭 1. Visión, Misión y Valores Corporativos
+**Integración de marcos:**
+- **Lean management:** formula la misión en términos de *generar valor sin desperdicio* (eficiencia y mejora continua).  
+- **Design Thinking:** define la visión desde la *empatía con el cliente* y la innovación centrada en la experiencia.  
+- **Planeación Estratégica:** estructura los valores como pilares de *liderazgo, cumplimiento normativo y sostenibilidad*.
+
+**Ejemplo de aplicación:**  
+> *Visión:* “Ser la marca de comida rápida local más eficiente y cercana al cliente, reconocida por su innovación y calidad.”  
+> *Valores:* mejora continua, compromiso humano, innovación responsable.
+
+---
+
+## 🔍 2. Análisis de Factores Internos y Externos
+**Integración de marcos:**
+- **Lean:** identifica desperdicios y cuellos de botella (internos).  
+- **Design Thinking:** detecta oportunidades de mejora en la experiencia del cliente (externos).  
+- **Planeación Estratégica:** usa PESTEL y 5 Fuerzas para mapear entorno competitivo y regulatorio.
+
+**Resultado esperado:**  
+Una lista de F‑D‑O‑A con evidencia cuantitativa (TPP, merma, satisfacción, cumplimiento NOM‑251) y cualitativa (percepción de marca, cultura interna).
+
+---
+
+## 📊 3. Evaluación de Factores Internos y Externos
+**Integración de marcos:**
+- **Lean:** pondera impacto operativo (eficiencia, tiempos, mermas).  
+- **Design Thinking / Agile:** pondera urgencia y tendencia según feedback del cliente y velocidad de cambio.  
+- **Planeación Estratégica:** pondera importancia estratégica y alineación con objetivos OKR/BSC.
+
+**Uso del formato Excel:**  
+- Matriz EFI/EFE con escalas de *importancia, impacto, tendencia, urgencia*.  
+- Los puntajes se traducen a porcentajes (F 43 %, D 19 %, O 29 %, A 9 %) para priorizar acciones.
+
+---
+
+## ⚔️ 4. Definición de Estrategias (F‑O, F‑A, D‑O, D‑A)
+**Integración de marcos:**
+- **Lean management:** guía las estrategias ofensivas (F‑O) hacia eficiencia y valor.  
+- **Design Thinking → Lean Startup → Agile:** impulsa estrategias de reorientación (D‑O) mediante prototipos y aprendizaje rápido.  
+- **Planeación Estratégica:** orienta estrategias defensivas (F‑A) y de supervivencia (D‑A) con análisis de riesgo y escenarios.
+
+**Ejemplo de convergencia:**
+| Tipo | Ejemplo | Marco dominante |
+|------|----------|----------------|
+| F‑O | Ampliar líneas de producto para ventas online | Lean + Agile |
+| F‑A | Invertir en marketing digital para mantener liderazgo | Planeación Estratégica |
+| D‑O | Digitalizar control de mermas para aprovechar tecnología | Lean |
+| D‑A | Formalizar protocolos NOM‑251 para reducir riesgo regulatorio | Planeación Estratégica |
+
+---
+
+## 🧩 5. Planes de Acción (vinculados al BSC)
+**Integración de marcos:**
+- **Lean:** define responsables y tiempos de ciclo.  
+- **Agile:** establece iteraciones cortas y revisión semanal.  
+- **Planeación Estratégica:** conecta cada acción con objetivos del BSC (financiero, cliente, procesos, aprendizaje).
+
+**Ejemplo de estructura:**
+| Estrategia | Responsable | Inicio | Fin | Indicador BSC | Estado |
+|-------------|-------------|--------|-----|----------------|--------|
+| F1‑O4: Ampliar líneas de producto online | Gerente de Operaciones | 01/06 | 30/07 | % ventas digitales | En curso |
+
+---
+
+## 📈 6. Seguimiento y Control (Cuadro de Mando Integral)
+**Integración de marcos:**
+- **Lean:** usa tableros visuales (Kanban) para seguimiento diario.  
+- **Agile:** revisiones quincenales y ajustes iterativos.  
+- **Planeación Estratégica:** reportes mensuales con indicadores BSC y semáforo de cumplimiento.
+
+**Visualización sugerida:**
+- Tablero gráfico con colores (verde = cumplido, amarillo = en proceso, rojo = retrasado).  
+- Indicadores clave: TPP, % merma, satisfacción cliente, cumplimiento NOM‑251, ROI digital.
+
+---
+
+### 🔗 Resultado final
+El documento FODA se convierte en un **sistema de gestión estratégica integral**, donde:
+- Los **datos cuantitativos** provienen de las matrices Excel (EFI/EFE).  
+- Las **estrategias** se derivan del FODA cruzado.  
+- Los **planes de acción** se trasladan al **BSC** para ejecución y control.  
+- Los **marcos Lean, Design Thinking y Planeación Estratégica** aseguran coherencia entre eficiencia operativa, innovación y dirección estratégica.
+
+---
+
+
+
+
+
+
+
+
+
+
+
 1. Revisión del informe preliminar (resultado del Paso 6). Se registraron consensos y desacuerdos, y se definieron las preguntas de verificación.
 2. Selección de modelos y herramientas. Se priorizó el MEO (Matriz “Lo que es”) como modelo base y se complementó con: autoevaluación por modelos de excelencia, campo de fuerzas (Lewin) enriquecido con lectura de polaridades, Sensing/redarquía, diagrama causa‑efecto y Pareto.
 3. Aplicación sistemática por modelo. Cada modelo se ejecutó con protocolo estandarizado: objetivo, método, fuentes, responsables, cronograma y anexos de evidencia.
@@ -1162,8 +1257,11 @@ En esta etapa se procedió a validar y profundizar el primer panorama obtenido d
 
 **Regla práctica**
 
-Todo hallazgo del Paso 7 debe mapearse a una **evidencia** en el Paso 10: la Auditoría administrativa (registro POS, foto, acta de entrevista) y a un **indicador** en el Paso 9 para seguimiento.
-**Ejemplo:** si Paso 7 detecta alta variabilidad en tiempos de preparación (insumo: observación MEO), auditoría medirá tiempos por estación y propondrá estandarización de recetas y formación (Paso 10).
+
+
+--------------
+
+
 
 **Revisión del informe preliminar**
 Se presentó el informe preliminar en sesión con la dirección y mandos medios; se registraron observaciones y se acordó el alcance del Paso 7.
