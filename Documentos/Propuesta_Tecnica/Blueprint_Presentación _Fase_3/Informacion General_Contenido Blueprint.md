@@ -15,25 +15,7 @@ Pero escalarlo significa incrementar esto → $$$, sin necesidad de incrementar 
 Y la única forma de lograr esto es alineando toda la organización hacia un mismo objetivo
  
  
-# 📌 Exponer la pregunta **“Porqué razones dentro del mercado en el que se participa se le da mayor reconocimiento a la competencia”**  
 
- **Claves desde el contenido de la obra:**
-
-- **Entorno Pyme en México:** El prólogo señala que la mayoría de las empresas son pequeñas y medianas, con limitaciones en capacitación, innovación y uso de técnicas de calidad. Esto las coloca en desventaja frente a competidores más preparados.  
-
-- **Presión del mercado:** Los mercados están saturados de productos y marcas, lo que hace difícil captar la atención del cliente (“share of mind”). La competencia logra mayor reconocimiento porque invierte en diferenciación, marketing y posicionamiento, mientras muchas Pymes carecen de estrategias sólidas.  
-
-- **Capacidad de respuesta:** El texto enfatiza que las empresas deben aprender a percibir y adaptarse a causas externas (nuevos consumidores, globalización, sostenibilidad, innovación tecnológica). Cuando no lo hacen, la competencia que sí responde a estas tendencias obtiene mayor visibilidad y prestigio.  
-
-- **Innovación y replicabilidad:** Aunque las Pymes intentan diferenciarse, sus innovaciones suelen ser copiadas rápidamente. La competencia con más recursos logra mantener la ventaja y consolidar reconocimiento.  
-
-- **Cultura organizacional:** Se subraya que muchas empresas operan de forma aislada, sin colaboración ni integración sectorial. Esto limita su competitividad, mientras que la competencia que trabaja en redes o con prácticas de mejora continua gana legitimidad.  
-
-## El cambio debe ser planeado, reflexivo y gradual, no emergente ni reactivo. Solo así se asegura que los medios elegidos tengan coherencia con la visión de largo plazo
----
-
-✅ **En síntesis:**  
-El mayor reconocimiento a la competencia dentro del mercado proviene de su capacidad para **adaptarse a las tendencias externas, invertir en diferenciación, sostener prácticas de calidad e innovación, y trabajar con mayor integración organizacional**. En contraste, las Pymes suelen enfrentar carencias estructurales que las hacen menos visibles y menos competitivas, aun cuando numéricamente son mayoría.  
 
 ---
 
@@ -580,6 +562,28 @@ Esta tabla se  convierte en el **Figura No. 4 o No. 5** del informe: **Mapa func
 El desarrollo de este segundo paso permitió comprender de manera integral cómo la organización gestiona sus recursos a través de sus funciones básicas, vinculando dichas prácticas con la generación de capacidades y competencias centrales. Este análisis constituyó un insumo fundamental para avanzar hacia la evaluación del desempeño organizacional en los pasos posteriores.
 
 ##  🧩 **3º Paso:** Trabajo in situ
+
+#### 📌 Exponer la pregunta **“Porqué razones dentro del mercado en el que se participa se le da mayor reconocimiento a la competencia”**  
+
+ **Claves desde el contenido de la obra:**
+
+- **Entorno Pyme en México:** El prólogo señala que la mayoría de las empresas son pequeñas y medianas, con limitaciones en capacitación, innovación y uso de técnicas de calidad. Esto las coloca en desventaja frente a competidores más preparados.  
+
+- **Presión del mercado:** Los mercados están saturados de productos y marcas, lo que hace difícil captar la atención del cliente (“share of mind”). La competencia logra mayor reconocimiento porque invierte en diferenciación, marketing y posicionamiento, mientras muchas Pymes carecen de estrategias sólidas.  
+
+- **Capacidad de respuesta:** El texto enfatiza que las empresas deben aprender a percibir y adaptarse a causas externas (nuevos consumidores, globalización, sostenibilidad, innovación tecnológica). Cuando no lo hacen, la competencia que sí responde a estas tendencias obtiene mayor visibilidad y prestigio.  
+
+- **Innovación y replicabilidad:** Aunque las Pymes intentan diferenciarse, sus innovaciones suelen ser copiadas rápidamente. La competencia con más recursos logra mantener la ventaja y consolidar reconocimiento.  
+
+- **Cultura organizacional:** Se subraya que muchas empresas operan de forma aislada, sin colaboración ni integración sectorial. Esto limita su competitividad, mientras que la competencia que trabaja en redes o con prácticas de mejora continua gana legitimidad.  
+
+## El cambio debe ser planeado, reflexivo y gradual, no emergente ni reactivo. Solo así se asegura que los medios elegidos tengan coherencia con la visión de largo plazo
+
+✅ **En síntesis:**  
+El mayor reconocimiento a la competencia dentro del mercado proviene de su capacidad para **adaptarse a las tendencias externas, invertir en diferenciación, sostener prácticas de calidad e innovación, y trabajar con mayor integración organizacional**. En contraste, las Pymes suelen enfrentar carencias estructurales que las hacen menos visibles y menos competitivas, aun cuando numéricamente son mayoría.  
+
+---
+
 El tercer paso implica una labor constante dentro de cada área de la empresa. Los responsables de las funciones básicas realizan un reconocimiento directo de actividades, apoyándose en guías o cédulas de observación.
 
 ### **Evaluación del desempeño**
