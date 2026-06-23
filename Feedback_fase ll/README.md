@@ -1,4 +1,4 @@
-# 📂 Feedback_fase II
+# 📂 Feedback_fase II - Retroalimentación sobre hallazgos
 ---
 La carpeta **Feedback** centraliza la retroalimentación recibida durante la **Fase II Diagnóstico** y las fases posteriores. Su objetivo es convertir percepciones de clientes, personal operativo y consultores en **acciones concretas** que mejoren la implementación y la calidad metodológica del proyecto.
 
