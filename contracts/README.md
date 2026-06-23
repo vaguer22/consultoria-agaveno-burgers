@@ -1,4 +1,4 @@
-# 📂 Contracts — Acuerdos y Propuestas Técnicas
+# 📂 Contracts_fase I — Acuerdos y Propuestas Técnicas
 
 ## 🎯 Propósito metodológico
 - **Formalizar los compromisos** entre el equipo consultor y la empresa cliente.  
