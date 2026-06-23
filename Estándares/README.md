@@ -1,4 +1,4 @@
-### 📂 Estándares — Manuales protocolos y formatos
+# 📂 Estándares — Manuales protocolos y formatos
 
 ## Propósito metodológico
 - **Establecer el marco normativo y operativo** que garantiza consistencia, defendibilidad y trazabilidad en la ejecución del proyecto.  
