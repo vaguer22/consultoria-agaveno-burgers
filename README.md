@@ -45,23 +45,29 @@
 
 ### 📂 Carpetas del Repositorio
 
-| Carpeta | Contenido principal | Propósito |
+| **Fase** | **Carpeta** | **Propósito** |
 | --- | --- | --- |
-| ``Assets`` | Material gráfico y visual | Soporte para presentaciones y reportes |
-| ``Documentos`` | Documentación técnica y administrativa | Base documental del proyecto |
-| ``Estándares`` | Manuales, protocolos y formatos | Consolidación de buenas prácticas |
-| ``Feedback`` | Retroalimentación y resultados de evaluación | Ciclo de mejora continua |
-| ``Contracts`` | Cartas de acuerdo y convenios | Formalización de compromisos |
-| ``Reports`` | Informes de avance y resultados | Seguimiento de entregables |
-| ``Roadmap`` | Plan de fases y hitos | Trazabilidad del proyecto |
-| ``Metrics`` | Indicadores clave de desempeño (KPIs) | Medición objetiva de eficiencia y resultados |
-| ``Pilots`` | Documentación de pruebas y ciclos Kaizen | Validación de mejoras antes del despliegue |
-| ``Training`` | Guías rápidas y materiales de capacitación | Transferencia de conocimiento al personal |
-| ``Governance`` | Roles, políticas y protocolos de gestión | Claridad organizativa y control del proyecto |
-| ``Integration`` | Scripts y workflows de conexión (ej. Notion, Actions) | Automatización y orquestación de datos |
-| ``Change-Log`` | Registro de cambios y decisiones metodológicas | Trazabilidad de ajustes y evolución |
-| ``Lessons-Learned`` | Buenas prácticas y aprendizajes acumulados | Replicabilidad y mejora continua |
-| ``Risk-Register`` | Identificación y mitigación de riesgos | Prevención y resiliencia operativa |
+| 🌱 **Fase I – Inicio (Inducción)** | ``Contracts/`` | Guarda la carta acuerdo y la propuesta técnica inicial. |
+|  | ``Documentos/`` | Contiene el pre-diagnóstico y los primeros registros de necesidades. |
+|  | ``Feedback/`` | Recoge percepciones iniciales de los interlocutores y actores clave. |
+|  | ``Governance/`` (sugerido) | Define roles, responsabilidades y protocolos de comunicación desde el arranque. |
+| 🔎 **Fase II – Diagnóstico** | ``Documentos/`` | Informes detallados de entrevistas, cronometrajes y matrices de análisis. |
+|  | ``Estándares/`` | Formatos y protocolos para levantar información con rigor. |
+|  | ``Feedback/`` | Retroalimentación del personal operativo y clientes sobre hallazgos. |
+|  | ``Metrics/`` (sugerido) | Línea base de KPIs (tiempos de servicio, tasa de errores, satisfacción). |
+| 📐 **Fase III – Planeación** | ``Roadmap/`` | Cronogramas, diagramas de Gantt y hitos estratégicos. |
+|  | ``Assets/`` | Mapas conceptuales, dashboards y presentaciones ejecutivas para comunicar la estrategia. |
+|  | ``Contracts/`` | Acuerdos formales que validan la planeación. |
+|  | ``Governance/`` (sugerido) | Políticas y protocolos de escalamiento para asegurar trazabilidad. |
+| ⚙️ **Fase IV – Implementación de medidas** | ``Reports/`` | Informes de avance y resultados de pilotos. |
+|  | ``Pilots/`` (sugerido) | Documentación de pruebas controladas y ciclos Kaizen. |
+|  | ``Training/`` (sugerido) | Guías rápidas y materiales de capacitación para el personal. |
+|  | ``Integration/`` (sugerido) | Scripts y workflows para sincronizar con Notion y automatizar procesos. |
+| 🏁 **Fase V – Cierre** | ``Reports/`` | Informe final con KPIs consolidados. |
+|  | ``Assets/`` | Presentaciones ejecutivas de cierre y visuales de resultados. |
+|  | ``Change-Log/`` (sugerido) | Registro de decisiones y ajustes metodológicos. |
+|  | ``Lessons-Learned/`` (sugerido) | Recopilación de aprendizajes y buenas prácticas. |
+|  | ``Risk-Register/`` (sugerido) | Documentación de riesgos enfrentados y mitigaciones aplicadas. |
 
 ---
 
