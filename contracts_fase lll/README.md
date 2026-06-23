@@ -1,4 +1,4 @@
-# 📂 Contracts — Acuerdos formales que validan la planeación
+# 📂 Contracts_fase III — Acuerdos formales que validan la planeación
 
 ## 🎯 Propósito metodológico
 - **Consolidar los compromisos formales** que surgen tras el diagnóstico y la planeación estratégica.  
