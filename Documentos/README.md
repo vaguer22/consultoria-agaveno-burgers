@@ -1,36 +1,83 @@
-### 📂 Carpeta `Documentos/` — Pre‑diagnóstico y registros de necesidades
+# 📂 Documentos
 
-**Propósito metodológico**  
-- Servir como **base documental central** del proyecto, donde se concentran los insumos técnicos y administrativos.  
-- Garantizar que cada fase del proceso consultivo tenga evidencia escrita, organizada y trazable.  
-- Conectar directamente con la **Fase I (Inicio)** y la **Fase II (Diagnóstico)**, ya que aquí se registran las primeras observaciones y se consolidan los hallazgos.  
-
-**Contenido principal recomendado**  
-1. **Pre‑diagnóstico inicial**  
-   - Documentos que describen las necesidades detectadas en los primeros contactos.  
-   - Observaciones preliminares y reflexiones conjuntas con la empresa.  
-
-2. **Registros de necesidades**  
-   - Listado de problemáticas operativas, administrativas y de servicio.  
-   - Evidencias de entrevistas exploratorias y observación directa.  
-
-3. **Bitácoras de campo**  
-   - Notas de trabajo in situ, cronometrajes, registros de procesos y prácticas reales.  
-   - Plantillas de observación y checklists aplicados en cocina, barra y servicio.  
-
-4. **Revisión documental básica**  
-   - Acopio de fuentes secundarias: manuales internos, reportes financieros, protocolos previos.  
-   - Documentos legales y normativos que rigen la operación.  
-
-5. **Hipótesis iniciales**  
-   - Supuestos sobre las causas de las problemáticas detectadas.  
-   - Base para el diagnóstico formal en la siguiente fase.  
-
-6. **Carpeta indexada de evidencias**  
-   - Organización modular de todos los archivos (PDF, Word, Excel, Markdown).  
-   - Sistema de nomenclatura estandarizado para trazabilidad.  
+## Propósito metodológico
+- **Servir como base documental central** del proyecto, concentrando insumos técnicos y administrativos.
+- **Garantizar evidencia escrita, organizada y trazable** para las fases iniciales del trabajo consultivo.
+- **Soportar el diagnóstico**: aquí se registran observaciones, entrevistas y hallazgos que alimentan decisiones posteriores.
 
 ---
 
-📌 **Narrativa conceptual**:  
-La carpeta `Documentos/` es el **corazón del repositorio en las fases iniciales**. Aquí se construye el puente entre la percepción subjetiva del cliente y la evidencia objetiva que el consultor recopila. Su función es **dar soporte metodológico** al diagnóstico y asegurar que las decisiones posteriores se fundamenten en datos verificables.  
+## Contenido principal recomendado
+- **Pre‑diagnóstico inicial**: observaciones preliminares y reflexiones conjuntas con la empresa.  
+- **Registros de necesidades**: listados de problemáticas operativas, administrativas y de servicio.  
+- **Bitácoras de campo**: notas in situ, cronometrajes, plantillas de observación y checklists.  
+- **Revisión documental básica**: manuales internos, reportes financieros y protocolos previos.  
+- **Hipótesis iniciales**: supuestos sobre causas y líneas de investigación para el diagnóstico formal.  
+- **Carpeta indexada de evidencias**: PDFs, fotos, hojas de cálculo y archivos fuente organizados por tema.
+
+---
+
+## Estructura de carpetas sugerida
+- `/entrevistas` → transcripciones, resúmenes y fichas de entrevistado.  
+- `/cronometrajes` → registros de tiempos, raw data y análisis.  
+- `/bitacoras` → notas diarias y observaciones de campo.  
+- `/evidencias` → fotos, videos y documentos escaneados.  
+- `/revisiones` → documentos secundarios y referencias.  
+
+---
+
+## Convención de nombres y guía de uso
+**Convención de archivos**  
+```text
+YYYY-MM-DD_tipo_area_tema.ext
+Ejemplo: 2026-06-15_pre-diagnostico_cocina.md
+```
+
+**Reglas rápidas**  
+- **Fecha** al inicio para ordenar cronológicamente.  
+- **Tipo**: pre-diagnostico, entrevista, cronometraje, bitacora, revision.  
+- **Área**: cocina, barra, servicio, admin, finanzas.  
+- **Tema** breve y claro.  
+- **Formato**: preferir Markdown para notas y resúmenes; mantener PDFs/Excel en `/evidencias`.  
+
+**Metadatos mínimos en cada documento** (primer bloque del archivo)  
+- **Fecha**: `YYYY-MM-DD`  
+- **Autor**: nombre y rol  
+- **Fuente**: entrevista / observación / documento interno  
+- **Resumen**: 1–2 líneas con el hallazgo clave
+
+---
+
+## Relación con fases del proyecto
+- **Fase I Inicio** → acopio de la carta acuerdo, pre‑diagnóstico y percepciones iniciales.  
+- **Fase II Diagnóstico** → entrevistas, cronometrajes, matrices de análisis y línea base de evidencias.  
+
+---
+
+## Buenas prácticas para colaboradores
+- Subir archivos a la subcarpeta correspondiente inmediatamente después de la recolección.  
+- Mantener versiones finales en `/evidencias` y borradores en `/drafts` si aplica.  
+- Referenciar siempre el **ID de piloto** o **número de visita** cuando aplique.  
+- Evitar nombres genéricos como `nota1.docx`; usar la convención de nombres.  
+
+---
+
+## Historial de cambios ejemplo
+| **Fecha** | **Commit** | **Descripción** | **Responsable** |
+|-----------|------------|-----------------|-----------------|
+| 2026-06-22 | `init/documentos-readme` | Creación del README en /Documentos | Equipo consultor |
+
+---
+
+## Checklist antes de cerrar un documento
+- [ ] Nombre cumple convención.  
+- [ ] Metadatos completos (fecha, autor, fuente, resumen).  
+- [ ] Archivo guardado en la subcarpeta correcta.  
+- [ ] Evidencias asociadas (fotos, raw data) enlazadas o copiadas en `/evidencias`.  
+- [ ] Si es sensible, marcar y seguir protocolo de confidencialidad.
+
+---
+
+## Contacto y responsables
+- **Responsable de carpeta**: Nombre del consultor o rol (ej. Coordinador de Diagnóstico).  
+- **Correo interno**: `equipo-consultoria@el-agaveno.example` (reemplazar por el real).  
