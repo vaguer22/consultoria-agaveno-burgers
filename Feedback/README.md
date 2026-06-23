@@ -1,39 +1,35 @@
-# 📂 Carpeta /Feedback – Retroalimentaciones y Revisiones Narrativas
+### 📂 Carpeta `Feedback/` — Percepciones de interlocutores y actores clave
 
-## 🎯 Propósito
-La carpeta `/Feedback` centraliza las **retroalimentaciones del cliente, observaciones del equipo consultor y revisiones narrativas** del proyecto **CCIEAB – El Agaveño Burgers**, promoviendo la mejora continua y la coherencia entre entregables.
+**Propósito metodológico**  
+- Centralizar la **retroalimentación sistemática** de clientes, consultores y personal operativo.  
+- Convertir comentarios en insumos para la **mejora continua**, asegurando que cada fase del proyecto se refine con base en la experiencia real.  
+- Facilitar un ciclo cerrado de comunicación: cada observación debe tener respuesta o acción definida.  
+
+**Contenido principal recomendado**  
+1. **Subcarpeta `/cliente/`**  
+   - Opiniones del sponsor y equipo directivo.  
+   - Evaluaciones sobre claridad de entregables y pertinencia de recomendaciones.  
+
+2. **Subcarpeta `/consultores/`**  
+   - Observaciones del equipo consultor sobre metodología, plantillas y aprendizajes técnicos.  
+   - Notas de campo y reflexiones internas.  
+
+3. **Subcarpeta `/operativos/`**  
+   - Retroalimentación del personal en cocina, barra y servicio.  
+   - Validación de aplicabilidad práctica de SOPs y protocolos.  
+
+4. **Subcarpeta `/sintesis/`**  
+   - Informes consolidados por fase con resumen de comentarios, acciones implementadas y lecciones aprendidas.  
+
+5. **Archivo `changelog.md`**  
+   - Registro de cambios derivados de feedback.  
+   - Evidencia de trazabilidad y decisiones tomadas.  
+
+6. **Formatos estandarizados**  
+   - Plantillas en Markdown o CSV para capturar comentarios:  
+     `fecha | fase | autor | comentario | tipo (positivo/negativo/sugerencia) | acción propuesta`.  
 
 ---
 
-## 📑 Contenido principal
-- **Retroalimentaciones del cliente**  
-  Comentarios y observaciones sobre entregables, sesiones y resultados parciales.
-- **Revisiones narrativas**  
-  Ajustes de tono, ritmo y coherencia en los documentos y presentaciones.
-- **Observaciones del equipo consultor**  
-  Evaluaciones internas sobre desempeño, claridad técnica y alineación metodológica.
-
----
-
-## 🧭 Propósito estratégico
-- **Aprendizaje continuo:** integrar mejoras derivadas de la experiencia y retroalimentación.  
-- **Coherencia narrativa:** mantener consistencia entre la voz consultiva y la comunicación ejecutiva.  
-- **Defendibilidad:** documentar los ajustes realizados y su justificación técnica.  
-
----
-
-## 📂 Ejemplo de estructura interna
-/Feedback
-├── Retroalimentacion_Cliente_01.md
-├── Revision_Narrativa_CCIEAB.docx
-├── Observaciones_Equipo_Consultor.md
-└── README.md
-
----
-
-## 📝 Historial de commits (plantilla editable)
-| **Fecha** | **Commit** | **Descripción ampliada** | **Responsable** |
-|------------|-------------|---------------------------|-----------------|
-| AAAA-MM-DD | `init/feedback-readme` | Creación del README en `/Feedback` para documentar retroalimentaciones y revisiones narrativas. | Equipo consultor |
-| AAAA-MM-DD | `add/retro-cliente` | Incorporación de retroalimentación del cliente sobre entregables iniciales. | Equipo consultor |
-| AAAA-MM-DD | `add/revision-narrativa` | Inclusión de revisión narrativa para ajuste de tono y coherencia. | Equipo consultor |
+📌 **Narrativa conceptual**:  
+La carpeta `Feedback/` es el **motor de aprendizaje vivo** del repositorio. Aquí se documenta cómo las percepciones de todos los actores (cliente, consultores, operativos) se transforman en ajustes concretos. Su función es garantizar que la consultoría sea **colaborativa, defendible y sostenible**, reforzando la cultura de mejora continua en cada fase del proyecto.
