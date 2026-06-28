@@ -49,3 +49,8 @@ La carpeta centraliza protocolos de piloto, resultados, análisis y recomendacio
 - **Responsable de pilotos**: Coordinador de Pilotos (ver `Governance/roles-responsabilidades.md`).  
 - **Analista de datos**: persona encargada de consolidar `data/` y generar `analysis/`.  
 - **Escalamiento**: Panel de validación → ver `Governance/panel-validacion.md`.  
+
+---
+
+👉 En este caso, **sí se usan subcarpetas** porque cada fase genera varios archivos y requiere trazabilidad modular.  
+Si el piloto fuera muy simple (1–2 documentos), se podrían dejar directamente en `Pilots/`, pero para tu repo consultivo lo más robusto es mantener la estructura por fases.  
