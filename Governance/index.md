@@ -1,41 +1,70 @@
-# 📂 Governance — Roles, responsabilidades y validación
+```
+date: 2026-06-28
+author: Adrian — Responsable de Governance
+version: v1.2
+status: borrador
+area: governance
+summary: Versión simplificada del índice de Governance: estructura, frontmatter mínimo, pasos claros y contactos.
+linked_issues: []
+linked_prs: []
+```
+# Governance
 
-## 🎯 Propósito
-Definir la estructura de gobernanza del proyecto, asegurando que los cambios y decisiones se realicen con **trazabilidad, transparencia y responsabilidad compartida**.  
-La carpeta sirve como marco de referencia para asignar roles, validar entregables y escalar decisiones críticas.
-
----
-
-## 📑 Subcarpetas y archivos
-- `raci.md` → Matriz RACI de responsabilidades (Responsible, Accountable, Consulted, Informed).  
-- `panel-validacion.md` → Procedimientos de aprobación y validación de cambios.  
-- `roles-responsabilidades.md` → Descripción detallada de funciones clave dentro del proyecto.  
-
----
-
-## 🧭 Uso
-- **Antes de iniciar un cambio**: revisar la matriz RACI para identificar responsables y aprobadores.  
-- **Durante un PR o Issue**: referenciar el `panel-validacion.md` para saber si requiere aprobación formal.  
-- **Al asignar tareas**: consultar `roles-responsabilidades.md` para asegurar claridad en funciones.  
-- **En casos de conflicto o escalamiento**: seguir el protocolo definido en `panel-validacion.md`.
+## Propósito
+Definir de forma clara y práctica **quién decide**, **cómo se aprueba** y **qué metadatos** debe tener cada documento del repositorio.
 
 ---
 
-## 🔗 Relación con otras carpetas
-- **Change-Log/** → cada decisión validada debe registrarse en el changelog.  
-- **Estándares/** → cambios en SOPs o manuales requieren aprobación del panel de gobernanza.  
-- **Reports/** → informes finales deben incluir evidencia de validación.  
+## Estructura (lo esencial)
+- **policies/** — Políticas y normas.  
+- **roles-responsabilidades.md** — Quién hace qué.  
+- **panel-validacion.md** — Quién aprueba y cómo.  
+- **workflows/** — Pasos para procesos clave (ej.: aprobar un SOP).  
+- **templates/** — Plantillas listas para usar.  
+- **changelog.md** — Registro simple de cambios.  
+- **evidence/** — Actas y documentos de respaldo.
 
 ---
 
-## ✅ Buenas prácticas
-- Mantener actualizada la matriz RACI con cada incorporación o cambio de rol.  
-- Documentar todas las decisiones críticas en Issues y vincularlas a `panel-validacion.md`.  
-- Usar etiquetas en GitHub (`governance`, `validation-required`) para marcar PRs que necesitan revisión especial.  
-- Revisar este `index.md` en cada fase del proyecto para asegurar que la gobernanza sigue vigente.
+## Frontmatter mínimo (usar siempre) yaml
+
+```
+date: YYYY-MM-DD
+author: Nombre — Rol
+version: v1.0
+status: borrador / vigente / archivado
+area: governance
+summary: Una frase que explique el documento
+```
+
+**Consejo:** para políticas críticas añade `policy_id`, `owner` y `next_review`.
 
 ---
 
-## 📬 Contacto
-- **Responsable de Gobernanza**: Coordinador designado en `roles-responsabilidades.md`.  
-- **Escalamiento**: Panel de validación → ver `panel-validacion.md`.  
+## Pasos rápidos para publicar o cambiar una política
+1. **Crear**: duplicar la plantilla desde `templates/` y completar el frontmatter.  
+2. **Proponer**: abrir un *issue* describiendo el cambio.  
+3. **Enviar PR**: crear una PR con la nueva versión (`vN+1`) y enlazar el *issue*.  
+4. **Revisar**: asignar reviewers del panel de validación.  
+5. **Aprobar**: registrar la aprobación en `approval-template.md` y actualizar `changelog.md`.  
+6. **Publicar**: marcar `status: vigente`.
+
+---
+
+## Buenas prácticas (fáciles de seguir)
+- **Siempre** incluye el frontmatter mínimo antes de editar.  
+- **No sobrescribas** versiones: crea `vN+1` y explica el cambio.  
+- **Registra aprobaciones** en el documento y en `changelog.md`.  
+- **Adjunta evidencia** en `evidence/` cuando aplique.  
+- **Respeta fechas** de revisión (`next_review`) para mantener políticas actualizadas.  
+- **Escribe claro**: usa listas y checklists; evita párrafos largos.
+
+---
+
+## Roles y contacto (rápido)
+- **Owner de Governance** — mantiene el índice y coordina aprobaciones.  
+- **Panel de validación** — revisa y aprueba políticas críticas.  
+- **Responsables de área** — validan documentos de su dominio.  
+- **Soporte técnico** — gestiona despliegue y accesos.
+
+**Cómo escalar:** abrir un *issue* con etiqueta `governance` y referenciar `policy_id` en el frontmatter.
