@@ -1,1 +1,13 @@
 
+```yaml
+date: YYYY-MM-DD
+author: Nombre — Rol
+version: v1.0
+status: borrador / activo / archivado
+area: integration / pos / crm / api / general
+summary: Breve descripción de la integración
+linked_issues: []
+linked_prs: []
+```
+
+Campos opcionales recomendados: `workflow_id`, `trigger`, `responsible`, `source_files`.
