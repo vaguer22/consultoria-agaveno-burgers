@@ -1,4 +1,4 @@
----
+```
 date: 2026-06-28
 author: Adrian — Responsable de Métricas
 version: v1.2
@@ -7,8 +7,7 @@ area: métricas
 summary: Versión simplificada del índice de Metrics: estructura, frontmatter mínimo, convenciones y buenas prácticas fáciles de seguir.
 linked_issues: []
 linked_prs: []
----
-
+```
 # Metrics
 
 ## Propósito
@@ -27,8 +26,8 @@ Definir dónde y cómo se guardan las métricas, quién las mantiene y cómo se 
 ---
 
 ## Frontmatter mínimo (usar siempre)
+
 ```yaml
----
 date: YYYY-MM-DD
 author: Nombre — Rol
 version: v1.0
@@ -39,7 +38,6 @@ summary: Una frase que explique el KPI o dataset
 source_files: ["raw/archivo.csv"]
 frequency: diaria / semanal / mensual
 responsible: Nombre — Rol
----
 ```
 
 **Consejo:** añadir `target`, `formula` y `last_value` cuando corresponda.
