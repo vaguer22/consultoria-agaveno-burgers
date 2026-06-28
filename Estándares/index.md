@@ -7,28 +7,63 @@ La carpeta concentra manuales, protocolos y formatos que sirven como referencia 
 ---
 
 ## 📑 Subcarpetas
-- `sop/` → Procedimientos operativos estandarizados (Standard Operating Procedures).  
-- `manuales/` → Guías prácticas por rol (cocina, barra, servicio, reparto).  
-- `protocolos/` → Normas de reuniones, auditorías, seguridad e higiene.  
-- `formatos/` → Plantillas para entrevistas, cronometrajes, matrices MEO, fichas de medida.  
-- `style-guide/` → Lineamientos visuales (paleta, tipografía, estructura de presentaciones).  
-- `templates/` → Plantillas Markdown para SOPs, KPIs, riesgos, lecciones aprendidas y entregables.  
 
 ---
 
-## 🧭 Uso
-- **Crear documentos nuevos** copiando las plantillas desde `templates/`.  
-- **Validar cambios** con el Panel de Gobernanza antes de aprobar modificaciones en SOPs o manuales.  
-- **Mantener consistencia visual** siguiendo las reglas de `style-guide/`.  
-- **Registrar cambios** en `Change-Log/changelog.md` para asegurar trazabilidad.  
+#### 1. `sop/`
+- **Qué guarda:** Procedimientos Operativos Estandarizados (Standard Operating Procedures).  
+- **Propósito:** Documentar paso a paso cómo se realizan las tareas críticas en cocina, barra, servicio o reparto.  
+- **Formato:** Markdown con frontmatter + checklist; versión final en PDF para firma.  
+- **Ejemplo:** `2026-06-22_sop_cocina_armado-hamburguesa_v1.md`.
 
 ---
 
-## 🔗 Relación con otras carpetas
-- **Governance/** → define quién aprueba cambios en SOPs y protocolos.  
-- **Metrics/** → vincula formatos y fichas de medida con KPIs.  
-- **Pilots/** → resultados de pilotos alimentan la actualización de SOPs.  
-- **Lessons-Learned/** → aprendizajes documentados generan ajustes en manuales y protocolos.  
+#### 2. `manuales/`
+- **Qué guarda:** Guías prácticas por rol (ej. manual del cocinero, manual del bartender).  
+- **Propósito:** Capacitar al personal con instrucciones claras y consistentes.  
+- **Formato:** Markdown con secciones de objetivos, responsabilidades, procedimientos y criterios de calidad.  
+- **Ejemplo:** `2026-06-22_manual_servicio_atencion-cliente_v1.md`.
+
+---
+
+#### 3. `protocolos/`
+- **Qué guarda:** Normas y procedimientos normativos (reuniones, auditorías, seguridad e higiene).  
+- **Propósito:** Asegurar cumplimiento de estándares regulatorios y de calidad.  
+- **Formato:** Markdown con pasos, responsables y criterios de cumplimiento.  
+- **Ejemplo:** `2026-06-22_protocolo_seguridad-higiene_v1.md`.
+
+---
+
+#### 4. `formatos/`
+- **Qué guarda:** Plantillas para levantar información (entrevistas, cronometrajes, matrices MEO, fichas de medida).  
+- **Propósito:** Estandarizar la recolección de datos y asegurar trazabilidad.  
+- **Formato:** Markdown/CSV/Excel según necesidad; siempre con metadatos.  
+- **Ejemplo:** `2026-06-22_fmt_cronometraje_cocina_v1.xlsx`.
+
+---
+
+#### 5. `style-guide/`
+- **Qué guarda:** Lineamientos visuales (paleta de colores, tipografía, estructura de presentaciones, uso de logos).  
+- **Propósito:** Mantener coherencia visual en todos los documentos y presentaciones.  
+- **Formato:** Markdown + ejemplos gráficos en PNG/SVG.  
+- **Ejemplo:** `2026-06-22_style_presentaciones_v1.md`.
+
+---
+
+#### 6. `templates/`
+- **Qué guarda:** Plantillas Markdown para SOPs, KPIs, riesgos, lecciones aprendidas y entregables.  
+- **Propósito:** Servir como punto de partida para crear nuevos documentos con consistencia.  
+- **Formato:** Archivos `.md` con frontmatter YAML y estructura predefinida.  
+- **Ejemplo:** `sop-template.md`, `kpi-template.md`, `risk-template.md`.
+
+---
+
+### 🔗 Cómo se relacionan entre sí
+- **`sop/`** se alimenta de pilotos (`Pilots/`) y métricas (`Metrics/`).  
+- **`manuales/`** y **`protocolos/`** se actualizan con aprendizajes (`Lessons-Learned/`).  
+- **`formatos/`** son usados en campo y luego exportados a `Reports/`.  
+- **`style-guide/`** asegura que tanto `Reports/` como `Assets/` mantengan coherencia visual.  
+- **`templates/`** son la base para crear cualquier documento nuevo en las demás subcarpetas.
 
 ---
 
