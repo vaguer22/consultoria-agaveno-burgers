@@ -34,34 +34,6 @@ Proveer un espacio controlado para diseñar, ejecutar, analizar y decidir sobre 
 YYYY-MM-DD_fase_pilot_area_tema_vN.ext
 Ejemplo: 2026-07-01_design_pilot_cocina_tiempo-armado_v1.md
 ```
-
----
-
-# Pilots
-
-## Propósito
-Proveer un espacio controlado para diseñar, ejecutar, analizar y decidir sobre pruebas piloto antes de su escalado. Garantizar **reproducibilidad**, **trazabilidad** y **evidencia** para la toma de decisiones.
-
----
-
-## Estructura recomendada (decisión: usar subcarpetas)
-- **`design/`** — Diseño del piloto: hipótesis, objetivos, criterios de éxito y plan de recolección.  
-- **`execution/`** — Registros de ejecución: cronogramas, checklists, incidencias, fotos y datos crudos (`execution/data/raw/`).  
-- **`analysis/`** — Datos procesados, scripts/notebooks, gráficos y conclusiones (`analysis/code/`, `analysis/exports/`).  
-- **`decision/`** — Informe de recomendación: aprobado / ajustar y re-pilotar / descartado.  
-- **`closure/`** — Documentación de cierre: lecciones aprendidas y transferencia a SOPs.  
-- **`templates/`** — Plantillas para cada fase (usar `Estándares/templates/` como fuente única).  
-- **`changelog.md`** — Registro de cambios y versiones del piloto.  
-- **`assets/`** — Imágenes y multimedia optimizados relacionados al piloto.
-
----
-
-## Convención de nombres
-**Formato recomendado**  
-```text
-YYYY-MM-DD_fase_pilot_area_tema_vN.ext
-Ejemplo: 2026-07-01_design_pilot_cocina_tiempo-armado_v1.md
-```
 **Campos clave**: fecha; fase (design/execution/analysis/decision/closure); `pilot` literal; área; tema; versión `vN`.
 
 ---
