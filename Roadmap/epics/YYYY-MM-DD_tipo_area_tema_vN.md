@@ -20,8 +20,9 @@ Ejemplo: 2026-07-02_epic_cocina_mejora-flujo-v1.md
 - **tipo**: `plan` / `epic` / `story` / `milestone` / `dependency`.  
 - **area**: producto / operaciones / marketing / finanzas / general.  
 - **vN**: versión incremental.
-
+```
 ---
+
 
 ## Frontmatter (mínimo)
 Todos los .md en Roadmap/ deben incluir frontmatter YAML.
@@ -40,3 +41,4 @@ linked_issues: []
 linked_prs: []
 ```
 
+Campos recomendados: priority (alta/med/baixa), metrics, dependencies.
