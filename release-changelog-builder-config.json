@@ -1,18 +1,15 @@
 {
   "categories": [
-    { "title": "## 🚀 Features", "labels": ["✨ feature", "enhancement", "feature"] },
-    { "title": "## 🐛 Bug Fixes", "labels": ["🐛 bug", "bug", "fix"] },
-    { "title": "## 🔐 Security", "labels": ["🔐 security", "security"] },
-    { "title": "## 🗄️ Database", "labels": ["🗄️ database", "database"] },
-    { "title": "## 🚀 Performance", "labels": ["🚀 performance", "performance"] },
-    { "title": "## 📖 Documentation", "labels": ["📖 documentation", "documentation"] },
-    { "title": "## 🔧 Infrastructure & CI/CD", "labels": ["🔧 infrastructure", "github_actions", "ci", "infrastructure"] },
-    { "title": "## 🧪 Tests", "labels": ["🧪 testing", "🧪 unit tests", "test"] },
-    { "title": "## ⬆️ Dependencies", "labels": ["dependencies"] },
-    { "title": "## 🔄 Refactor", "labels": ["🔄 refactor", "refactor"] },
-    { "title": "## ⚠️ Breaking Changes", "labels": ["⚠️ breaking-change", "breaking"] }
+    { "title": "## 📋 Documentos y Acuerdos", "labels": ["📋 documentation", "📋 contracts", "documentation", "contracts"] },
+    { "title": "## 📊 Reportes y Análisis", "labels": ["📊 reports", "📊 analysis", "reports", "analysis"] },
+    { "title": "## 🎯 Cronograma e Hitos", "labels": ["🎯 roadmap", "🎯 milestone", "roadmap", "milestone"] },
+    { "title": "## ✅ Estándares y Procesos", "labels": ["✅ standards", "✅ process", "standards", "process"] },
+    { "title": "## 🔍 Mejora Continua", "labels": ["🔄 improvement", "🔄 optimization", "improvement", "optimization"] },
+    { "title": "## 📝 Plantillas y Formatos", "labels": ["📝 templates", "📝 formats", "templates", "formats"] },
+    { "title": "## 🐛 Correcciones", "labels": ["🐛 fix", "🐛 correction", "fix", "correction"] },
+    { "title": "## ⬆️ Actualizaciones", "labels": ["⬆️ update", "⬆️ revision", "update", "revision"] }
   ],
-  "ignore_labels": ["skip-changelog"],
+  "ignore_labels": ["skip-changelog", "wip"],
   "sort": { "order": "ASC", "on_property": "mergedAt" },
   "template": "#{{CHANGELOG}}\n\n---\n\n**Full Changelog**: #{{RELEASE_DIFF}}\n",
   "pr_template": "- #{{TITLE}} ([##{{NUMBER}}](#{{URL}})) @#{{AUTHOR}}",
