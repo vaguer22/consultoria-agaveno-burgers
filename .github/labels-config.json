@@ -1,0 +1,109 @@
+{
+  "labels": [
+    {
+      "name": "Buenas-Prácticas",
+      "color": "0075ca",
+      "description": "Documentación sobre buenas prácticas del proyecto"
+    },
+    {
+      "name": "Metodología",
+      "color": "5319e7",
+      "description": "Relacionado con la metodología de trabajo"
+    },
+    {
+      "name": "Colaboración",
+      "color": "1d76db",
+      "description": "Temas sobre colaboración y comunicación"
+    },
+    {
+      "name": "Estándares",
+      "color": "0052cc",
+      "description": "Estándares y normas del proyecto"
+    },
+    {
+      "name": "fase-I",
+      "color": "fbca04",
+      "description": "Pertenece a la Fase I del proyecto"
+    },
+    {
+      "name": "fase-II",
+      "color": "ffd700",
+      "description": "Pertenece a la Fase II del proyecto"
+    },
+    {
+      "name": "fase-III",
+      "color": "ffea00",
+      "description": "Pertenece a la Fase III del proyecto"
+    },
+    {
+      "name": "fase-IV",
+      "color": "fff44f",
+      "description": "Pertenece a la Fase IV del proyecto"
+    },
+    {
+      "name": "fase-V",
+      "color": "fffacd",
+      "description": "Pertenece a la Fase V del proyecto"
+    },
+    {
+      "name": "Governance",
+      "color": "d73a49",
+      "description": "Temas de gobernanza y estructura organizacional"
+    },
+    {
+      "name": "Formación",
+      "color": "a2eeef",
+      "description": "Actividades de formación y capacitación"
+    },
+    {
+      "name": "Integración",
+      "color": "7fd8be",
+      "description": "Integración de sistemas y componentes"
+    },
+    {
+      "name": "Pilotos",
+      "color": "ccccff",
+      "description": "Proyectos piloto y pruebas de concepto"
+    },
+    {
+      "name": "Entregables",
+      "color": "91ca55",
+      "description": "Entregables clave del proyecto"
+    },
+    {
+      "name": "Riesgos",
+      "color": "ee0701",
+      "description": "Identificación y mitigación de riesgos"
+    },
+    {
+      "name": "Métricas",
+      "color": "02e10c",
+      "description": "Métricas y medición de desempeño"
+    },
+    {
+      "name": "Feedback",
+      "color": "fc2929",
+      "description": "Feedback y comentarios del proyecto"
+    },
+    {
+      "name": "Documento",
+      "color": "c2e0c6",
+      "description": "Tipo: Documento"
+    },
+    {
+      "name": "Asset",
+      "color": "bfdadc",
+      "description": "Tipo: Asset o recurso multimedia"
+    },
+    {
+      "name": "Contrato",
+      "color": "d4c5f9",
+      "description": "Tipo: Contrato o acuerdo"
+    },
+    {
+      "name": "Reporte",
+      "color": "d93f0b",
+      "description": "Tipo: Reporte o análisis"
+    }
+  ]
+}
