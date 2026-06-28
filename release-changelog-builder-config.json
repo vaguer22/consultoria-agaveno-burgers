@@ -1,0 +1,22 @@
+{
+  "categories": [
+    { "title": "## 🚀 Features", "labels": ["✨ feature", "enhancement", "feature"] },
+    { "title": "## 🐛 Bug Fixes", "labels": ["🐛 bug", "bug", "fix"] },
+    { "title": "## 🔐 Security", "labels": ["🔐 security", "security"] },
+    { "title": "## 🗄️ Database", "labels": ["🗄️ database", "database"] },
+    { "title": "## 🚀 Performance", "labels": ["🚀 performance", "performance"] },
+    { "title": "## 📖 Documentation", "labels": ["📖 documentation", "documentation"] },
+    { "title": "## 🔧 Infrastructure & CI/CD", "labels": ["🔧 infrastructure", "github_actions", "ci", "infrastructure"] },
+    { "title": "## 🧪 Tests", "labels": ["🧪 testing", "🧪 unit tests", "test"] },
+    { "title": "## ⬆️ Dependencies", "labels": ["dependencies"] },
+    { "title": "## 🔄 Refactor", "labels": ["🔄 refactor", "refactor"] },
+    { "title": "## ⚠️ Breaking Changes", "labels": ["⚠️ breaking-change", "breaking"] }
+  ],
+  "ignore_labels": ["skip-changelog"],
+  "sort": { "order": "ASC", "on_property": "mergedAt" },
+  "template": "#{{CHANGELOG}}\n\n---\n\n**Full Changelog**: #{{RELEASE_DIFF}}\n",
+  "pr_template": "- #{{TITLE}} ([##{{NUMBER}}](#{{URL}})) @#{{AUTHOR}}",
+  "empty_template": "No changes in this release.",
+  "tag_resolver": { "method": "semver" },
+  "base_branches": ["main"]
+}
