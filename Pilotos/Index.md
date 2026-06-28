@@ -1,56 +1,147 @@
-# 📂 Pilots — Pruebas piloto y validación en campo
+```
+date: 2026-06-28
+author: Adrian — Responsable de Pilotos
+version: v1.1
+status: borrador
+area: pilots
+summary: Índice operativo para Pilots; estructura por fases, frontmatter obligatorio, convenciones de nombres y buenas prácticas simplificadas para ejecutar pilotos reproducibles y trazables.
+linked_issues: []
+linked_prs: []
+```
 
-## 🎯 Propósito
-Proveer un espacio controlado para diseñar, ejecutar y evaluar **pruebas piloto** que validen cambios operativos, recetas, layouts o iniciativas antes de su escalado.  
-La carpeta centraliza protocolos de piloto, resultados, análisis y recomendaciones para tomar decisiones basadas en evidencia.
+# Pilots
 
----
-
-## 📑 Estructura y contenido
-- **`design/`** → Documentos de diseño del piloto: objetivos, hipótesis, alcance, criterios de éxito.  
-- **`execution/`** → Registros de ejecución: cronogramas, listas de control, logs de incidencias y observaciones de campo.  
-- **`data/`** → Datos recolectados durante el piloto (raw y procesados): cronometrajes, ventas, encuestas, fotos de evidencia.  
-- **`analysis/`** → Análisis cuantitativo y cualitativo: tablas, gráficos, conclusiones y recomendaciones.  
-- **`reports/`** → Informe final del piloto con decisión: aprobado para escalar / ajustar y re-pilotar / descartado.  
-- **`templates/`** → Plantillas para diseño, checklist de ejecución, formatos de recolección y reporte final.
-
----
-
-## 🧭 Flujo recomendado
-1. **Diseño**: documentar hipótesis, métricas y criterios de éxito en `design/`.  
-2. **Aprobación**: someter diseño al panel de gobernanza si aplica.  
-3. **Ejecución**: usar `execution/` para registrar cada corrida del piloto; mantener `data/` sincronizada.  
-4. **Análisis**: consolidar y limpiar datos en `data/`, luego analizar en `analysis/`.  
-5. **Decisión**: generar informe en `reports/` con recomendación clara y acciones siguientes.  
-6. **Cierre**: si se aprueba el escalado, actualizar SOPs y Estándares; si no, documentar lecciones aprendidas.
+## Propósito
+Proveer un espacio controlado para diseñar, ejecutar, analizar y decidir sobre pruebas piloto antes de su escalado. Garantizar **reproducibilidad**, **trazabilidad** y **evidencia** para la toma de decisiones.
 
 ---
 
-## ✅ Criterios mínimos para un piloto reproducible
-- **Hipótesis clara**: qué se prueba y por qué.  
-- **Métricas definidas**: KPIs primarios y secundarios, método de medición y frecuencia.  
-- **Duración y tamaño**: periodo del piloto y muestra mínima necesaria.  
-- **Plan de recolección**: formatos y responsables por dato.  
-- **Criterios de éxito**: umbrales cuantitativos y condiciones cualitativas.  
-- **Registro de cambios**: versión del piloto y cambios durante la ejecución.
+## Estructura recomendada (decisión: usar subcarpetas)
+- **`design/`** — Diseño del piloto: hipótesis, objetivos, criterios de éxito y plan de recolección.  
+- **`execution/`** — Registros de ejecución: cronogramas, checklists, incidencias, fotos y datos crudos (`execution/data/raw/`).  
+- **`analysis/`** — Datos procesados, scripts/notebooks, gráficos y conclusiones (`analysis/code/`, `analysis/exports/`).  
+- **`decision/`** — Informe de recomendación: aprobado / ajustar y re-pilotar / descartado.  
+- **`closure/`** — Documentación de cierre: lecciones aprendidas y transferencia a SOPs.  
+- **`templates/`** — Plantillas para cada fase (usar `Estándares/templates/` como fuente única).  
+- **`changelog.md`** — Registro de cambios y versiones del piloto.  
+- **`assets/`** — Imágenes y multimedia optimizados relacionados al piloto.
 
 ---
 
-## 🔗 Relación con otras carpetas
-- **Estándares/** → plantillas y protocolos que guían diseño y recolección.  
-- **Metrics/** → KPIs usados para evaluar resultados y alimentar dashboards.  
-- **Governance/** → aprobación de pilotos que afectan procesos críticos.  
-- **Lessons-Learned/** → aprendizajes que surjan y recomendaciones para SOPs.  
-- **Reports/** → informes ejecutivos y presentaciones para stakeholders.
+## Convención de nombres
+**Formato recomendado**  
+```text
+YYYY-MM-DD_fase_pilot_area_tema_vN.ext
+Ejemplo: 2026-07-01_design_pilot_cocina_tiempo-armado_v1.md
+```
 
 ---
 
-## 📬 Contacto y responsabilidades
-- **Responsable de pilotos**: Coordinador de Pilotos (ver `Governance/roles-responsabilidades.md`).  
-- **Analista de datos**: persona encargada de consolidar `data/` y generar `analysis/`.  
-- **Escalamiento**: Panel de validación → ver `Governance/panel-validacion.md`.  
+# Pilots
+
+## Propósito
+Proveer un espacio controlado para diseñar, ejecutar, analizar y decidir sobre pruebas piloto antes de su escalado. Garantizar **reproducibilidad**, **trazabilidad** y **evidencia** para la toma de decisiones.
 
 ---
 
-👉 En este caso, **sí se usan subcarpetas** porque cada fase genera varios archivos y requiere trazabilidad modular.  
-Si el piloto fuera muy simple (1–2 documentos), se podrían dejar directamente en `Pilots/`, pero para tu repo consultivo lo más robusto es mantener la estructura por fases.  
+## Estructura recomendada (decisión: usar subcarpetas)
+- **`design/`** — Diseño del piloto: hipótesis, objetivos, criterios de éxito y plan de recolección.  
+- **`execution/`** — Registros de ejecución: cronogramas, checklists, incidencias, fotos y datos crudos (`execution/data/raw/`).  
+- **`analysis/`** — Datos procesados, scripts/notebooks, gráficos y conclusiones (`analysis/code/`, `analysis/exports/`).  
+- **`decision/`** — Informe de recomendación: aprobado / ajustar y re-pilotar / descartado.  
+- **`closure/`** — Documentación de cierre: lecciones aprendidas y transferencia a SOPs.  
+- **`templates/`** — Plantillas para cada fase (usar `Estándares/templates/` como fuente única).  
+- **`changelog.md`** — Registro de cambios y versiones del piloto.  
+- **`assets/`** — Imágenes y multimedia optimizados relacionados al piloto.
+
+---
+
+## Convención de nombres
+**Formato recomendado**  
+```text
+YYYY-MM-DD_fase_pilot_area_tema_vN.ext
+Ejemplo: 2026-07-01_design_pilot_cocina_tiempo-armado_v1.md
+```
+**Campos clave**: fecha; fase (design/execution/analysis/decision/closure); `pilot` literal; área; tema; versión `vN`.
+
+---
+
+## Frontmatter obligatorio (mínimo)
+Todos los `.md` en `Pilots/` y subcarpetas deben incluir frontmatter YAML.
+
+```yaml
+date: YYYY-MM-DD
+author: Nombre — Rol
+version: v1.0
+status: borrador / en-ejecucion / final / aprobado
+area: cocina / barra / servicio / delivery / producto
+pilot_id: PIL-YYYYMMDD-01
+phase: design / execution / analysis / decision / closure
+summary: Hipótesis y objetivo del piloto
+metrics: ["KPI-YYYYMMDD-01"]
+linked_issues: []
+linked_prs: []
+```
+
+Campos opcionales recomendados: `sample_size`, `duration_days`, `responsible`, `source_files`.
+
+---
+
+## Plantillas mínimas por fase
+- **Design**: `title`, `pilot_id`, `hypothesis`, `objectives`, `success_criteria`, `metrics`, `sample_size`, `duration`, `data_plan`, `risks`.  
+- **Execution**: `run_id`, `date`, `checklist`, `incidents`, `data_files` (referenciados en frontmatter).  
+- **Analysis**: `data_sources`, `transformations`, `kpi_results`, `visuals`, `conclusions`.  
+- **Decision**: `summary_executive`, `result_vs_criteria`, `recommendation`, `next_steps`.  
+- **Closure**: `lessons_learned`, `sop_changes`, `handover_items`.
+
+---
+
+## Flujo operativo recomendado (resumido)
+1. **Diseñar** en `design/` con hipótesis, KPIs y plan de datos.  
+2. **Aprobar** el diseño vía issue/PR y registrar `linked_issues`/`linked_prs`.  
+3. **Ejecutar** y guardar datos crudos en `execution/data/raw/`; registrar incidencias.  
+4. **Analizar** en `analysis/` con scripts reproducibles; documentar resultados.  
+5. **Decidir** en `decision/` con recomendación clara.  
+6. **Cerrar** en `closure/` con lecciones y actualización de SOPs si aplica.
+
+---
+
+## Buenas prácticas operativas (fáciles de entender)
+1. **Identifica**: define claramente la hipótesis y los KPIs antes de empezar.  
+2. **Registra**: guarda todos los datos crudos y fotos; no los modifiques.  
+3. **Documenta**: anota cambios, incidencias y versiones en cada fase.  
+4. **Reproduce**: incluye los scripts y pasos para que otro pueda repetir el análisis.  
+5. **Decide con evidencia**: compara resultados contra los criterios de éxito y escribe la recomendación.  
+6. **Cierra y transfiere**: si se aprueba, actualiza los SOPs; si no, documenta lecciones.
+
+---
+
+## Ejemplos de nombres de archivo por fase
+- `design/2026-07-01_design_pilot_cocina_tiempo-armado_v1.md`  
+- `execution/2026-07-05_ejecucion_pilot_cocina_tiempo-armado_run1_v1.md`  
+- `analysis/2026-07-12_analisis_pilot_cocina_tiempo-armado_v1.md`  
+- `decision/2026-07-15_decision_pilot_cocina_tiempo-armado_recomendacion_v1.md`  
+- `closure/2026-07-20_cierre_pilot_cocina_tiempo-armado_lecciones_v1.md`
+
+---
+
+## Trazabilidad y control de versiones
+- Usa `pilot_id` en todos los archivos relacionados.  
+- Incrementa `vN` cuando cambie el diseño o la metodología.  
+- Mantén `changelog.md` actualizado con motivos de cambio.
+
+---
+
+## Privacidad y datos
+- **No subir PII** sin anonimizar.  
+- Si los datos contienen información sensible, enmascara antes de commitear y documenta el método de anonimización.
+
+---
+
+## Roles y contacto
+- **Responsable de pilotos** — coordina diseño, ejecución y cierre.  
+- **Analista de datos** — procesa `execution/data/raw/` y genera `analysis/`.  
+- **Panel de validación** — aprueba pilotos que impactan procesos críticos (ver `Governance/panel-validacion.md`).  
+- **Soporte técnico** — mantiene hooks, CI y despliegue a GitHub Pages.
+
+---
